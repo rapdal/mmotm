@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^divinesouls\.tm$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.divinesouls\.tm$
+RewriteRule ^/?$ "http\:\/\/divinesouls\.mmo\.tm\/" [R=301,L]
+

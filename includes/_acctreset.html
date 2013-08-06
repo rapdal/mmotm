@@ -1,23 +1,23 @@
 <html>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
+<head>
+	
 
-		<title>Account Reset</title>
+		<title>RESET REQUEST VERIFIED</title>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 	
 	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
     <link rel="stylesheet" href="../css/bootstrap.css" />
     <link href="../css/styles.css?ver=1.06" rel="stylesheet" type="text/css" media="all" />
     <link href="/css/thickbox.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Gudea" />
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Russo+One" />
-    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Univers+45+Light" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Univers" />
     <script src="../js/jquery-1.9.1.min.js" type="text/javascript"></script>
     <script src="../js/general.js?ver=1.02" type="text/javascript"></script>
-
 	</head>
-
 	<body class="body03">
 
 		<div id="container03">
@@ -50,7 +50,10 @@
 
 			<div id="input02">
 
-				<input type="email" placeholder="Email" id="pass" required/> <input type="submit" value=" " name="submit" id="submit01">
+				<form class="form-inline" action="<?php $_SERVER['PHP_SELF'] ?>" method="POST">
+	                <input type="email" class="input-large" name="email" id="pass" placeholder="Email" />
+	                <button type="submit" name="startAccountReset" id="submit01"></button>
+	            </form>
 
 			</div><!--end input-->
 
@@ -75,7 +78,3 @@
 			</div><!--end footer-->
 		
 		</div><!--end container-->
-
-	</body>
-
-</html>

@@ -1,0 +1,6 @@
+[13-Apr-2013 06:55:37 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anytv/public_html/divinesouls.tm/launcher/left-box.php on line 29
+[13-Apr-2013 07:02:25 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/anytv/public_html/divinesouls.tm/launcher/left-box.php on line 31
+[13-Apr-2013 07:02:38 UTC] PHP Parse error:  syntax error, unexpected T_IF in /home/anytv/public_html/divinesouls.tm/launcher/left-box.php on line 31
+[22-May-2013 18:18:58 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/anytv/public_html/divinesouls.tm/launcher/left-box.php on line 22
+[22-May-2013 18:22:30 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/anytv/public_html/divinesouls.tm/launcher/left-box.php on line 22
+[22-May-2013 18:30:08 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/anytv/public_html/divinesouls.tm/launcher/left-box.php on line 22

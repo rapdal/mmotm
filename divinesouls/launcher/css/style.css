@@ -1,0 +1,107 @@
+body {
+	background-color: #444;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.wrapper {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 309px;
+	height: 115px;
+	overflow: hidden;
+}
+
+img.banner {
+	padding: 0px;
+	width: 303px;
+}
+
+.dsLogin {
+	color: white;
+	font-weight: 
+}
+
+.userInfoHeader {
+	
+}
+
+.button {
+	float: left;
+	margin-top: 0px;
+	margin-left: 2px;
+}
+	#beginner-guide {
+		background-image: url('../img/Regbutt.png');
+		width: 151px;
+		height: 55px;
+	}
+
+	/* #beginner-guide:hover {
+		float: left;
+		background-image: url('../img/divinesoul_luncher_BG_02.bmp');
+		width: 151px;
+		height: 55px;
+	} */
+
+	/* #beginner-guide:active {
+		float: left;
+		background-image: url('../img/divinesoul_luncher_BG_03.bmp');
+		width: 151px;
+		height: 55px;
+	} */
+
+	#community {
+		background-image: url('../img/Forumsbutt.png');
+		width: 151px;
+		height: 55px;
+	}
+
+	/* #community:hover {
+		float: left;
+		background-image: url('../img/divinesoul_luncher_COM_02.bmp');
+		width: 151px;
+		height: 55px;
+	} */
+
+	/* #community:active {
+		float: left;
+		background-image: url('../img/divinesoul_luncher_COM_03.bmp');
+		width: 155px;
+		height: 55px;
+	} */
+
+.news-wrapper {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	width: 332px;
+	height: 55px;
+	margin: 2px;
+	background-color: #eee;
+	font-family: 'Gudea', sans-serif;
+	overflow: hidden;
+}
+
+	#story {
+		position: relative;
+		float: left;
+		left: 1px;
+		top: 1px;
+		font-weight: bold;
+	}
+
+	#story-dtg {
+		position: relative;
+		left: 5px;
+		top: 1px;
+		font-size: 65%;
+	}
+
+	#story-content {
+		position: relative;
+		left: 5px;
+		top: -18px;
+		font-size: 80%;
+	}
