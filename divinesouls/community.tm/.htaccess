@@ -1,0 +1,9 @@
+Options +FollowSymLinks
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www\.divinesouls\.tm$
+
+# Commented: works without it
+#RewriteBase /community.tm
+
+RewriteRule (.*) http://www.community.tm/$1 [R=301,L]

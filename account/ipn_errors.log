@@ -1,0 +1,47 @@
+[18-Jul-2013 08:16:12 UTC] Invalid HTTP request method.
+[18-Jul-2013 08:25:18 UTC] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/anytv/public_html/staging.mmo.tm/account/cert/api_cert_chain.crt
+  CApath: none
+
+[18-Jul-2013 08:28:47 UTC] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/anytv/public_html/staging.mmo.tm/account/cert/api_cert_chain.crt
+  CApath: none
+
+[18-Jul-2013 08:32:34 UTC] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/anytv/public_html/staging.mmo.tm/account/cert/api_cert_chain.crt
+  CApath: none
+
+[18-Jul-2013 08:32:46 UTC] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/anytv/public_html/staging.mmo.tm/account/cert/api_cert_chain.crt
+  CApath: none
+
+[18-Jul-2013 08:52:12 UTC] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/anytv/public_html/staging.mmo.tm/account/cert/api_cert_chain.crt
+  CApath: none
+
+[18-Jul-2013 09:18:20 UTC] Invalid HTTP request method.
+[18-Jul-2013 09:18:20 UTC] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/anytv/public_html/staging.mmo.tm/account/cert/api_cert_chain.crt
+  CApath: none
+
+[18-Jul-2013 09:20:11 UTC] cURL error: [77] error setting certificate verify locations:
+  CAfile: /home/anytv/public_html/staging.mmo.tm/account/cert/api_cert_chain.crt
+  CApath: none
+
+[18-Jul-2013 09:37:56 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 101
+[18-Jul-2013 09:37:56 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 101
+[18-Jul-2013 09:37:56 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 102
+[18-Jul-2013 09:37:56 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 102
+[18-Jul-2013 09:37:56 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 103
+[18-Jul-2013 09:37:56 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 103
+[18-Jul-2013 09:46:00 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 101
+[18-Jul-2013 09:46:00 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 101
+[18-Jul-2013 09:46:00 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 102
+[18-Jul-2013 09:46:00 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 102
+[18-Jul-2013 09:46:00 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 103
+[18-Jul-2013 09:46:00 UTC] PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /home/anytv/public_html/staging.mmo.tm/account/ipn.php on line 103
+[30-Jul-2013 10:56:43 Europe/Berlin] Invalid HTTP request method.
+[30-Jul-2013 11:02:40 Europe/Berlin] Invalid HTTP request method.
+[30-Jul-2013 11:02:41 Europe/Berlin] Invalid HTTP request method.
+[30-Jul-2013 11:02:41 Europe/Berlin] Invalid HTTP request method.
+[30-Jul-2013 11:02:41 Europe/Berlin] Invalid HTTP request method.

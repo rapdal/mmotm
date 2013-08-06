@@ -1,0 +1,16 @@
+[08-Apr-2013 16:41:20 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 3
+[08-Apr-2013 16:43:50 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 3
+[08-Apr-2013 16:43:52 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 3
+[08-Apr-2013 16:43:53 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 3
+[08-Apr-2013 16:43:54 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 3
+[08-Apr-2013 16:44:26 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 4
+[08-Apr-2013 16:44:43 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 4
+[08-Apr-2013 16:44:45 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 4
+[08-Apr-2013 16:44:50 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 4
+[08-Apr-2013 16:44:52 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 5
+[08-Apr-2013 16:45:35 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 5
+[08-Apr-2013 16:45:37 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 5
+[08-Apr-2013 16:45:41 UTC] PHP Fatal error:  Call to undefined function getEnvVar() in /home/anytv/public_html/divinesouls.tm/forum/library/config.php on line 5
+[30-May-2013 00:26:13 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/anytv/public_html/divinesouls.tm/forum/index.php on line 9
+[30-May-2013 00:26:13 UTC] PHP Warning:  include(http://divinesouls.mmo.tm/includes/_menu.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/anytv/public_html/divinesouls.tm/forum/index.php on line 9
+[30-May-2013 00:26:13 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://divinesouls.mmo.tm/includes/_menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/anytv/public_html/divinesouls.tm/forum/index.php on line 9
