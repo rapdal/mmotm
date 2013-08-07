@@ -129,9 +129,9 @@ if(!isset($_SESSION['error'])){
 	
 		<?php	if(!isset($_SESSION['userORM'])) { ?>
 			
-			<a id="accessin" href="/mmo.tm/divinesouls/signup.php"><img src="images/sign-up2.png"/></a>
+			<a id="accessin" href="/mmo.tm/divinesouls/signup.php"><img style="border-radius: 3px; margin-right: 2px;" src="images/sign-up2.png"/></a>
 			<span style="width: 50px; background-color: green;"></span>
-			<a href="#login-box" id="accessinlog" class="login-window"><img src="images/login2.png"/></a>
+			<a href="#login-box" id="accessinlog" class="login-window"><img style="border-radius: 3px"src="images/login2.png"/></a>
 			
 		<?php	} else { ?>
 		
@@ -169,8 +169,8 @@ if(!isset($_SESSION['error'])){
 			<span>Password</span>
 			<input type="password" required="required" id="inputPassword" name="password" placeholder="Password" />
 			</label>
-
-			<button class="submit button" type="submit" name="login">Sign in</button>
+			
+			<button style="margin: 0;" class="submit button" type="submit" name="login">Sign in</button>
 			</fieldset>
 		</form>
 		<span style="color: white;font-weight: normal;font-size: 15px;">Forgot Password? Click <a href="/mmo.tm/home/forgot-password.php" id="click_here">here!</a></span>
