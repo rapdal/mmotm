@@ -321,8 +321,8 @@ if(!isset($_SESSION['userORM'])){
 		<div id="seek" >
 			<span id="scout1" >
 				<form action="http://www.mmo.tm/account/account.php?view=1" method="#" >
-					<input id="submitmgmt2" type="submit" value="" name="submit" />
 					<input id="submitmgmtsearch" type="text" placeholder="Search" id="pass" required/>
+					<input id="submitmgmt2" type="submit" value="" name="submit" />
 				</form>
 			</span>
 		</div>
@@ -333,8 +333,8 @@ if(!isset($_SESSION['userORM'])){
 				<nav>
 					<div class="nav_2"><img src="images/my-account-icon.png"/></div>
 
-					<div class="nav_1"><a style="margin-right: 50px;" href="/mmo.tm/account/account.php?view=4">Summary</a>
-						<div class="btn-group dropdown">
+					<div class="nav_1" style="width: 95px;"><a style="margin-right: 50px;" href="/mmo.tm/account/account.php?view=4">Summary</a></div>
+					<div id="nav_1" class="btn-group dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
 								
 								<span class="userInfoHeader">Settings</span>
@@ -344,11 +344,30 @@ if(!isset($_SESSION['userORM'])){
 								<li><a href="/mmo.tm/account/management/settings/account-reset.php">Account Reset</a></li>
 								<li><a href="/mmo.tm/account/management/settings/password-reset.php">Password Reset</a></li>
 							</ul>
-						</div>
+					</div>
+					<div id="nav_1" class="btn-group dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+								
+								<span class="userInfoHeader">Games & Codes</span>
+								<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+								<li><a href="/mmo.tm/account/addgamekey.php?view=4">Add a game key</a></li>
+								<li><a href="/mmo.tm/account/downloadgameclient.php?view=4">Download game clients</a></li>
+							</ul>
 					</div>
 
-					<div class="nav_1"><a href="" style ="color: rgb(139, 141, 143);">Games & Codes</a></div>
-					<div class="nav_1"><a href="" style ="color: rgb(139, 141, 143);">Transaction History</a></div>
+					<div id="nav_1" class="btn-group dropdown">
+							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+								
+								<span class="userInfoHeader">Transaction History</span>
+								<span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+								<li><a href="/mmo.tm/account/orderhistory.php?view=4">Order History</a></li>
+								<li><a href="/mmo.tm/account/balancehistory.php?view=4">Balance History</a></li>
+							</ul>
+					</div>
 					<div id="account_balance">
 						<span>
 							<b id="cur_balance"><?php echo $mmoPointBalance; ?></b>
@@ -421,7 +440,7 @@ if(!isset($_SESSION['userORM'])){
 		</div>
 		</div>
 		
-		<!--$Ren-->
+		
 		<div class="content-wrap" style="margin-top:70px;">
 		<div id="pre_footer">
 			<div id="supplinks"><p>Support</p>
@@ -432,14 +451,12 @@ if(!isset($_SESSION['userORM'])){
 				<p id="cantlog"><a href="mailto:sheldon@any.tv?Subject=Can't%20Login" target="_top">Can't log in?</a><br/>
 				<a href="../divinesouls/signup.php">Create Account</a><br/>
 				<a href="../account/account.php?view=1">Account Summary</a><br/>
-				<!--<a href="#">Add a Game</a><br/>
-				<a href="#">Redeem Promo Codes</a><br/></p>
-				-->
+			
 			</div>
 		</div>
 		</div>
 
-		<!--end $Ren-->
+		
 		<div class="content-wrap">
 		<div id="footer">
 			<div id="amanytv">

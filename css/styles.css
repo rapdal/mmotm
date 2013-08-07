@@ -392,7 +392,7 @@
 		color:#58595B;
 		font-size: 12px;
 		font-family: 'Univers', serif;
-		padding: 25px 10px;
+		padding: 40px 10px;
 		/* background: url(gfx/footer-sep.png) no-repeat center top; */
 	}
 	#footer img {
@@ -577,6 +577,13 @@
 	.nav_1 {
 		float: left;
 		margin-left: 53px;
+		display: inline;
+		margin-top: 10px;
+	}
+
+	#nav_1 {
+		float: left;
+		margin-left: 38px;
 		display: inline;
 		margin-top: 10px;
 	}
@@ -1151,12 +1158,12 @@
 
 	#submitmgmt2 {
 		float: left;
-		background: url(../account/images/magnifyicon.png) no-repeat scroll transparent right;
+		background: url(../account/images/magnifyicon2.png) no-repeat scroll transparent right;
 		border-radius: 4px;
-		border-top-right-radius: 0px;
-		border-bottom-right-radius: 0px;
-		height: 24px;
-		width: 30px;
+		border-top-left-radius: 0px;
+		border-bottom-left-radius: 0px;
+		height: 34px;
+		width: 34px;
 	}
 
 	#submitform{
@@ -1165,8 +1172,8 @@
 
 	#submitmgmtsearch {
 		height: 24px;
-		border-bottom-left-radius: 0px;
-		border-top-left-radius: 0px;
+		border-bottom-right-radius: 0px;
+		border-top-right-radius: 0px;
 		width: 260px;
 		float: left;
 	}
@@ -1175,7 +1182,7 @@
 		float: right;
 		height: 40px;
 		display: inline;
-		margin-right: 50px;
+		margin-right: 57px;
 	}
 
 	#scout2{
@@ -1205,7 +1212,7 @@
 	#exec{
 		float: right;
 		display: inline-block;
-		margin-right: 125px; 
+		margin-right: 60px; 
 	}
 
 	#halfway {
@@ -1562,6 +1569,255 @@
 	#reset_table3{
 		margin-left: -60px;
 		width: 450px;
+	}
+
+	/* afro custom bootstrap*/
+
+	.btn-group {
+		text-align: left;
+	}
+
+	/* afro additional css patch 2.1 */
+
+	#addgamekey-wrapper , #downloadgame-wrapper, #ordergame-wrapper {
+		margin: 40px 0px 0px 70px;
+		text-align: left;
+		width: 85%;
+	}
+	
+	#addgamekey, #ordergame , #downloadgame h1 {
+		color: #393939;
+	}
+
+	#addgamekey #ordergame span , #downloadgame , #downloadgame-header h5 span {
+		color: #8b8d8f;
+	}
+
+	#addgamekey, #ordergame , #downloadgame #downloadgame-header hr {
+		width: 950px;
+	}
+
+	#addgamekey, #ordergame , #downloadgame span {
+		font-size: 13px;
+	}
+
+	#gamekeybox {
+		text-align: left;
+		border-radius: 8px;
+		margin: 30px auto 30px;
+		width: 420px;
+		min-height: 140px;
+		background: #e0dfdd;
+		padding: 15px 15px 0px 15px;
+		-moz-box-shadow: 0 0 5px 2px #888;
+		-webkit-box-shadow: 0 0 5px 2px #888;
+		box-shadow: 0 0 5px 2px #888;
+	}
+
+	#gamekeybox p {
+		padding: 10px;
+		font-weight: bold;
+	}
+
+	#gamekeybox input {
+		width: 386px;
+		margin-left: 10px;
+		box-shadow: 0 0 20px -1px #888;
+	}
+
+	#gamekeybox .btn {
+		margin: 8px 0px 0px 10px;
+		font-family: 'Gudea', serif;
+	}
+
+	#gamekeyhelp {
+		float: left;
+		overflow: hidden;
+	}
+
+	#gamekeyhelp h1 {
+		color: #393939;
+	}
+	#gamekeyhelp span {
+		font-size: 13px;
+	}
+
+	#gamekeyhelp li {
+		cursor: pointer;
+	}
+
+	#downloadgame , #downloadgame-header span {
+		color: #8b8d8f;
+		font-size: 13px;
+	}
+	#downloadgame-filter {
+		margin-top: 5px;
+		font-size: 13px;
+	}
+
+	#downloadgame-header {
+		overflow: hidden;
+		position: relative;
+		margin-top: 25px;
+		padding: 0 0 0 56px;
+		border-bottom: 1px solid #b2b0af;
+	}
+
+	#downloadgame-header img {
+		float: left;
+		border-right: 1px solid #b2b0af;
+		width: 48px;
+		height: 48px;
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	#downloadgame-body table {
+		width: 99%;
+		padding: 0;
+		margin: 1em 0 3em 0.5em;
+		border-collapse: collapse;
+		font-size: 11px;
+		background: #e0dfdd;
+		-moz-box-shadow: 0 0 5px 2px #888;
+		-webkit-box-shadow: 0 0 5px 2px #888;
+		box-shadow: 0 0 5px 2px #888;
+		border-radius: 3px;
+		position: relative;
+	}
+
+	#downloadgame-body table:hover {
+		background: #D4D7FE;
+	}
+
+	.gamekey-mail {
+		font-size: 11px;
+		float: left;
+		padding: 12px 0px 0px 9px;
+
+	}
+
+	.gamedl-padding {
+		padding: 22px 0px 22px 65px;
+		width: 70%;
+	}
+
+	.gameclient-icon {
+		padding: 19px 0px 0px 15px;
+		position: absolute;
+		top: 0;
+		left: 0;
+	}
+
+	.language-selection {
+		float: left;
+	}
+
+	.region {
+		color: #8d8d8f;
+	}
+
+	.language {
+		color: #393939;
+	}
+
+	.region-selector a:active {
+			color: #fff;
+			background: #565c67;
+			text-decoration: none;
+	}
+
+	.region-select-div {
+		padding: 8px;
+		background: #bfbfbe;
+		position: relative;
+		zoom: 1;
+	}
+
+	.region-select-div-hide{
+		display: block;
+	}
+
+	.region-select-div-show{
+		display: none;
+		margin-top: 22px;
+		padding: 5px 5px 5px 5px;
+
+	}
+
+	.region-select-div-show p {
+		padding: 3px;
+	}
+
+	#divinesouls-full {
+		background: #bfbfbe;
+		border-radius: 3px;
+		font-weight: normal;
+	}
+	.save {
+		position: absolute;
+		top: 62px;
+		right: 310px;
+		text-align: right;
+	}
+
+	.gamedl-link {
+		text-align: center;
+		width: 15%;
+	}
+
+	.dl-icon {
+		width: 32px;
+		height: 32px;
+		margin-bottom: -12px;
+	}
+
+	.dl-icon img {
+		margin-top: 10px;
+	}
+
+	#order-header {
+		position: relative;
+	}
+
+	#order-area {
+		width: 92.5%;
+		position: relative;
+		margin-top: 10px;
+	}
+
+	#order-area label {
+		float: right;
+		margin: 5px 5px 0px 0px;
+	}
+
+	#ordergame h1 {
+		margin-bottom: 10px;
+	}
+
+	#order-area .btn-group {
+		float: right;
+		margin-bottom: 10px;
+	}
+
+	.input-group {
+		float: left;
+		width: 81%;
+	}
+
+	.input-group span {
+		float: left;
+		margin: 6px 5px 0px 0px;
+	}
+
+	.input-group .form-inline {
+		float: left;
+		width: 64%;
+	}
+
+	.form-inline .form-control {
+		width: 23%;
 	}
 	#click_here{
 		color:white;

@@ -7,8 +7,8 @@ include("../includes/_header.php");
 		<div id="seek" >
 			<span id="scout1" >
 				<form action="http://localhost/mmo.tm/account/account.php?view=1" method="#" >
-					<input id="submitmgmt2" type="submit" value="" name="submit" />
 					<input id="submitmgmtsearch" type="text" placeholder="Search" id="pass" required/>
+					<input id="submitmgmt2" type="submit" value="" name="submit" />
 				</form>
 			</span>
 		</div>
@@ -17,8 +17,8 @@ include("../includes/_header.php");
 			<div id="exec">
 				<table id="desk" border="0" cellspacing="1px">
 					<tr>
-						<th rowspan="2"><img src="../css/gfx/manage-my-game.png"></th>
-						<td id="mng_game" style="font-family: 'Russo One';>
+						<th style="padding: 4px 5px 0px 5px;" rowspan="2"><img style="height: 31px;" src="../css/gfx/manage-my-game.png"></th>
+						<td id="mng_game" style="font-family: 'Russo One'; text-align: left;>
 						<font-size: 14px; color:#c93a2a;font-weight:0%;">Manage my game</font>
 						</td>
 					</tr>
@@ -41,19 +41,17 @@ include("../includes/_header.php");
 			</span>
 		</div>
 		
-		<div class="content-wrap" style="margin-top:85px;">
+		<div class="content-wrap" style="margin-top:70px;">
 		<div id="pre_footer">
 			<div id="supplinks"><p>Support</p>
-				<p id="cantlog"><a href="http://www.mmo.tm/divinesouls/forum">Forum Support</a><br/>
+				<p id="cantlog"><a href="../divinesouls/forum/index.php">Forum Support</a><br/>
 				<a href="mailto:sheldon@any.tv?Subject=Help" target="_top">Help!</a><br/>
 			</div>
 			<div id="acchead"></p>Account</p>
 				<p id="cantlog"><a href="mailto:sheldon@any.tv?Subject=Can't%20Login" target="_top">Can't log in?</a><br/>
-				<a href="http://www.mmo.tm/divinesouls/signup.php">Create Account</a><br/>
-				<a href="http://www.mmo.tm/account/account.php?view=1">Account Summary</a><br/>
-				<!--<a href="#">Add a Game</a><br/>
-				<a href="#">Redeem Promo Codes</a><br/></p>
-				-->
+				<a href="../divinesouls/signup.php">Create Account</a><br/>
+				<a href="../account/account.php?view=1">Account Summary</a><br/>
+				
 			</div>
 		</div>
 		</div>

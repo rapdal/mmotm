@@ -153,7 +153,7 @@ if(!isset($_SESSION['userORM'])){
 
 			<div id="continue03">
 				<p id="cont03">continue to</p>
-				<a href="http://www.mmo.tm/divinesouls" title="Divine Souls" id="dslogo">Divine Souls</a>
+				<a href="/mmo.tm/divinesouls/" title="Divine Souls" id="dslogo">Divine Souls</a>
 			</div><!--end continue-->
 			<div id="anytv">
 				part of the <a href="http://www.any.tv" title="any.TV" id="anytvlogo">any.TV</a> family

@@ -15,8 +15,7 @@
             <div class="two-col self-clear">
                 <div class="col-1">
                     <div class="boxleft-top"></div>
-                    <div class="boxleft-mid">
-
+                    <div class="boxleft-mid" style="margin-top: -6px;">
                         <div class="self-clear" id="updates">
 							<div class="media-box">
 								<h2>Gallery</h2>
