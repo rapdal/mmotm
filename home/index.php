@@ -6,10 +6,10 @@ include("../includes/_header.php");
 		<?php include("../includes/_menu.php"); ?>
 		<div id="seek" >
 			<span id="scout1" >
-				<form action="http://localhost/mmo.tm/account/account.php?view=1" method="#" >
+				<!--<form action="http://mmo.tm/account/account.php?view=1" method="#" >
 					<input id="submitmgmtsearch" type="text" placeholder="Search" id="pass" required/>
 					<input id="submitmgmt2" type="submit" value="" name="submit" />
-				</form>
+				</form>-->
 			</span>
 		</div>
 		
@@ -23,7 +23,7 @@ include("../includes/_header.php");
 						</td>
 					</tr>
 					<tr>
-						<td><a href="http://localhost/mmo.tm/account/account.php?view=4"> Go to Account Management &#9654; </a>
+						<td><a href="http://mmo.tm/account/account.php"> Go to Account Management &#9654; </a>
 						</td>
 					</tr>
 				</table>
@@ -34,7 +34,7 @@ include("../includes/_header.php");
 				<img src="../images/cominleft.png"/>
 			</span>
 			<span id="hwcenter">
-				<a href="http://localhost/mmo.tm/divinesouls"><img src="../images/cominmid.png"/></a>
+				<a href="http://mmo.tm/divinesouls"><img src="../images/cominmid.png"/></a>
 			</span>
 			<span id="hwright">
 				<img src="../images/cominright.png"/>

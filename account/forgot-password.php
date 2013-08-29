@@ -7,8 +7,8 @@ include("../includes/_header.php");
 		<div id="seek" >
 			<span id="scout1" >
 				<!--<form action="http://mmo.tm/account/account.php?view=1" method="#" >
-					<input id="submitmgmt2" type="submit" value="" name="submit" />
 					<input id="submitmgmtsearch" type="text" placeholder="Search" id="pass" required/>
+					<input id="submitmgmt2" type="submit" value="" name="submit" />
 				</form>-->
 			</span>
 		</div>
@@ -43,11 +43,11 @@ include("../includes/_header.php");
 					$tstamp = date("YmdHms");
 					$sendemail = $username.$tstamp;
 					$sha = sha1($sendemail);
-					$sendemail = "https://mmo.tm/home/reset.php?rid=".$sha;//localhost!!!!!
+					$sendemail = "mmo.tm/home/reset.php?rid=".$sha;
 					$subject = "Password Reset" ;
-					$message = "<div>Click this link to reset password: ".$sendemail."<br><br>Please do not reply to this message</div>";
+					$message = "Click this link to reset password: ".$sendemail;
 					mail($email, $subject,
-						$message, "From:" . "webmaster@mmo.tm");
+						$message, "From:" . "no-reply@mmo.tm");
 
 					$result2 = mysql_query("SELECT * FROM resetpass WHERE email='$username'");
 
@@ -102,7 +102,7 @@ include("../includes/_header.php");
 <div class="content-wrap">
 	<div id="footer">
 		<div id="amanytv">
-			part of the <a href="http://any.tv" title="any.TV" id="amanytvlogo" >any.TV</a> family
+			part of the <a href="http://www.any.tv" title="any.TV" id="amanytvlogo" >any.TV</a> family
 		</div><!--end anytv-->
 		<div id="amfooter">
 			Copyright &copy; 2013 any.TV. All Rights Reserved.					

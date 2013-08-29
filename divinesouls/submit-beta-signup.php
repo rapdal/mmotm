@@ -26,7 +26,7 @@ include '../includes/_header.php';
                     <div>
 
                         <div id="signup-form">
-                            <a href="http://www.download.divinesouls.tm"><img src="images/download.png" alt="Download" /><a>
+                            <a href="http://download.divinesouls.tm"><img src="images/download.png" alt="Download" /><a>
                             <br />
                             
                         </div>

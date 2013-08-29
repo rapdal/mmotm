@@ -13,19 +13,19 @@
     $salt ="";
 
     //register POST into variables
-    $update = $_POST['update'];
-    $account = $_POST['account'];
+    $update = $_GET['update'];
+    $account = $_GET['account'];
 
-    $tempitemID = $_POST['ItemID'];
-    $tempitemcash = $_POST['ItemCash'];
+    $tempitemID = $_GET['Itemid'];
+    $tempitemcash = $_GET['ItemCash'];
     $input_itemID = explode('|', $tempitemID);
     $input_itemCash = explode('|', $tempitemcash);
 
-    $salt = $_POST['salt'];
+    $salt = $_GET['salt'];
 
     //query balance
 
-    if($_POST['action'] == 1) {
+    if($_GET['action'] == 1) {
         $data = mysql_query("SELECT email, mmoPointBalance FROM Users WHERE id='".$account."' && verifyActive='1'") or die(mysql_error());  
         $info = mysql_fetch_array($data);
         echo $info['email'] . ":";
@@ -34,7 +34,7 @@
     }
 
     //update balance
-    if($_POST['action'] == 2) {
+    if($_GET['action'] == 2) {
         $data = mysql_query("SELECT email, mmoPointBalance FROM Users WHERE id='".$account."' && verifyActive='1'") or die(mysql_error());  
         $info = mysql_fetch_array($data);
 
@@ -51,7 +51,7 @@
     }
 
 	// purchase an item
-    if($_POST['action'] == 3) {
+    if($_GET['action'] == 3) {
     
         $x = 0;		// counter for number of items to purchase
         $uID = mysql_query("SELECT * from Users WHERE id = '".$account."'");
@@ -61,11 +61,6 @@
         if(mysql_num_rows($uID)){
 			$UserCash = $row['mmoPointBalance'];
 			
-			foreach($input_itemCash as $itemCash){
-				$ItemSumCash = $ItemSumCash + $itemCash;
-			}
-			
-			/*
 			foreach($input_itemID as $itemID){
 				
 				if($itemID > 0){ // check if item exists
@@ -76,7 +71,7 @@
 					
 					if(mysql_num_rows($checkitem)){ // check if price posted is different from what is in the db
 						if($row1['DiscountCostCash'] > 0){
-							if($row1['DiscountCostCash'] == $input_itemcash[$x]){
+							if($row1['DiscountCostCash'] == $input_itemCash[$x]){
 								$DB_itemprice = $row1['DiscountCostCash'];
 							}
 							else{
@@ -84,7 +79,7 @@
 							}
 						}
 						else{
-							if($row1['BuyCostCash'] == $input_itemcash[$x]){
+							if($row1['BuyCostCash'] == $input_itemCash[$x]){
 								$DB_itemprice = $row1['BuyCostCash'];
 							}
 							else{
@@ -92,7 +87,7 @@
 							}
 						}
 
-						if($DB_itemprice == $input_itemcash[$x]){
+						if($DB_itemprice == $input_itemCash[$x]){
 							$ItemSumCash = $ItemSumCash + $DB_itemprice;
 						}
 						else{
@@ -106,7 +101,7 @@
 			
 				$x++;
 			}
-			*/
+			
 
 			if($UserCash < $ItemSumCash){
 				echo "300";	// lack of balance

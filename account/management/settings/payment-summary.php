@@ -27,13 +27,13 @@ if(!isset($_SESSION['userORM'])){
 
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 
-	<link rel="stylesheet" type="text/css" href="../css/styles.css">
-	<link rel="stylesheet" href="../css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="../../../css/styles.css">
+	<link rel="stylesheet" href="../../../css/bootstrap.min.css" />
 
 	<script src="http://code.jquery.com/jquery.js"></script>
-	<script src="../js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="../js/paypal-button.min.js" type="text/javascript"></script>
-	<script src="../js/general.js?ver=1.02" type="text/javascript"></script>
+	<script src="../../../js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="../../../js/paypal-button.min.js" type="text/javascript"></script>
+	<script src="../../../js/general.js?ver=1.02" type="text/javascript"></script>
 
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Gudea" />
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Russo+One" />
@@ -41,15 +41,17 @@ if(!isset($_SESSION['userORM'])){
 	
 </head>
 
-
 <body>
 	<div class = "body-mgmt">
-		<div id="vessel" style="height: 1072px;">
-			<?php include("../includes/_menu.php"); ?>
-			<?php
-			if(isset($_SESSION['userORM'])){
+	<div id="vessel" style="height: 1072px;">
+		<?php include("../../../includes/_menu.php"); ?>
+		<?php
+		if(isset($_SESSION['userORM'])){
 
-				$username = $_SESSION['userORM'];
+			$username = $_SESSION['userORM'];
+			
+			$amount = $_POST['amount'];
+			$imagelink = $_POST['imagelink'];
 
 			mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
 			mysql_select_db("anytv_divineSoulsUsers") or die(mysql_error()); // Select registration database. 
@@ -70,20 +72,16 @@ if(!isset($_SESSION['userORM'])){
 		?>
 		<div id="seek" >
 			<span id="scout1" >
-				<!--<form action="http://mmo.tm/account/account.php?view=1" method="#" >
-					<input id="submitmgmtsearch" type="text" placeholder="Search" id="pass" required/>
-					<input id="submitmgmt2" type="submit" value="" name="submit" />
-				</form>-->
 			</span>
 		</div>
 
 		<div class="content-wrap" style="margin-top: 130px;">
 			<div class="content">
-
+				
 				<nav>
-					<div class="nav_2"><img src="images/my-account-icon.png"/></div>
+					<div class="nav_2"><img src="../../images/my-account-icon.png"/></div>
 
-					<div class="nav_1" style="width: 95px;"><a style="margin-right: 50px;" href="../account/account.php">Summary</a></div>
+					<div class="nav_1" style="width: 95px;"><a style="margin-right: 50px;" href="../../account.php">Summary</a></div>
 					<div id="nav_1" class="btn-group dropdown">
 						<a class="dropdown-toggle" data-toggle="dropdown" href="#">
 
@@ -91,9 +89,9 @@ if(!isset($_SESSION['userORM'])){
 							<span class="caret"></span>
 						</a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-							<li><a href="../account/management/settings/account-reset.php">Account Reset</a></li>
-							<li><a href="../account/management/settings/password-reset.php">Password Reset</a></li>
-							<li><a href="../account/management/settings/payment-options.php">Payment Options</a></li>
+							<li><a href="../settings/account-reset.php">Account Reset</a></li>
+							<li><a href="../settings/password-reset.php">Password Reset</a></li>
+							<li><a href="../settings/payment-options.php">Payment Options</a></li>
 						</ul>
 					</div>
 					<div id="nav_1" class="btn-group dropdown">
@@ -103,8 +101,8 @@ if(!isset($_SESSION['userORM'])){
 							<span class="caret"></span>
 						</a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-						<li><a href="../account/addgamekey.php">Add a game key</a></li>
-							<li><a href="../account/downloadgameclient.php">Download game clients</a></li>
+							<li><a href="../../addgamekey.php">Add a game key</a></li>
+							<li><a href="../../downloadgameclient.php">Download game clients</a></li>
 						</ul>
 					</div>
 
@@ -115,23 +113,24 @@ if(!isset($_SESSION['userORM'])){
 							<span class="caret"></span>
 						</a>
 						<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-							<li><a href="../account/orderhistory.php">Order History</a></li>
-							<li><a href="../account/balancehistory.php">Balance History</a></li>
+							<li><a href="../../orderhistory.php">Order History</a></li>
+							<li><a href="../../balancehistory.php">Balance History</a></li>
 						</ul>
 					</div>
 					<div id="account_balance">
+
 						<span>
 							<b id="cur_balance"><?php echo $mmoPointBalance; ?></b>
 							&nbsp;mmoPts
 						</span></br>
-						<a href="purchase.php" onclick="
+						<a href="../../purchase.php" onclick="
 						<?php if(!isset($_SESSION['userORM'])){ 
 							echo "alert('You need to be logged in to charge points.');return false;";
 						}else{
 							echo "return true";
 						}?>
 						">
-						<!-- <img src="images/charge.png" id="charge_balance" /> -->
+						<!-- <img src="../../images/charge.png" id="charge_balance" /> -->
 						<button type ="submit" class="btn btn-primary" id="btn-chargepts"><strong>CHARGE POINTS</strong></button>
 					</a>
 				</div>
@@ -140,78 +139,57 @@ if(!isset($_SESSION['userORM'])){
 	</div>
 
 	<div class="content-wrap">
-		<div id="ordergame-wrapper">
-			<div id="ordergame">
-				<span>TRANSACTION HISTORY</span>
-				<h1>Your Order History</h1>
+		<div id="addgamekey-wrapper">
+			<div id="addgamekey">
+				<span>ACCOUNT MANAGEMENT</span>
+				<h1>Purchasing</h1>
 				<hr>
 			</div>
-			<div id="order-header">
-				<div id="order-area">
-					<!-- <div class="btn-group">
-					  <button type="button" class="btn btn-default">America</button>
-					  <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-					    <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu">
-					    <li><a href="#">Asia</a></li>
-					    <li><a href="#">Europe</a></li>
-					    <li><a href="#">Southeast Asia</a></li>
-					    <li><a href="#">India</a></li>
-					  </ul>
+			<div>
+				<div id ="summarybox">
+					<h3>Summary</h3>
+					<img src="../../images/<?php echo $imagelink?>" height="70" width="120" style="margin: 10px 10px 0 0; float:left;">
+					<h4>MMOTM : DivineSouls</h4>
+					<span>You are purchasing MMO points worth <?echo $amount?></span>
+					<a href="http://mmo.tm/account/purchase.php">Edit order</a>
+					<hr>
+					<div class="total-payment">
+						Total:
+						<strong><?php echo $amount?></strong>
 					</div>
-					<label>Area:</label> -->
-					<table class="table table-hover">
-						<tr>
-							<th>ORDER#</th>
-							<th>DATE</th>
-							<th>PRODUCT</th>
-							<th>UNIT PRICE</th>
-							<th>QUANTITY</th>
-							<!-- <th>STATUS</th> -->
-							<th>TOTAL</th>
-						</tr><?php
-						$email1 = $_SESSION['userORM'];
-						$result1 = mysql_query("SELECT * FROM Users WHERE email='$email1'");
-
-						while($row2 = mysql_fetch_array($result1))
-						{
-							$user_email = $row2['id'];
-						}
-
-						$result2 = mysql_query("SELECT * FROM trans_hist WHERE user_id='$user_email' ORDER BY date DESC LIMIT 8");
-
-						while($row1 = mysql_fetch_array($result2))
-						{
-							$x=$row1['qty'];
-							$y=$row1['unit_price'];
-							$z=$x*$y;
-							echo "<tr><td>".$row1['order_num']."</td><td>".$row1['date']."</td><td>".$row1['product']."</td><td>".$row1['unit_price']."</td><td>".$row1['qty']."</td><td>".$z."</td></tr>";
-						}
-
-						?>
-					</table>
+				</div>
+				<div id ="gamekeybox2" style="float: left; margin-top: 50px;">
+					<form method="post" action="../../payment/basicpayment.php">
+						<input type="hidden" name="amount" value="<?php echo $amount?>">
+						<input type="radio" name="paymentMode" value="Paypal" checked="checked">
+						<img src="https://www.paypal.com/en_US/i/logo/PayPal_mark_37x23.gif" style="margin-right:7px; margin-top:2px;"><span style="font-size:11px; font-family: Arial, Verdana; float:none;">The safer, easier way to pay.</span>
+						<br/>
+						<button type="submit" class="btn btn-primary" id="paymodebutton">CONTINUE</button>
+					</form>
 				</div>
 			</div>
-		</div>
+		
 	</div>
 
 
-	<div class="content-wrap" style="top: 880px; position:absolute;">
+	<div class="content-wrap" style="margin-top:220px;">
 		<div id="pre_footer">
 			<div id="supplinks"><p>Support</p>
 				<p id="cantlog"><a href="../divinesouls/forum/index.php">Forum Support</a><br/>
 					<a href="mailto:sheldon@any.tv?Subject=Help" target="_top">Help!</a><br/>
 				</div>
-					<div id="acchead"></p>Account</p>
-						<p id="cantlog"><a href="mailto:sheldon@any.tv?Subject=Can't%20Login" target="_top">Can't log in?</a><br/>
+				<div id="acchead"></p>Account</p>
+					<p id="cantlog"><a href="mailto:sheldon@any.tv?Subject=Can't%20Login" target="_top">Can't log in?</a><br/>
 						<a href="../divinesouls/signup.php">Create Account</a><br/>
 						<a href="../account/account.php?view=1">Account Summary</a><br/>
 
 					</div>
 				</div>
-				<div class="content-wrap">
-				<div id="footer" style="margin-top:3px;">
+			</div>
+
+
+			<div class="content-wrap">
+				<div id="footer">
 					<div id="amanytv">
 						part of the <a href="http://www.any.tv" title="any.TV" id="amanytvlogo" >any.TV</a> family
 					</div><!--end anytv-->
@@ -222,7 +200,6 @@ if(!isset($_SESSION['userORM'])){
 				</div>
 			</div>
 		</div>
-			</div>
 	</div>
 </body>
 

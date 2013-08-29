@@ -14,7 +14,7 @@ if(!isset($_SESSION['userORM'])){
 		$username = $_POST['username'];
 		$password = $_POST['password'];
 
-		mysql_connect("localhost", "root", "") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
+		mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
 		mysql_select_db("anytv_divineSoulsUsers") or die(mysql_error()); // Select registration database. 
 
 		$password = md5($password);
@@ -43,7 +43,7 @@ if(!isset($_SESSION['error'])){
 	if (isset($_POST['username_s']) && isset($_POST['pass_s'])) { 
 	 
 		 // Connects to your Database 
-		 mysql_connect("localhost", "root", "") or die(mysql_error()); 
+		 mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); 
 		 mysql_select_db("anytv_divineSoulsUsers") or die(mysql_error()); 
 
 		// checks if the username is in use

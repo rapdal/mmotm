@@ -36,19 +36,19 @@ include '../includes/_header.php';
 									<li><a href="#tabs-4">Slasher</a></li>
 								</ul>
 								<div class="tab" id="tabs-1">
-									<iframe width="100%" height="315" src="//www.youtube.com/embed/tr6e9LwyRtw" frameborder="0" allowfullscreen></iframe>
+									<iframe width="100%" height="315" src="//youtube.com/embed/tr6e9LwyRtw" frameborder="0" allowfullscreen></iframe>
 									<br /> <br />
 								</div>
 								<div class="tab" id="tabs-2">
-									<iframe width="100%" height="315" src="//www.youtube.com/embed/vVfvRvPVNZA" frameborder="0" allowfullscreen></iframe>
+									<iframe width="100%" height="315" src="//youtube.com/embed/vVfvRvPVNZA" frameborder="0" allowfullscreen></iframe>
 									<br /> <br />
 								</div>
 								<div class="tab" id="tabs-3">
-									<iframe width="100%" height="315" src="//www.youtube.com/embed/nEvs5Gbm0AA" frameborder="0" allowfullscreen></iframe>
+									<iframe width="100%" height="315" src="//youtube.com/embed/nEvs5Gbm0AA" frameborder="0" allowfullscreen></iframe>
 									<br /> <br />
 								</div>
 								<div class="tab" id="tabs-4">
-									<iframe width="100%" height="315" src="//www.youtube.com/embed/bKF3Mlxb7As" frameborder="0" allowfullscreen></iframe>
+									<iframe width="100%" height="315" src="//youtube.com/embed/bKF3Mlxb7As" frameborder="0" allowfullscreen></iframe>
 									<br /> <br />
 								</div>
 							</div>
@@ -70,9 +70,9 @@ include '../includes/_header.php';
                                 <label>Email Address</label>
                                 <input id="txtusername" required="required" class="rounded-textbox" type="email" name="username_s" /><br />
                                 <label>Password</label>
-                                <input id="txtpassword" required="required" class="rounded-textbox" type="password" name="pass_s" /><br />
+                                <input id="txtpassword" required="required" class="rounded-textbox" type="password" name="pass_s" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="include at least 1 small letter, 1 capital letter and 1 number with the minimum length of 8 characters" required/><br />
                                 <label>Confirm Password</label>
-                                <input id="txtconfirm" required="required" class="rounded-textbox" type="password" name="pass2_s" /><br />
+                                <input id="txtconfirm" required="required" class="rounded-textbox" type="password" name="pass2_s" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="include at least 1 small letter, 1 capital letter and 1 number with the minimum length of 8 characters" required/><br />
                                 <label>Date of Birth</label>
                                 <input id="txtdob" required="required" placeholder="mm/dd/yyyy" class="rounded-textbox" type="text" name="DOB_s" /><br />
                                 <label>Beta Experience</label>

@@ -2,13 +2,13 @@
 session_start();
 
 if(!isset($_SESSION['userORM'])){
-	header("Location: http://localhost/mmo.tm/divinesouls");
+	header("Location: http://mmo.tm/divinesouls");
 }
 
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://w3.org/1999/xhtml">
 <head>
 	<style> 
 	/* Start of "Micro clearfix" */
@@ -101,7 +101,7 @@ if(!isset($_SESSION['userORM'])){
 				</form>
 				</div><!--end input-->';
 
-				mysql_connect("localhost", "root", "") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
+				mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
 				mysql_select_db("anytv_divineSoulsUsers") or die(mysql_error()); // Select registration database. 
 
 				$pass_re = mysql_query("SELECT * FROM users WHERE email='$username'");
@@ -141,10 +141,10 @@ if(!isset($_SESSION['userORM'])){
 
 			<div id="continue03">
 				<p id="cont03">continue to</p>
-				<a href="http://www.mmo.tm/divinesouls" title="Divine Souls" id="dslogo">Divine Souls</a>
+				<a href="http://mmo.tm/divinesouls" title="Divine Souls" id="dslogo">Divine Souls</a>
 			</div><!--end continue-->
 			<div id="anytv">
-				part of the <a href="http://www.any.tv" title="any.TV" id="anytvlogo">any.TV</a> family
+				part of the <a href="http://any.tv" title="any.TV" id="anytvlogo">any.TV</a> family
 			</div><!--end anytv-->
 
 			<div id="footer">

@@ -33,8 +33,8 @@ mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); // C
 					<div style="height: 388px;">
 						<form class="form-inline" action="<?php $_SERVER['PHP_SELF'] ?>" method="POST">
 							<table style="margin-left: 318px;margin-top: 80px;">
-								<tr id="tabletr"><td style="text-align:right;padding-right:8px;">New Password*: </td><td><input type="password" name="newpass" placeholder="Enter New Password" pattern="(?=^.{6,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="include 1 capital letter and 1 number with the minimum length of 6 characters" required/></td></tr>
-								<tr id="tabletr"><td style="text-align:right;padding-right:8px;">Confirm New Password*: </td><td><input type="password" name="conpass"placeholder="Confirm New Password" pattern="(?=^.{6,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="include 1 capital letter and 1 number with the minimum length of 6 characters" required/></td></tr>
+								<tr id="tabletr"><td style="text-align:right;padding-right:8px;">New Password*: </td><td><input type="password" name="newpass" placeholder="Enter New Password" pattern="(?=^.{6,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="minimum of 6 characters" required/></td></tr>
+								<tr id="tabletr"><td style="text-align:right;padding-right:8px;">Confirm New Password*: </td><td><input type="password" name="conpass"placeholder="Confirm New Password" pattern="(?=^.{6,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" title="minimum of 6 characters" required/></td></tr>
 								<tr id="tabletr"><td></td><td><button type="submit" name="startAccountReset" id="submit01"></button></td></tr>
 							</table>
 						</form>

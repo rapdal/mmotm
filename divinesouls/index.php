@@ -1,4 +1,5 @@
 <?php 
+	include '../includes/anytvtransaction.php';
 	include '../includes/_header.php';
  ?>
 
@@ -26,8 +27,8 @@
 								<div style="float: left; display: block; text-align: left;">
 									<h2>DIVINE OPEN BETA <span>July 11, 2013</span></h2>
 									<p>
-										<strong><a href="http://www.download.divinesouls.tm">Download here</a></strong><br />
-										If you have any questions or concerns feel free to contact us via <a href="http://www.mmo.tm/divinesouls/forum">Forums</a>.<br />
+										<strong><a href="http://download.divinesouls.tm">Download here</a></strong><br />
+										If you have any questions or concerns feel free to contact us via <a href="http://mmo.tm/divinesouls/forum">Forums</a>.<br />
 										<span style="font-size: 14px;">For press inquiries please e-mail Sheldon@any.tv</span>
 									</p>
 									<br/>
@@ -36,18 +37,18 @@
 									<h2>DIVINE PRIVATE BETA<span>April 15, 2013</span></h2>
 									<p>
 										<strong>DS Community Initiatives</strong><br />
-										Some information on our plans . . . <a href="http://www.community.tm">More ></a>
+										Some information on our plans . . . <a href="http://community.tm">More ></a>
 
 										<br /><br />
 
 										<strong>Events for the week of 04.30.13</strong><br />
-										Join us in this week's Events! . . . <a href="http://www.community.tm">More ></a>
+										Join us in this week's Events! . . . <a href="http://community.tm">More ></a>
 									</p>
 								</div>
                             </div>
                             <div class="small-col-right">
                                 <h2>Divine Souls on Desura!</h2>
-                                <p><a href="http://www.desura.com/games/divine-souls">
+                                <p><a href="http://desura.com/games/divine-souls">
 									<img src="images/Desura_black.png"  style="height: 50px;"/>
                                 </p></a>
                             </div>
@@ -69,12 +70,12 @@
 							<p>
 								<h4>Account reset</h4>
 								<span>started by: Jitsu, Wednesdat at 2:50 AM </span><br/> 
-								<a href="http://www.mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/">http://www.mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/</a>
+								<a href="http://mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/">http://mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/</a>
 							</p><br/>
 							<p>
 								<h4>Patch incoming</h4>
 								<span>started by: stefan grant, Wednesday at 7:41 AM </span><br/> 
-								<a href="http://www.mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/">http://www.mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/</a>
+								<a href="http://mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/">http://mmo.tm/divinesouls/forum/index.php?threads/account-reset.333/</a>
 							</p>
 						</div>
 					</div>

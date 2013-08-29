@@ -1,8 +1,75 @@
 <?php
 session_start();
+
+if(!isset($_SESSION['error'])){
+	//This code runs if the form has been submitted
+	if (isset($_POST['username_s']) && isset($_POST['pass_s'])) { 
+		
+		 // Connects to your Database 
+		mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); 
+		mysql_select_db("anytv_divineSoulsUsers") or die(mysql_error()); 
+
+		// checks if the username is in use
+		$usercheck = $_POST['username_s'];
+		$check = mysql_query("SELECT email FROM Users WHERE email = '$usercheck'") or die(mysql_error());
+		$check2 = mysql_num_rows($check);
+
+		 //if the name exists it gives an error
+		if ($check2 != 0) {
+			$_SESSION['error'] = "Sorry, the email is already in use.";
+		}
+
+		// this makes sure both passwords entered match
+		if ($_POST['pass_s'] != $_POST['pass2_s']) {
+			$_SESSION['error'] = "Password does not match.";
+		}
+
+		// create activation hash
+		$hash = md5( rand(0,1000) );
+
+		// now we insert it into the database
+		$anytv_transaction_id = '';
+		if(isset($_SESSION['anytv_transaction_id']))
+		{
+			$anytv_transaction_id = $_SESSION['anytv_transaction_id'];
+		}
+		
+		
+		if(!isset($_SESSION['error'])){
+			$pass_s = md5($_POST['pass_s']);
+			
+			$insert = "INSERT INTO Users (email, password, fullName, betaExperience, dsExperience, DOB, verifyHash, keyAssigned, mmoTag, transaction_id) 
+			VALUES ('".$_POST['username_s']."', '$pass_s', '".$_POST['fullName_s']."', '".$_POST['betaExperience_s']."', '".$_POST['dsExperience_s']."', '".$_POST['DOB_s']."', '$hash', '', '', '$anytv_transaction_id')";
+			$add_member = mysql_query($insert) or die(mysql_error());;
+			
+			
+			// postback to dashboard for conversion
+			if($anytv_transaction_id)
+			{
+				$postback_url = "http://play.any.tv/aff_lsr?offer_id=296&transaction_id=$anytv_transaction_id";
+				$postback_url_result = file_get_contents( $postback_url );  
+			  unset($postback_url_result); // use for testing
+			  
+			  if(isset($_SESSION['anytv_transaction_id']))
+			  {
+			  	unset($_SESSION['anytv_transaction_id']);
+			  }
+			}
+			
+			if(!$add_member)
+			{
+				$_SESSION['error'] = "An error occurred. Please try again.";
+			}else{
+				header("Location: http://mmo.tm/divinesouls/submit-beta-signup.php");
+			}
+			
+			
+		}
+	}
+}
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://w3.org/1999/xhtml">
 <head>
     <title>Divine Souls - any.TV</title>
 	

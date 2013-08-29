@@ -40,52 +40,52 @@
 										<li><a href="#tabs-4">Slasher</a></li>
 									</ul>
 									<div class="tab" id="tabs-1">
-										<iframe width="100%" height="315" src="//www.youtube.com/embed/tr6e9LwyRtw" frameborder="0" allowfullscreen></iframe>
+										<iframe width="100%" height="315" src="//youtube.com/embed/tr6e9LwyRtw" frameborder="0" allowfullscreen></iframe>
 										<br /> <br />
 									</div>
 									<div class="tab" id="tabs-2">
-										<iframe width="100%" height="315" src="//www.youtube.com/embed/vVfvRvPVNZA" frameborder="0" allowfullscreen></iframe>
+										<iframe width="100%" height="315" src="//youtube.com/embed/vVfvRvPVNZA" frameborder="0" allowfullscreen></iframe>
 										<br /> <br />
 									</div>
 									<div class="tab" id="tabs-3">
-										<iframe width="100%" height="315" src="//www.youtube.com/embed/nEvs5Gbm0AA" frameborder="0" allowfullscreen></iframe>
+										<iframe width="100%" height="315" src="//youtube.com/embed/nEvs5Gbm0AA" frameborder="0" allowfullscreen></iframe>
 										<br /> <br />
 									</div>
 									<div class="tab" id="tabs-4">
-										<iframe width="100%" height="315" src="//www.youtube.com/embed/bKF3Mlxb7As" frameborder="0" allowfullscreen></iframe>
+										<iframe width="100%" height="315" src="//youtube.com/embed/bKF3Mlxb7As" frameborder="0" allowfullscreen></iframe>
 										<br /> <br />
 									</div>
 								</div>
 								<br/>
 								<div id="video-pop">
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=xXOCdKZG6YE">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=xXOCdKZG6YE">
 										<img src="http://i3.ytimg.com/vi/xXOCdKZG6YE/default.jpg"  />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=VYe_sHhLBmQ">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=VYe_sHhLBmQ">
 										<img src="http://i3.ytimg.com/vi/VYe_sHhLBmQ/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=HoVMQ3S6drk">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=HoVMQ3S6drk">
 										<img src="http://i3.ytimg.com/vi/HoVMQ3S6drk/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=tgaF8jmxqO4">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=tgaF8jmxqO4">
 										<img src="http://i3.ytimg.com/vi/tgaF8jmxqO4/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=gY0h2pPMvYg">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=gY0h2pPMvYg">
 										<img src="http://i3.ytimg.com/vi/gY0h2pPMvYg/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=Z0YmYL6bJeE">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=Z0YmYL6bJeE">
 										<img src="http://i3.ytimg.com/vi/Z0YmYL6bJeE/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=uDy9cY4rMfA">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=uDy9cY4rMfA">
 										<img src="http://i3.ytimg.com/vi/uDy9cY4rMfA/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=Sir4x5gqsTM">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=Sir4x5gqsTM">
 										<img src="http://i3.ytimg.com/vi/Sir4x5gqsTM/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=RERoGY9Pyqw">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=RERoGY9Pyqw">
 										<img src="http://i3.ytimg.com/vi/RERoGY9Pyqw/default.jpg" />
 									</a>
-									<a class="popup-youtube" href="http://www.youtube.com/watch?v=ZeGR45OrViA">
+									<a class="popup-youtube" href="http://youtube.com/watch?v=ZeGR45OrViA">
 										<img src="http://i3.ytimg.com/vi/ZeGR45OrViA/default.jpg" />
 									</a>
 								</div>
@@ -104,7 +104,7 @@
                         <div class="right-sep"></div>
 
                         <h2>FEATURED NEWS</h2>
-                        <a href="http://www.dashboard.tm"><img src="images/dashboard.jpg" alt="Dashboard" /></a>
+                        <a href="http://dashboard.tm"><img src="images/dashboard.jpg" alt="Dashboard" /></a>
 
 
                     </div>

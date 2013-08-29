@@ -2,18 +2,75 @@
 session_start();
 
 if(!isset($_SESSION['userORM'])){
-	header("Location: http://localhost/mmo.tm/divinesouls");
+	header("Location: http://mmo.tm/divinesouls");
 }
 
-?>
-<?php
-$paypal_url='https://www.sandbox.paypal.com/cgi-bin/webscr'; // Test Paypal API URL
-$paypal_id='uekigx@gmail.com'; // Business email ID
+if(isset($_SESSION['payKey'])){
+	mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
+	mysql_select_db("anytv_divineSoulsUsers") or die(mysql_error()); // Select registration database. 
+	
+	$email = $_SESSION['userORM'];
+	$ItemName = "mmoPointBalance";
+	$ItemTotalPrice = $_SESSION['amount'];
+	$result = mysql_query("SELECT * FROM Users WHERE email = '$email'") or die(mysql_error());
+
+
+	while($row = mysql_fetch_array($result))
+	{
+		$user_id = $row['id'];
+		$email = $row['email'];
+		$fullName = $row['fullName'];
+		$mmoTag = $row['mmoTag'];
+		$country = $row['country'];
+		$divineSoulsActive = $row['keyActive'];
+		
+		switch($ItemTotalPrice){
+			case '2.89':
+				$mmoPointBalance =$row['mmoPointBalance']+390;
+				break;
+			case '4.89':
+				$mmoPointBalance = $row['mmoPointBalance']+625;
+				break;
+			case '9.89':
+				$mmoPointBalance = $row['mmoPointBalance']+1240;
+				break;
+			case '19.89':
+				$mmoPointBalance = $row['mmoPointBalance']+2540;
+				break;
+			case '29.89':
+				$mmoPointBalance = $row['mmoPointBalance']+4200;
+				break;
+			default:
+				break;
+		}
+		
+		$query_return = mysql_query("UPDATE Users SET mmoPointBalance='$mmoPointBalance' WHERE email='$email'") or die(mysql_error());
+				
+		if($query_return && ($anytv_transaction_id = $row['transaction_id']))
+		{
+		  $postback_url = "http://play.any.tv/aff_goal?a=lsr&goal_id=2&transaction_id=$anytv_transaction_id&amount=$ItemTotalPrice";
+		  $postback_url_result = file_get_contents( $postback_url );  
+		  unset($postback_url_result); // use for testing    
+		}
+		
+		$result_or = mysql_query("SELECT * FROM trans_hist WHERE user_id = '$user_id'") or die(mysql_error());
+		while($row_or = mysql_fetch_array($result_or))
+		{
+			$order_num = $row_or['order_num'];
+		}
+		
+		mysql_query("INSERT INTO trans_hist(product,unit_price,user_id,qty) values('$ItemName','$ItemTotalPrice','$user_id','1')") or die(mysql_error());
+		mysql_query("INSERT INTO balance_hist(user_id,ordernum,product,amount,balance) values('$user_id','$order_num','$ItemName','$ItemTotalPrice','$mmoPointBalance')") or die(mysql_error());
+	}
+	
+	unset($_SESSION['payKey']);
+	unset($_SESSION['amount']);
+}
 ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://w3.org/1999/xhtml">
 <head>
 	<style> 
 		/* Start of "Micro clearfix" */
@@ -47,10 +104,6 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 </head>
 
 <body>
-	<?php
-	$paypal_url='https://www.sandbox.paypal.com/cgi-bin/webscr'; // Test Paypal API URL
-	$paypal_id='uekigx@gmail.com'; // Business email ID
-	?>
 	<div class = "body-mgmt">
 		<div id="vessel" style="height: 1072px;">
 			<?php include("../includes/_menu.php"); ?>
@@ -59,7 +112,7 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 
 				$username = $_SESSION['userORM'];
 
-			mysql_connect("localhost", "root", "") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
+			mysql_connect("localhost", "anytv_dstm", "Any51rox") or die(mysql_error()); // Connect to database server(localhost) with username and password.  
 			mysql_select_db("anytv_divineSoulsUsers") or die(mysql_error()); // Select registration database. 
 
 			$result = mysql_query("SELECT * FROM Users WHERE email = '$username'") or die(mysql_error());
@@ -78,10 +131,10 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 		?>
 		<div id="seek" >
 			<span id="scout1" >
-				<form action="http://www.mmo.tm/account/account.php?view=1" method="#" >
-					<input id="submitmgmt2" type="submit" value="" name="submit" />
+				<!--<form action="http://mmo.tm/account/account.php" method="#" >
 					<input id="submitmgmtsearch" type="text" placeholder="Search" id="pass" required/>
-				</form>
+					<input id="submitmgmt2" type="submit" value="" name="submit" />
+				</form>-->
 			</span>
 		</div>
 
@@ -91,19 +144,20 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 				<nav>
 					<div class="nav_2"><img src="images/my-account-icon.png"/></div>
 
-					<div class="nav_1"><a style="margin-right: 50px;" href="/mmo.tm/account/account.php?view=4">Summary</a>
-						<div class="btn-group dropdown">
+					<div class="nav_1"><a style="margin-right: 21px;" href="../account/account.php">Summary</a></div>
+
+					<div id="nav_1" class="btn-group dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
 								
 								<span class="userInfoHeader">Settings</span>
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-								<li><a href="/mmo.tm/account/management/settings/account-reset.php">Account Reset</a></li>
-								<li><a href="/mmo.tm/account/management/settings/password-reset.php">Password Reset</a></li>
+								<li><a href="../account/management/settings/account-reset.php">Account Reset</a></li>
+								<li><a href="../account/management/settings/password-reset.php">Password Reset</a></li>
+								<li><a href="../account/management/settings/payment-options.php">Payment Options</a></li>
 							</ul>
 						</div>
-					</div>
 
 					<div id="nav_1" class="btn-group dropdown">
 							<a class="dropdown-toggle" data-toggle="dropdown" href="#">
@@ -112,8 +166,8 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-								<li><a href="/mmo.tm/account/addgamekey.php?view=4">Add a game key</a></li>
-								<li><a href="/mmo.tm/account/downloadgameclient.php?view=4">Download game clients</a></li>
+								<li><a href="../account/addgamekey.php">Add a game key</a></li>
+								<li><a href="../account/downloadgameclient.php">Download game clients</a></li>
 							</ul>
 					</div>
 
@@ -124,8 +178,8 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-								<li><a href="/mmo.tm/account/orderhistory.php?view=4">Order History</a></li>
-								<li><a href="/mmo.tm/account/balancehistory.php?view=4">Balance History</a></li>
+								<li><a href="../account/orderhistory.php">Order History</a></li>
+								<li><a href="../account/balancehistory.php">Balance History</a></li>
 							</ul>
 					</div>
 					<div id="account_balance">
@@ -133,112 +187,81 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 							<b id="cur_balance"><?php echo $mmoPointBalance; ?></b>
 							&nbsp;mmoPts
 						</span></br>
-						<a href="purchase.php" onclick="
-						<?php if(!isset($_SESSION['userORM'])){ 
-							echo "alert('You need to be logged in to charge points.');return false;";
-						}else{
-							echo "return true";
-						}?>
-						">
-						<img src="images/charge.png" id="charge_balance" />
+						<a href="purchase.php">
+						<!-- <img src="images/charge.png" id="charge_balance" /> -->
+						<button type ="submit" class="btn btn-primary" id="btn-chargepts"><strong>CHARGE POINTS</strong></button>
 					</a>
 				</div>
 			</nav>
 		</div>
 	</div>
 
-	<div class="content-wrap">
-		<div id="box-4">
-			<img src="images/add-game-key.png"/>
-		</div>
-	</div>
-	
-	<div class="content-wrap">
+	<div class="content-wrap" style="margin: 50px 22px 0px 0px; width: 1010px;">
+		
+		<div class="content-wrap">
 		<div  id="main-content" style="width: 960px;">
+			<div id="box-4">
+			<a href="../account/addgamekey.php">
+				<!-- <img src="images/add-game-key.png"/> -->
+				<button type ="submit" class="btn btn-danger" id="btn-gamekey"><strong>ADD A GAME KEY</strong></button>
+			</a>
+			</div>
 			<div id="box-1">
 				<div style="margin-left: 200px;">
 					<img src="images/game-recharge.png"/>
 				</div>
 				<ul id="purchase-wrap">
 					<li>
-						<form action="<?php echo $paypal_url; ?>" method="post" name="frmPayPal1">
-							<input type="hidden" name="business" value="<?php echo $paypal_id; ?>">
-							<input type="hidden" name="cmd" value="_xclick">
-							<input type="hidden" name="item_name" value="mmoPointBalance">
-							<input type="hidden" name="item_number" value="1">
-							<input type="hidden" name="amount" value="2.89">
-							<input type="hidden" name="notify_url" value="http://staging.mmo.tm/account/ipn.php" />
-							<input type="hidden" name="currency_code" value="USD">
-							<input type="hidden" name="cancel_return" value="http://staging.mmo.tm/account/account.php?view=4">
-							<input type="hidden" name="return" value="http://staging.mmo.tm/account/success.php">
-							<input type="image" src="images/90.png">
-							<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						<form action="management/settings/payment-summary.php" method="post" name="frmPayPal1">
+						<input type="hidden" name="itemnumber" value="1">
+						<input type="hidden" name="amount" value="2.89">
+						<input type="hidden" name="imagelink" value="90.png">
+						<input type="image" src="images/90.png">
+						<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 						</form>
 					</li>
 					<li>
-						<form action="<?php echo $paypal_url; ?>" method="post" name="frmPayPal1">
-							<input type="hidden" name="business" value="<?php echo $paypal_id; ?>">
-							<input type="hidden" name="cmd" value="_xclick">
-							<input type="hidden" name="item_name" value="mmoPointBalance">
-							<input type="hidden" name="item_number" value="2">
-							<input type="hidden" name="amount" value="4.89">
-							<input type="hidden" name="notify_url" value="http://staging.mmo.tm/account/ipn.php" />
-							<input type="hidden" name="currency_code" value="USD">
-							<input type="hidden" name="cancel_return" value="http://staging.mmo.tm/account/account.php?view=4">
-							<input type="hidden" name="return" value="http://staging.mmo.tm/account/success.php">
-							<input type="image" src="images/125.png">
-							<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						<form action="management/settings/payment-summary.php" method="post" name="frmPayPal1">
+						<input type="hidden" name="itemnumber" value="2">
+						<input type="hidden" name="amount" value="4.89">
+						<input type="hidden" name="imagelink" value="125.png">
+						<input type="image" src="images/125.png">
+						<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 						</form>
 					</li>
 					<li>
-						<form action="<?php echo $paypal_url; ?>" method="post" name="frmPayPal1">
-							<input type="hidden" name="business" value="<?php echo $paypal_id; ?>">
-							<input type="hidden" name="cmd" value="_xclick">
-							<input type="hidden" name="item_name" value="mmoPointBalance">
-							<input type="hidden" name="item_number" value="3">
-							<input type="hidden" name="amount" value="9.89">
-							<input type="hidden" name="notify_url" value"http://staging.mmo.tm/account/ipn.php" />
-							<input type="hidden" name="currency_code" value="USD">
-							<input type="hidden" name="cancel_return" value="http://staging.mmo.tm/account/account.php?view=4">
-							<input type="hidden" name="return" value="http://staging.mmo.tm/account/success.php">
-							<input type="image" src="images/240.png">
-							<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						<form action="management/settings/payment-summary.php" method="post" name="frmPayPal1">
+						<input type="hidden" name="itemnumber" value="3">
+						<input type="hidden" name="amount" value="9.89">
+						<input type="hidden" name="imagelink" value="240.png">
+						<input type="image" src="images/240.png">
+						<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 						</form>
 					</li>
 					<li style="margin-left: 137px;">
-						<form action="<?php echo $paypal_url; ?>" method="post" name="frmPayPal1">
-							<input type="hidden" name="business" value="<?php echo $paypal_id; ?>">
-							<input type="hidden" name="cmd" value="_xclick">
-							<input type="hidden" name="item_name" value="mmoPointBalance">
-							<input type="hidden" name="item_number" value="4">
-							<input type="hidden" name="amount" value="19.89">
-							<input type="hidden" name="notify_url" value="http://staging.mmo.tm/account/ipn.php" />
-							<input type="hidden" name="currency_code" value="USD">
-							<input type="hidden" name="cancel_return" value="http://staging.mmo.tm/account/account.php?view=4">
-							<input type="hidden" name="return" value="http://staging.mmo.tm/account/success.php">
-							<input type="image" src="images/540.png">
-							<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						<form action="management/settings/payment-summary.php" method="post" name="frmPayPal1">
+						<input type="hidden" name="itemnumber" value="4">
+						<input type="hidden" name="amount" value="19.89">
+						<input type="hidden" name="imagelink" value="540.png">
+						<input type="image" src="images/540.png">
+						<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 						</form>
 					</li>
 					<li>
-						<form action="<?php echo $paypal_url; ?>" method="post" name="frmPayPal1">
-							<input type="hidden" name="business" value="<?php echo $paypal_id; ?>">
-							<input type="hidden" name="cmd" value="_xclick">
-							<input type="hidden" name="item_name" value="mmoPointBalance">
-							<input type="hidden" name="item_number" value="5">
-							<input type="hidden" name="amount" value="29.89">
-							<input type="hidden" name="notify_url" value="http://staging.mmo.tm/account/ipn.php" />
-							<input type="hidden" name="currency_code" value="USD">
-							<input type="hidden" name="cancel_return" value="http://staging.mmo.tm/account/account.php?view=4">
-							<input type="hidden" name="return" value="http://staging.mmo.tm/account/success.php">
-							<input type="image" src="images/1200.png">
-							<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						<form action="management/settings/payment-summary.php" method="post" name="frmPayPal1">
+						<input type="hidden" name="itemnumber" value="5">
+						<input type="hidden" name="amount" value="29.89">
+						<input type="hidden" name="imagelink" value="1200.png">
+						<input type="image" src="images/1200.png">
+						<img alt="" border="0" src="https://www.sandbox.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
 						</form>
 					</li>
 				</ul>
 			</div>			
 		</div>
 	</div>
+	</div>
+	
 
 	<div class="content-wrap" style="margin-top:70px;">
 		<div id="pre_footer">
@@ -249,7 +272,7 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 				<div id="acchead"></p>Account</p>
 					<p id="cantlog"><a href="mailto:sheldon@any.tv?Subject=Can't%20Login" target="_top">Can't log in?</a><br/>
 						<a href="../divinesouls/signup.php">Create Account</a><br/>
-						<a href="../account/account.php?view=1">Account Summary</a><br/>
+						<a href="../account/account.php">Account Summary</a><br/>
 				</div>
 		</div>
 	</div>
@@ -257,7 +280,7 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 <div class="content-wrap">
 	<div id="footer">
 		<div id="amanytv">
-			part of the <a href="http://www.any.tv" title="any.TV" id="amanytvlogo" >any.TV</a> family
+			part of the <a href="http://any.tv" title="any.TV" id="amanytvlogo" >any.TV</a> family
 		</div><!--end anytv-->
 		<div id="amfooter">
 			Copyright &copy; 2013 any.TV. All Rights Reserved.					
@@ -270,6 +293,3 @@ $paypal_id='uekigx@gmail.com'; // Business email ID
 </body>
 
 </html>
-<?php
-
-?>

@@ -1,0 +1,1268 @@
+GameCode,CashItemID,ItemName,IconID,ItemDesc,CashItemInfoType,ClassTabType,ItemTabType,ItemButtonType,ItemSetType,ItemSetNO,ItemID01,BuyCostCash,DiscountCostCash,Status
+40,420400042,Treasure Box Key X 10,20301176,KEY,0,0,3,4,2,0,420400004,100,0,1
+40,420400045,Treasure Box Key X 50,20301176,KEY,0,0,3,4,2,0,420400004,899,0,1
+40,420340611,Inventory Expansion Scroll  X 1,20301054,Premium extended scrolls,0,0,3,2,2,0,420340061,200,0,1
+40,420340621,Storage Expansion Scroll  X 1,20301055,Premium extended scrolls,0,0,3,2,2,0,420340062,200,0,1
+40,420340011,Lowest Enchant Rate Increasing Scroll  X 1,20301001,Premium strengthen the scrolls,0,0,3,2,2,0,420340001,25,0,1
+40,420340021,Low Enchant Rate Increasing Scroll  X 1,20301002,Premium strengthen the scrolls,0,0,3,2,2,0,420340002,50,0,1
+40,420340041,High Enchant Rate Increasing Scroll  X 1,20301004,Premium strengthen the scrolls,0,0,3,2,2,0,420340004,100,0,1
+40,420340051,Highest Enchant Rate Increasing Scroll  X 1,20301005,Premium strengthen the scrolls,0,0,3,2,2,0,420340005,125,0,1
+40,420340012,Lowest Enchant Rate Increasing Scroll  X 10,20301001,Premium strengthen the scrolls,0,0,3,2,2,0,420340001,225,0,1
+40,420340022,Low Enchant Rate Increasing Scroll  X 10,20301002,Premium strengthen the scrolls,0,0,3,2,2,0,420340002,450,0,1
+40,420340042,High Enchant Rate Increasing Scroll  X 10,20301004,Premium strengthen the scrolls,0,0,3,2,2,0,420340004,900,0,1
+40,420340052,Highest Enchant Rate Increasing Scroll  X 10,20301005,Premium strengthen the scrolls,0,0,3,2,2,0,420340005,1125,0,1
+40,420340013,Lowest Enchant Rate Increasing Scroll  X 20,20301001,Premium strengthen the scrolls,0,0,3,2,2,0,420340001,450,0,1
+40,420340023,Low Enchant Rate Increasing Scroll  X 20,20301002,Premium strengthen the scrolls,0,0,3,2,2,0,420340002,900,0,1
+40,420340043,High Enchant Rate Increasing Scroll  X 20,20301004,Premium strengthen the scrolls,0,0,3,2,2,0,420340004,1800,0,1
+40,420340053,Highest Enchant Rate Increasing Scroll  X 20,20301005,Premium strengthen the scrolls,0,0,3,2,2,0,420340005,2250,0,1
+40,420340121,Ancient Enchant Level Down Protection Scroll  X 1,20301047,Premium strengthen the scrolls,0,0,3,2,2,0,420340012,175,0,1
+40,420340122,Ancient Enchant Level Down Protection Scroll  X 10,20301047,Premium strengthen the scrolls,0,0,3,2,2,0,420340012,1575,0,1
+40,420340123,Ancient Enchant Level Down Protection Scroll  X 20,20301047,Premium strengthen the scrolls,0,0,3,2,2,0,420340012,3150,0,1
+40,420340131,Lowest Special Enchant Rate Increasing Scroll  X 1,20301013,Premium strengthen the scrolls,0,0,3,2,2,0,420340013,0,0,0
+40,420340141,Low Special Enchant Rate Increasing Scroll  X 1,20301014,Premium strengthen the scrolls,0,0,3,2,2,0,420340014,0,0,0
+40,420340151,Special Enchant Rate Increasing Scroll  X 1,20301015,Premium strengthen the scrolls,0,0,3,2,2,0,420340015,0,0,0
+40,420340161,High Special Enchant Rate Increasing Scroll  X 1,20301016,Premium strengthen the scrolls,0,0,3,2,2,0,420340016,0,0,0
+40,420340171,Highest Special Enchant Rate Increasing Scroll  X 1,20301017,Premium strengthen the scrolls,0,0,3,2,2,0,420340017,0,0,0
+40,420340181,Ancient Special Enchant Rate Increasing Scroll  X 1,20301018,Premium strengthen the scrolls,0,0,3,2,2,0,420340018,0,0,0
+40,420340132,Lowest Special Enchant Rate Increasing Scroll  X 10,20301013,Premium strengthen the scrolls,0,0,3,2,2,0,420340013,0,0,0
+40,420340142,Low Special Enchant Rate Increasing Scroll  X 10,20301014,Premium strengthen the scrolls,0,0,3,2,2,0,420340014,0,0,0
+40,420340152,Special Enchant Rate Increasing Scroll  X 10,20301015,Premium strengthen the scrolls,0,0,3,2,2,0,420340015,0,0,0
+40,420340162,High Special Enchant Rate Increasing Scroll  X 10,20301016,Premium strengthen the scrolls,0,0,3,2,2,0,420340016,0,0,0
+40,420340172,Highest Special Enchant Rate Increasing Scroll  X 10,20301017,Premium strengthen the scrolls,0,0,3,2,2,0,420340017,0,0,0
+40,420340182,Ancient Special Enchant Rate Increasing Scroll  X 10,20301018,Premium strengthen the scrolls,0,0,3,2,2,0,420340018,0,0,0
+40,420340133,Lowest Special Enchant Rate Increasing Scroll  X 20,20301013,Premium strengthen the scrolls,0,0,3,2,2,0,420340013,0,0,0
+40,420340143,Low Special Enchant Rate Increasing Scroll  X 20,20301014,Premium strengthen the scrolls,0,0,3,2,2,0,420340014,0,0,0
+40,420340153,Special Enchant Rate Increasing Scroll  X 20,20301015,Premium strengthen the scrolls,0,0,3,2,2,0,420340015,0,0,0
+40,420340163,High Special Enchant Rate Increasing Scroll  X 20,20301016,Premium strengthen the scrolls,0,0,3,2,2,0,420340016,0,0,0
+40,420340173,Highest Special Enchant Rate Increasing Scroll  X 20,20301017,Premium strengthen the scrolls,0,0,3,2,2,0,420340017,0,0,0
+40,420340183,Ancient Special Enchant Rate Increasing Scroll  X 20,20301018,Premium strengthen the scrolls,0,0,3,2,2,0,420340018,0,0,0
+40,420340191,Lowest Special Enchant Failure Prevention Scroll  X 1,20301042,Premium strengthen the scrolls,0,0,3,2,2,0,420340019,0,0,0
+40,420340201,Low Special Enchant Failure Prevention Scroll  X 1,20301043,Premium strengthen the scrolls,0,0,3,2,2,0,420340020,0,0,0
+40,420340211,Special Enchant Failure Prevention Scroll  X 1,20301044,Premium strengthen the scrolls,0,0,3,2,2,0,420340021,0,0,0
+40,420340221,High Special Enchant Failure Prevention Scroll  X 1,20301045,Premium strengthen the scrolls,0,0,3,2,2,0,420340022,0,0,0
+40,420340231,Highest Special Enchant Failure Prevention Scroll  X 1,20301046,Premium strengthen the scrolls,0,0,3,2,2,0,420340023,0,0,0
+40,420340241,Ancient Special Enchant Failure Prevention Scroll  X 1,20301047,Premium strengthen the scrolls,0,0,3,2,2,0,420340024,0,0,0
+40,420340192,Lowest Special Enchant Failure Prevention Scroll  X 10,20301042,Premium strengthen the scrolls,0,0,3,2,2,0,420340019,0,0,0
+40,420340202,Low Special Enchant Failure Prevention Scroll  X 10,20301043,Premium strengthen the scrolls,0,0,3,2,2,0,420340020,0,0,0
+40,420340212,Special Enchant Failure Prevention Scroll  X 10,20301044,Premium strengthen the scrolls,0,0,3,2,2,0,420340021,0,0,0
+40,420340222,High Special Enchant Failure Prevention Scroll  X 10,20301045,Premium strengthen the scrolls,0,0,3,2,2,0,420340022,0,0,0
+40,420340232,Highest Special Enchant Failure Prevention Scroll  X 10,20301046,Premium strengthen the scrolls,0,0,3,2,2,0,420340023,0,0,0
+40,420340242,Ancient Special Enchant Failure Prevention Scroll  X 10,20301047,Premium strengthen the scrolls,0,0,3,2,2,0,420340024,0,0,0
+40,420340193,Lowest Special Enchant Failure Prevention Scroll  X 20,20301042,Premium strengthen the scrolls,0,0,3,2,2,0,420340019,0,0,0
+40,420340203,Low Special Enchant Failure Prevention Scroll  X 20,20301043,Premium strengthen the scrolls,0,0,3,2,2,0,420340020,0,0,0
+40,420340213,Special Enchant Failure Prevention Scroll  X 20,20301044,Premium strengthen the scrolls,0,0,3,2,2,0,420340021,0,0,0
+40,420340223,High Special Enchant Failure Prevention Scroll  X 20,20301045,Premium strengthen the scrolls,0,0,3,2,2,0,420340022,0,0,0
+40,420340233,Highest Special Enchant Failure Prevention Scroll  X 20,20301046,Premium strengthen the scrolls,0,0,3,2,2,0,420340023,0,0,0
+40,420340243,Ancient Special Enchant Failure Prevention Scroll  X 20,20301047,Premium strengthen the scrolls,0,0,3,2,2,0,420340024,0,0,0
+40,420340251,Extraction Booster Scroll(Normal)  X 1,20301025,Premium disassemble scrolls,0,0,3,2,2,0,420340025,25,0,1
+40,420340261,Extraction Booster Scroll(Magic)  X 1,20301026,Premium disassemble scrolls,0,0,3,2,2,0,420340026,50,0,1
+40,420340271,Extraction Booster Scroll(Rare)  X 1,20301027,Premium disassemble scrolls,0,0,3,2,2,0,420340027,100,0,1
+40,420340281,Extraction Booster Scroll(Epic)  X 1,20301028,Premium disassemble scrolls,0,0,3,2,2,0,420340028,125,0,1
+40,420340252,Extraction Booster Scroll(Normal)  X 10,20301025,Premium disassemble scrolls,0,0,3,2,2,0,420340025,225,0,1
+40,420340262,Extraction Booster Scroll(Magic)  X 10,20301026,Premium disassemble scrolls,0,0,3,2,2,0,420340026,450,0,1
+40,420340272,Extraction Booster Scroll(Rare)  X 10,20301027,Premium disassemble scrolls,0,0,3,2,2,0,420340027,900,0,1
+40,420340282,Extraction Booster Scroll(Epic)  X 10,20301028,Premium disassemble scrolls,0,0,3,2,2,0,420340028,1125,0,1
+40,420340253,Extraction Booster Scroll(Normal)  X 20,20301025,Premium disassemble scrolls,0,0,3,2,2,0,420340025,225,0,1
+40,420340263,Extraction Booster Scroll(Magic)  X 20,20301026,Premium disassemble scrolls,0,0,3,2,2,0,420340026,450,0,1
+40,420340273,Extraction Booster Scroll(Rare)  X 20,20301027,Premium disassemble scrolls,0,0,3,2,2,0,420340027,900,0,1
+40,420340283,Extraction Booster Scroll(Epic)  X 20,20301028,Premium disassemble scrolls,0,0,3,2,2,0,420340028,1125,0,1
+40,420340311,Revival Scroll  X 1,20301036,Premium Resurrection scrolls,0,0,3,2,2,0,420340031,75,0,1
+40,420340312,Revival Scroll  X 10,20301036,Premium Resurrection scrolls,0,0,3,2,2,0,420340031,675,0,1
+40,420340313,Revival Scroll  X 20,20301036,Premium Resurrection scrolls,0,0,3,2,2,0,420340031,1350,0,1
+40,420340441,Silver Fatigue recovery Scroll  X 1,20301037,Premium charging scrolls,0,0,3,2,2,0,420340044,25,0,1
+40,420340451,Gold Fatigue recovery Scroll  X 1,20301038,Premium charging scrolls,0,0,3,2,2,0,420340045,75,0,1
+40,420340461,Platinum Fatigue recovery Scroll  X 1,20301039,Premium charging scrolls,0,0,3,2,2,0,420340046,100,0,1
+40,420340442,Silver Fatigue recovery Scroll  X 10,20301037,Premium charging scrolls,0,0,3,2,2,0,420340044,225,0,1
+40,420340452,Gold Fatigue recovery Scroll  X 10,20301038,Premium charging scrolls,0,0,3,2,2,0,420340045,675,0,1
+40,420340462,Platinum Fatigue recovery Scroll  X 10,20301039,Premium charging scrolls,0,0,3,2,2,0,420340046,900,0,1
+40,420340551,Lowest Enchant disability Protection Scroll  X 1,20301048,Premium strengthen the scrolls,0,0,3,2,2,0,420340055,0,0,0
+40,420340561,Low Enchant disability Protection Scroll  X 1,20301049,Premium strengthen the scrolls,0,0,3,2,2,0,420340056,0,0,0
+40,420340571,Enchant disability Protection Scroll  X 1,20301050,Premium strengthen the scrolls,0,0,3,2,2,0,420340057,0,0,0
+40,420340581,High Enchant disability Protection Scroll  X 1,20301051,Premium strengthen the scrolls,0,0,3,2,2,0,420340058,0,0,0
+40,420340591,Highest Enchant disability Protection Scroll  X 1,20301052,Premium strengthen the scrolls,0,0,3,2,2,0,420340059,0,0,0
+40,420340601,Ancient Enchant disability Protection Scroll  X 1,20301053,Premium strengthen the scrolls,0,0,3,2,2,0,420340060,150,0,1
+40,420340552,Lowest Enchant disability Protection Scroll  X 10,20301048,Premium strengthen the scrolls,0,0,3,2,2,0,420340055,0,0,0
+40,420340562,Low Enchant disability Protection Scroll  X 10,20301049,Premium strengthen the scrolls,0,0,3,2,2,0,420340056,0,0,0
+40,420340572,Enchant disability Protection Scroll  X 10,20301050,Premium strengthen the scrolls,0,0,3,2,2,0,420340057,0,0,0
+40,420340582,High Enchant disability Protection Scroll  X 10,20301051,Premium strengthen the scrolls,0,0,3,2,2,0,420340058,0,0,0
+40,420340592,Highest Enchant disability Protection Scroll  X 10,20301052,Premium strengthen the scrolls,0,0,3,2,2,0,420340059,0,0,0
+40,420340602,Ancient Enchant disability Protection Scroll  X 10,20301053,Premium strengthen the scrolls,0,0,3,2,2,0,420340060,1350,0,1
+40,420340553,Lowest Enchant disability Protection Scroll  X 20,20301048,Premium strengthen the scrolls,0,0,3,2,2,0,420340055,0,0,0
+40,420340563,Low Enchant disability Protection Scroll  X 20,20301049,Premium strengthen the scrolls,0,0,3,2,2,0,420340056,0,0,0
+40,420340573,Enchant disability Protection Scroll  X 20,20301050,Premium strengthen the scrolls,0,0,3,2,2,0,420340057,0,0,0
+40,420340583,High Enchant disability Protection Scroll  X 20,20301051,Premium strengthen the scrolls,0,0,3,2,2,0,420340058,0,0,0
+40,420340593,Highest Enchant disability Protection Scroll  X 20,20301052,Premium strengthen the scrolls,0,0,3,2,2,0,420340059,0,0,0
+40,420340603,Ancient Enchant disability Protection Scroll  X 20,20301053,Premium strengthen the scrolls,0,0,3,2,2,0,420340060,2700,0,1
+40,420340331,Lowest EXP 10% Boost Scroll  X 1,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340033,25,0,1
+40,420340341,Low EXP 10% Boost Scroll  X 1,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340034,50,0,1
+40,420340351,EXP 10% Boost Scroll  X 1,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340035,75,0,1
+40,420340361,High EXP 10% Boost Scroll  X 1,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340036,100,0,1
+40,420340371,Highest EXP 10% Boost Scroll  X 1,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340037,125,0,1
+40,420340332,Lowest EXP 10% Boost Scroll  X 10,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340033,225,0,1
+40,420340342,Low EXP 10% Boost Scroll  X 10,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340034,450,0,1
+40,420340352,EXP 10% Boost Scroll  X 10,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340035,675,0,1
+40,420340362,High EXP 10% Boost Scroll  X 10,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340036,900,0,1
+40,420340372,Highest EXP 10% Boost Scroll  X 10,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340037,1125,0,1
+40,420340333,Lowest EXP 10% Boost Scroll  X 20,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340033,450,0,1
+40,420340343,Low EXP 10% Boost Scroll  X 20,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340034,900,0,1
+40,420340353,EXP 10% Boost Scroll  X 20,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340035,1350,0,1
+40,420340363,High EXP 10% Boost Scroll  X 20,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340036,1800,0,1
+40,420340373,Highest EXP 10% Boost Scroll  X 20,20301034,Premium Experience scrolls,0,0,3,2,2,0,420340037,2250,0,1
+40,420340381,Lowest Special EXP 30% Boost Scroll  X 1,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340038,50,0,1
+40,420340391,Low Special EXP 30% Boost Scroll  X 1,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340039,75,0,1
+40,420340401,Special EXP 30% Boost Scroll  X 1,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340040,100,0,1
+40,420340411,High Special EXP 30% Boost Scroll  X 1,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340041,125,0,1
+40,420340421,Highest Special EXP 30% Boost Scroll  X 1,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340042,150,0,1
+40,420340382,Lowest Special EXP 30% Boost Scroll  X 10,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340038,450,0,1
+40,420340392,Low Special EXP 30% Boost Scroll  X 10,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340039,675,0,1
+40,420340402,Special EXP 30% Boost Scroll  X 10,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340040,900,0,1
+40,420340412,High Special EXP 30% Boost Scroll  X 10,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340041,1125,0,1
+40,420340422,Highest Special EXP 30% Boost Scroll  X 10,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340042,1350,0,1
+40,420340383,Lowest Special EXP 30% Boost Scroll  X 20,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340038,900,0,1
+40,420340393,Low Special EXP 30% Boost Scroll  X 20,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340039,1350,0,1
+40,420340403,Special EXP 30% Boost Scroll  X 20,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340040,1800,0,1
+40,420340413,High Special EXP 30% Boost Scroll  X 20,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340041,2250,0,1
+40,420340423,Highest Special EXP 30% Boost Scroll  X 20,20301035,Premium Experience scrolls,0,0,3,2,2,0,420340042,2700,0,1
+40,420370041,Lowest HP 15% Boost Potion  X 1,20301082,Premium Growth Potion,0,0,3,3,2,0,420370004,25,0,1
+40,420370051,Low HP 15% Boost Potion  X 1,20301082,Premium Growth Potion,0,0,3,3,2,0,420370005,50,0,1
+40,420370061,HP 15% Boost Potion  X 1,20301082,Premium Growth Potion,0,0,3,3,2,0,420370006,75,0,1
+40,420370071,High HP 15% Boost Potion  X 1,20301082,Premium Growth Potion,0,0,3,3,2,0,420370007,100,0,1
+40,420370081,Highest HP 15% Boost Potion  X 1,20301082,Premium Growth Potion,0,0,3,3,2,0,420370008,125,0,1
+40,420370042,Lowest HP 15% Boost Potion  X 10,20301082,Premium Growth Potion,0,0,3,3,2,0,420370004,225,0,1
+40,420370052,Low HP 15% Boost Potion  X 10,20301082,Premium Growth Potion,0,0,3,3,2,0,420370005,450,0,1
+40,420370062,HP 15% Boost Potion  X 10,20301082,Premium Growth Potion,0,0,3,3,2,0,420370006,675,0,1
+40,420370072,High HP 15% Boost Potion  X 10,20301082,Premium Growth Potion,0,0,3,3,2,0,420370007,900,0,1
+40,420370082,Highest HP 15% Boost Potion  X 10,20301082,Premium Growth Potion,0,0,3,3,2,0,420370008,1125,0,1
+40,420370043,Lowest HP 15% Boost Potion  X 20,20301082,Premium Growth Potion,0,0,3,3,2,0,420370004,450,0,1
+40,420370053,Low HP 15% Boost Potion  X 20,20301082,Premium Growth Potion,0,0,3,3,2,0,420370005,900,0,1
+40,420370063,HP 15% Boost Potion  X 20,20301082,Premium Growth Potion,0,0,3,3,2,0,420370006,1350,0,1
+40,420370073,High HP 15% Boost Potion  X 20,20301082,Premium Growth Potion,0,0,3,3,2,0,420370007,1800,0,1
+40,420370083,Highest HP 15% Boost Potion  X 20,20301082,Premium Growth Potion,0,0,3,3,2,0,420370008,2250,0,1
+40,420370091,Lowest Special HP 30% Boost Potion  X 1,20301085,Premium Growth Potion,0,0,3,3,2,0,420370009,50,0,1
+40,420370101,Low Special HP 30% Boost Potion  X 1,20301085,Premium Growth Potion,0,0,3,3,2,0,420370010,100,0,1
+40,420370111,Special HP 30% Boost Potion  X 1,20301085,Premium Growth Potion,0,0,3,3,2,0,420370011,125,0,1
+40,420370121,High Special HP 30% Boost Potion  X 1,20301085,Premium Growth Potion,0,0,3,3,2,0,420370012,150,0,1
+40,420370131,Highest Special HP 30% Boost Potion  X 1,20301085,Premium Growth Potion,0,0,3,3,2,0,420370013,200,0,1
+40,420370092,Lowest Special HP 30% Boost Potion  X 10,20301085,Premium Growth Potion,0,0,3,3,2,0,420370009,450,0,1
+40,420370102,Low Special HP 30% Boost Potion  X 10,20301085,Premium Growth Potion,0,0,3,3,2,0,420370010,900,0,1
+40,420370112,Special HP 30% Boost Potion  X 10,20301085,Premium Growth Potion,0,0,3,3,2,0,420370011,1125,0,1
+40,420370122,High Special HP 30% Boost Potion  X 10,20301085,Premium Growth Potion,0,0,3,3,2,0,420370012,1350,0,1
+40,420370132,Highest Special HP 30% Boost Potion  X 10,20301085,Premium Growth Potion,0,0,3,3,2,0,420370013,1800,0,1
+40,420370093,Lowest Special HP 30% Boost Potion  X 20,20301085,Premium Growth Potion,0,0,3,3,2,0,420370009,900,0,1
+40,420370103,Low Special HP 30% Boost Potion  X 20,20301085,Premium Growth Potion,0,0,3,3,2,0,420370010,1800,0,1
+40,420370113,Special HP 30% Boost Potion  X 20,20301085,Premium Growth Potion,0,0,3,3,2,0,420370011,2250,0,1
+40,420370123,High Special HP 30% Boost Potion  X 20,20301085,Premium Growth Potion,0,0,3,3,2,0,420370012,2700,0,1
+40,420370133,Highest Special HP 30% Boost Potion  X 20,20301085,Premium Growth Potion,0,0,3,3,2,0,420370013,3600,0,1
+40,420370141,Lowest MP 15% Boost Potion  X 1,20301083,Premium Growth Potion,0,0,3,3,2,0,420370014,25,0,1
+40,420370151,Low MP 15% Boost Potion  X 1,20301083,Premium Growth Potion,0,0,3,3,2,0,420370015,50,0,1
+40,420370161,MP 15% Boost Potion  X 1,20301083,Premium Growth Potion,0,0,3,3,2,0,420370016,75,0,1
+40,420370171,High MP 15% Boost Potion  X 1,20301083,Premium Growth Potion,0,0,3,3,2,0,420370017,100,0,1
+40,420370181,Highest MP 15% Boost Potion  X 1,20301083,Premium Growth Potion,0,0,3,3,2,0,420370018,125,0,1
+40,420370142,Lowest MP 15% Boost Potion  X 10,20301083,Premium Growth Potion,0,0,3,3,2,0,420370014,225,0,1
+40,420370152,Low MP 15% Boost Potion  X 10,20301083,Premium Growth Potion,0,0,3,3,2,0,420370015,450,0,1
+40,420370162,MP 15% Boost Potion  X 10,20301083,Premium Growth Potion,0,0,3,3,2,0,420370016,675,0,1
+40,420370172,High MP 15% Boost Potion  X 10,20301083,Premium Growth Potion,0,0,3,3,2,0,420370017,900,0,1
+40,420370182,Highest MP 15% Boost Potion  X 10,20301083,Premium Growth Potion,0,0,3,3,2,0,420370018,1125,0,1
+40,420370143,Lowest MP 15% Boost Potion  X 20,20301083,Premium Growth Potion,0,0,3,3,2,0,420370014,450,0,1
+40,420370153,Low MP 15% Boost Potion  X 20,20301083,Premium Growth Potion,0,0,3,3,2,0,420370015,900,0,1
+40,420370163,MP 15% Boost Potion  X 20,20301083,Premium Growth Potion,0,0,3,3,2,0,420370016,1350,0,1
+40,420370173,High MP 15% Boost Potion  X 20,20301083,Premium Growth Potion,0,0,3,3,2,0,420370017,1800,0,1
+40,420370183,Highest MP 15% Boost Potion  X 20,20301083,Premium Growth Potion,0,0,3,3,2,0,420370018,2250,0,1
+40,420370191,Lowest Special MP 30% Boost Potion  X 1,20301086,Premium Growth Potion,0,0,3,3,2,0,420370019,50,0,1
+40,420370201,Low Special MP 30% Boost Potion  X 1,20301086,Premium Growth Potion,0,0,3,3,2,0,420370020,100,0,1
+40,420370211,Special MP 30% Boost Potion  X 1,20301086,Premium Growth Potion,0,0,3,3,2,0,420370021,125,0,1
+40,420370221,High Special MP 30% Boost Potion  X 1,20301086,Premium Growth Potion,0,0,3,3,2,0,420370022,150,0,1
+40,420370231,Highest Special MP 30% Boost Potion  X 1,20301086,Premium Growth Potion,0,0,3,3,2,0,420370023,200,0,1
+40,420370192,Lowest Special MP 30% Boost Potion  X 10,20301086,Premium Growth Potion,0,0,3,3,2,0,420370019,450,0,1
+40,420370202,Low Special MP 30% Boost Potion  X 10,20301086,Premium Growth Potion,0,0,3,3,2,0,420370020,900,0,1
+40,420370212,Special MP 30% Boost Potion  X 10,20301086,Premium Growth Potion,0,0,3,3,2,0,420370021,1125,0,1
+40,420370222,High Special MP 30% Boost Potion  X 10,20301086,Premium Growth Potion,0,0,3,3,2,0,420370022,1350,0,1
+40,420370232,Highest Special MP 30% Boost Potion  X 10,20301086,Premium Growth Potion,0,0,3,3,2,0,420370023,1800,0,1
+40,420370193,Lowest Special MP 30% Boost Potion  X 20,20301086,Premium Growth Potion,0,0,3,3,2,0,420370019,900,0,1
+40,420370203,Low Special MP 30% Boost Potion  X 20,20301086,Premium Growth Potion,0,0,3,3,2,0,420370020,1800,0,1
+40,420370213,Special MP 30% Boost Potion  X 20,20301086,Premium Growth Potion,0,0,3,3,2,0,420370021,2250,0,1
+40,420370223,High Special MP 30% Boost Potion  X 20,20301086,Premium Growth Potion,0,0,3,3,2,0,420370022,2700,0,1
+40,420370233,Highest Special MP 30% Boost Potion  X 20,20301086,Premium Growth Potion,0,0,3,3,2,0,420370023,3600,0,1
+40,420370241,Lowest Stamina 15% Boost Potion  X 1,20301081,Premium Growth Potion,0,0,3,3,2,0,420370024,25,0,1
+40,420370251,Low Stamina 15% Boost Potion  X 1,20301081,Premium Growth Potion,0,0,3,3,2,0,420370025,50,0,1
+40,420370261,Stamina 15% Boost Potion  X 1,20301081,Premium Growth Potion,0,0,3,3,2,0,420370026,100,0,1
+40,420370271,High Stamina 15% Boost Potion  X 1,20301081,Premium Growth Potion,0,0,3,3,2,0,420370027,125,0,1
+40,420370281,Highest Stamina 15% Boost Potion  X 1,20301081,Premium Growth Potion,0,0,3,3,2,0,420370028,150,0,1
+40,420370242,Lowest Stamina 15% Boost Potion  X 10,20301081,Premium Growth Potion,0,0,3,3,2,0,420370024,225,0,1
+40,420370252,Low Stamina 15% Boost Potion  X 10,20301081,Premium Growth Potion,0,0,3,3,2,0,420370025,450,0,1
+40,420370262,Stamina 15% Boost Potion  X 10,20301081,Premium Growth Potion,0,0,3,3,2,0,420370026,900,0,1
+40,420370272,High Stamina 15% Boost Potion  X 10,20301081,Premium Growth Potion,0,0,3,3,2,0,420370027,1125,0,1
+40,420370282,Highest Stamina 15% Boost Potion  X 10,20301081,Premium Growth Potion,0,0,3,3,2,0,420370028,1350,0,1
+40,420370243,Lowest Stamina 15% Boost Potion  X 20,20301081,Premium Growth Potion,0,0,3,3,2,0,420370024,450,0,1
+40,420370253,Low Stamina 15% Boost Potion  X 20,20301081,Premium Growth Potion,0,0,3,3,2,0,420370025,900,0,1
+40,420370263,Stamina 15% Boost Potion  X 20,20301081,Premium Growth Potion,0,0,3,3,2,0,420370026,1800,0,1
+40,420370273,High Stamina 15% Boost Potion  X 20,20301081,Premium Growth Potion,0,0,3,3,2,0,420370027,2250,0,1
+40,420370283,Highest Stamina 15% Boost Potion  X 20,20301081,Premium Growth Potion,0,0,3,3,2,0,420370028,2700,0,1
+40,420370291,Lowest Special Stamina 30% Boost Potion  X 1,20301084,Premium Growth Potion,0,0,3,3,2,0,420370029,50,0,1
+40,420370301,Low Special Stamina 30% Boost Potion  X 1,20301084,Premium Growth Potion,0,0,3,3,2,0,420370030,75,0,1
+40,420370311,Special Stamina 30% Boost Potion  X 1,20301084,Premium Growth Potion,0,0,3,3,2,0,420370031,100,0,1
+40,420370321,High Special Stamina 30% Boost Potion  X 1,20301084,Premium Growth Potion,0,0,3,3,2,0,420370032,125,0,1
+40,420370331,Highest Special Stamina 30% Boost Potion  X 1,20301084,Premium Growth Potion,0,0,3,3,2,0,420370033,150,0,1
+40,420370292,Lowest Special Stamina 30% Boost Potion  X 10,20301084,Premium Growth Potion,0,0,3,3,2,0,420370029,450,0,1
+40,420370302,Low Special Stamina 30% Boost Potion  X 10,20301084,Premium Growth Potion,0,0,3,3,2,0,420370030,675,0,1
+40,420370312,Special Stamina 30% Boost Potion  X 10,20301084,Premium Growth Potion,0,0,3,3,2,0,420370031,900,0,1
+40,420370322,High Special Stamina 30% Boost Potion  X 10,20301084,Premium Growth Potion,0,0,3,3,2,0,420370032,1125,0,1
+40,420370332,Highest Special Stamina 30% Boost Potion  X 10,20301084,Premium Growth Potion,0,0,3,3,2,0,420370033,1350,0,1
+40,420370293,Lowest Special Stamina 30% Boost Potion  X 20,20301084,Premium Growth Potion,0,0,3,3,2,0,420370029,900,0,1
+40,420370303,Low Special Stamina 30% Boost Potion  X 20,20301084,Premium Growth Potion,0,0,3,3,2,0,420370030,1350,0,1
+40,420370313,Special Stamina 30% Boost Potion  X 20,20301084,Premium Growth Potion,0,0,3,3,2,0,420370031,1800,0,1
+40,420370323,High Special Stamina 30% Boost Potion  X 20,20301084,Premium Growth Potion,0,0,3,3,2,0,420370032,2250,0,1
+40,420370333,Highest Special Stamina 30% Boost Potion  X 20,20301084,Premium Growth Potion,0,0,3,3,2,0,420370033,2700,0,1
+40,420380011,Speech Amplifier  X 1,20301167,Premium conversations items,0,0,3,4,2,0,420380001,100,0,1
+40,420380012,Speech Amplifier  X 10,20301167,Premium conversations items,0,0,3,4,2,0,420380001,900,0,1
+40,420380013,Speech Amplifier  X 20,20301167,Premium conversations items,0,0,3,4,2,0,420380001,1800,0,1
+40,420380021,Billboard  X 1,20301168,Premium conversations items,0,0,3,4,2,0,420380002,50,0,1
+40,420380022,Billboard  X 10,20301168,Premium conversations items,0,0,3,4,2,0,420380002,450,0,1
+40,420380023,Billboard  X 20,20301168,Premium conversations items,0,0,3,4,2,0,420380002,900,0,1
+40,420310011,Concentrate of Life Source  X 1,20301031,Premium Recovery Potion,0,0,3,3,2,0,420310001,25,0,1
+40,420310012,Concentrate of Life Source  X 10,20301031,Premium Recovery Potion,0,0,3,3,2,0,420310001,225,0,1
+40,420310013,Concentrate of Life Source  X 20,20301031,Premium Recovery Potion,0,0,3,3,2,0,420310001,450,0,1
+40,420350201,Diamond Avatar Convert Box  X 1,20301189,Convert Box,0,0,3,3,2,0,420350020,100,0,1
+40,420350202,Diamond Avatar Convert Box  X 10,20301189,Convert Box,0,0,3,3,2,0,420350020,899,0,1
+40,420350203,Diamond Avatar Convert Box  X 20,20301189,Convert Box,0,0,3,3,2,0,420350020,1799,0,1
+40,420350171,Orange Lucky Box X 1,10901001,Premium Lucky Bag,0,0,3,4,2,0,420350017,259,0,1
+40,420350172,Orange Lucky Box X 10,10901001,Premium Lucky Bag,0,0,3,4,2,0,420350017,2590,0,1
+40,420350181,Red Lucky Box X 1,10902001,Premium Lucky Bag,0,0,3,4,2,0,420350018,879,0,1
+40,420350182,Red Lucky Box X 10,10902001,Premium Lucky Bag,0,0,3,4,2,0,420350018,8790,0,1
+40,420350191,Blue Lucky Box X 1,10903001,Premium Lucky Bag,0,0,3,4,2,0,420350019,427,0,1
+40,420350192,Blue Lucky Box X 10,10903001,Premium Lucky Bag,0,0,3,4,2,0,420350019,4270,0,1
+40,420350211,Purple Lucky Box X 1,10904001,Premium Lucky Bag,0,0,3,4,2,0,420350021,575,0,1
+40,420350212,Purple Lucky Box X 10,10904001,Premium Lucky Bag,0,0,3,4,2,0,420350021,5750,0,1
+40,221110021,Black Leather Corset (1 day),20201001,Premium Bonus Shirt,0,1,2,5,2,0,221110002,99,0,1
+40,221110022,Black Leather Corset (7 days),20201001,Premium Bonus Shirt,0,1,2,5,2,0,221110002,199,0,1
+40,221110023,Black Leather Corset (30 days),20201001,Premium Bonus Shirt,0,1,2,5,2,0,221110002,399,0,1
+40,221110026,Black Leather Corset (Unlimited),20201001,Premium Bonus Shirt,0,1,2,5,2,0,221110002,599,0,1
+40,221110031,Beige Leather Corset (1 day),20201002,Premium Bonus Shirt,0,1,2,5,2,0,221110003,99,0,1
+40,221110032,Beige Leather Corset (7 days),20201002,Premium Bonus Shirt,0,1,2,5,2,0,221110003,199,0,1
+40,221110033,Beige Leather Corset (30 days),20201002,Premium Bonus Shirt,0,1,2,5,2,0,221110003,399,0,1
+40,221110036,Beige Leather Corset (Unlimited),20201002,Premium Bonus Shirt,0,1,2,5,2,0,221110003,599,0,1
+40,221110041,Black Checkered Tank Top (1 day),20201003,Premium Bonus Shirt,0,1,2,5,2,0,221110004,99,0,1
+40,221110042,Black Checkered Tank Top (7 days),20201003,Premium Bonus Shirt,0,1,2,5,2,0,221110004,199,0,1
+40,221110043,Black Checkered Tank Top (30 days),20201003,Premium Bonus Shirt,0,1,2,5,2,0,221110004,399,0,1
+40,221110046,Black Checkered Tank Top (Unlimited),20201003,Premium Bonus Shirt,0,1,2,5,2,0,221110004,599,0,1
+40,221110051,Blue Checkered Tank Top (1 day),20201004,Premium Bonus Shirt,0,1,2,5,2,0,221110005,99,0,1
+40,221110052,Blue Checkered Tank Top (7 days),20201004,Premium Bonus Shirt,0,1,2,5,2,0,221110005,199,0,1
+40,221110053,Blue Checkered Tank Top (30 days),20201004,Premium Bonus Shirt,0,1,2,5,2,0,221110005,399,0,1
+40,221110056,Blue Checkered Tank Top (Unlimited),20201004,Premium Bonus Shirt,0,1,2,5,2,0,221110005,599,0,1
+40,221110061,Plain White Shirt (1 day),20201005,Premium Bonus Shirt,0,1,2,5,2,0,221110006,99,0,1
+40,221110062,Plain White Shirt (7 days),20201005,Premium Bonus Shirt,0,1,2,5,2,0,221110006,199,0,1
+40,221110063,Plain White Shirt (30 days),20201005,Premium Bonus Shirt,0,1,2,5,2,0,221110006,399,0,1
+40,221110066,Plain White Shirt (Unlimited),20201005,Premium Bonus Shirt,0,1,2,5,2,0,221110006,599,0,1
+40,221110071,Blue GP Shirt (1 day),20201006,Premium Bonus Shirt,0,1,2,5,2,0,221110007,99,0,1
+40,221110072,Blue GP Shirt (7 days),20201006,Premium Bonus Shirt,0,1,2,5,2,0,221110007,199,0,1
+40,221110073,Blue GP Shirt (30 days),20201006,Premium Bonus Shirt,0,1,2,5,2,0,221110007,399,0,1
+40,221110076,Blue GP Shirt (Unlimited),20201006,Premium Bonus Shirt,0,1,2,5,2,0,221110007,599,0,1
+40,221120021,Sprite Brown Shorts (1 day),20201049,Premium Bonus Pants,0,1,2,6,2,0,221120002,99,0,1
+40,221120022,Sprite Brown Shorts (7 days),20201049,Premium Bonus Pants,0,1,2,6,2,0,221120002,199,0,1
+40,221120023,Sprite Brown Shorts (30 days),20201049,Premium Bonus Pants,0,1,2,6,2,0,221120002,399,0,1
+40,221120026,Sprite Brown Shorts (Unlimited),20201049,Premium Bonus Pants,0,1,2,6,2,0,221120002,599,0,1
+40,221120031,Beige Leather Shorts (1 day),20201050,Premium Bonus Pants,0,1,2,6,2,0,221120003,99,0,1
+40,221120032,Beige Leather Shorts (7 days),20201050,Premium Bonus Pants,0,1,2,6,2,0,221120003,199,0,1
+40,221120033,Beige Leather Shorts (30 days),20201050,Premium Bonus Pants,0,1,2,6,2,0,221120003,399,0,1
+40,221120036,Beige Leather Shorts (Unlimited),20201050,Premium Bonus Pants,0,1,2,6,2,0,221120003,599,0,1
+40,221120041,Beige Cropped Jeans (1 day),20201051,Premium Bonus Pants,0,1,2,6,2,0,221120004,99,0,1
+40,221120042,Beige Cropped Jeans (7 days),20201051,Premium Bonus Pants,0,1,2,6,2,0,221120004,199,0,1
+40,221120043,Beige Cropped Jeans (30 days),20201051,Premium Bonus Pants,0,1,2,6,2,0,221120004,399,0,1
+40,221120046,Beige Cropped Jeans (Unlimited),20201051,Premium Bonus Pants,0,1,2,6,2,0,221120004,599,0,1
+40,221120051,Blue Cropped Jeans (1 day),20201052,Premium Bonus Pants,0,1,2,6,2,0,221120005,99,0,1
+40,221120052,Blue Cropped Jeans (7 days),20201052,Premium Bonus Pants,0,1,2,6,2,0,221120005,199,0,1
+40,221120053,Blue Cropped Jeans (30 days),20201052,Premium Bonus Pants,0,1,2,6,2,0,221120005,399,0,1
+40,221120056,Blue Cropped Jeans (Unlimited),20201052,Premium Bonus Pants,0,1,2,6,2,0,221120005,599,0,1
+40,221120061,White Floral Skinny Jeans (1 day),20201053,Premium Bonus Pants,0,1,2,6,2,0,221120006,99,0,1
+40,221120062,White Floral Skinny Jeans (7 days),20201053,Premium Bonus Pants,0,1,2,6,2,0,221120006,199,0,1
+40,221120063,White Floral Skinny Jeans (30 days),20201053,Premium Bonus Pants,0,1,2,6,2,0,221120006,399,0,1
+40,221120066,White Floral Skinny Jeans (Unlimited),20201053,Premium Bonus Pants,0,1,2,6,2,0,221120006,599,0,1
+40,221120071,Black Vintage Jeans (1 day),20201054,Premium Bonus Pants,0,1,2,6,2,0,221120007,99,0,1
+40,221120072,Black Vintage Jeans (7 days),20201054,Premium Bonus Pants,0,1,2,6,2,0,221120007,199,0,1
+40,221120073,Black Vintage Jeans (30 days),20201054,Premium Bonus Pants,0,1,2,6,2,0,221120007,399,0,1
+40,221120076,Black Vintage Jeans (Unlimited),20201054,Premium Bonus Pants,0,1,2,6,2,0,221120007,599,0,1
+40,221140021,Black Leather Boots (1 day),20201145,Premium Bonus Shoes,0,1,2,8,2,0,221140002,99,0,1
+40,221140022,Black Leather Boots (7 days),20201145,Premium Bonus Shoes,0,1,2,8,2,0,221140002,199,0,1
+40,221140023,Black Leather Boots (30 days),20201145,Premium Bonus Shoes,0,1,2,8,2,0,221140002,399,0,1
+40,221140026,Black Leather Boots (Unlimited),20201145,Premium Bonus Shoes,0,1,2,8,2,0,221140002,599,0,1
+40,221140031,Beige Leather Boots (1 day),20201146,Premium Bonus Shoes,0,1,2,8,2,0,221140003,99,0,1
+40,221140032,Beige Leather Boots (7 days),20201146,Premium Bonus Shoes,0,1,2,8,2,0,221140003,199,0,1
+40,221140033,Beige Leather Boots (30 days),20201146,Premium Bonus Shoes,0,1,2,8,2,0,221140003,399,0,1
+40,221140036,Beige Leather Boots (Unlimited),20201146,Premium Bonus Shoes,0,1,2,8,2,0,221140003,599,0,1
+40,221140041,Yellow Running Shoes (1 day),20201147,Premium Bonus Shoes,0,1,2,8,2,0,221140004,99,0,1
+40,221140042,Yellow Running Shoes (7 days),20201147,Premium Bonus Shoes,0,1,2,8,2,0,221140004,199,0,1
+40,221140043,Yellow Running Shoes (30 days),20201147,Premium Bonus Shoes,0,1,2,8,2,0,221140004,399,0,1
+40,221140046,Yellow Running Shoes (Unlimited),20201147,Premium Bonus Shoes,0,1,2,8,2,0,221140004,599,0,1
+40,221140051,Sky Blue Running Shoes (1 day),20201148,Premium Bonus Shoes,0,1,2,8,2,0,221140005,99,0,1
+40,221140052,Sky Blue Running Shoes (7 days),20201148,Premium Bonus Shoes,0,1,2,8,2,0,221140005,199,0,1
+40,221140053,Sky Blue Running Shoes (30 days),20201148,Premium Bonus Shoes,0,1,2,8,2,0,221140005,399,0,1
+40,221140056,Sky Blue Running Shoes (Unlimited),20201148,Premium Bonus Shoes,0,1,2,8,2,0,221140005,599,0,1
+40,221140061,Black High Heels (1 day),20201149,Premium Bonus Shoes,0,1,2,8,2,0,221140006,99,0,1
+40,221140062,Black High Heels (7 days),20201149,Premium Bonus Shoes,0,1,2,8,2,0,221140006,199,0,1
+40,221140063,Black High Heels (30 days),20201149,Premium Bonus Shoes,0,1,2,8,2,0,221140006,399,0,1
+40,221140066,Black High Heels (Unlimited),20201149,Premium Bonus Shoes,0,1,2,8,2,0,221140006,599,0,1
+40,221140071,Black High Heels (1 day),20201150,Premium Bonus Shoes,0,1,2,8,2,0,221140007,99,0,1
+40,221140072,Red High Heels (7 days),20201150,Premium Bonus Shoes,0,1,2,8,2,0,221140007,199,0,1
+40,221140073,Red High Heels (30 days),20201150,Premium Bonus Shoes,0,1,2,8,2,0,221140007,399,0,1
+40,221140076,Red High Heels (Unlimited),20201150,Premium Bonus Shoes,0,1,2,8,2,0,221140007,599,0,1
+40,221110081,Cowboy Uniform (1 day),20201193,Premium Set Item,0,1,2,2,2,0,221110008,99,0,1
+40,221110082,Cowboy Uniform (7 days),20201193,Premium Set Item,0,1,2,2,2,0,221110008,499,0,1
+40,221110083,Cowboy Uniform (30 days),20201193,Premium Set Item,0,1,2,2,2,0,221110008,999,0,1
+40,221110086,Cowboy Uniform (Unlimited),20201193,Premium Set Item,0,1,2,2,2,0,221110008,1999,0,1
+40,621230011,Cowboy Hat (1 day),20101001,Premium Bonus Hat,0,1,2,9,2,0,621230001,99,0,1
+40,621230012,Cowboy Hat (7 days),20101001,Premium Bonus Hat,0,1,2,9,2,0,621230001,199,0,1
+40,621230013,Cowboy Hat (30 days),20101001,Premium Bonus Hat,0,1,2,9,2,0,621230001,399,0,1
+40,621230016,Cowboy Hat (Unlimited),20101001,Premium Bonus Hat,0,1,2,9,2,0,621230001,599,0,1
+40,621230021,Slasher Brown Hunting Cap (1 day),20101002,Premium Bonus Hat,0,1,2,9,2,0,621230002,99,0,1
+40,621230022,Slasher Brown Hunting Cap (7 days),20101002,Premium Bonus Hat,0,1,2,9,2,0,621230002,199,0,1
+40,621230023,Slasher Brown Hunting Cap (30 days),20101002,Premium Bonus Hat,0,1,2,9,2,0,621230002,399,0,1
+40,621230026,Slasher Brown Hunting Cap (Unlimited),20101002,Premium Bonus Hat,0,1,2,9,2,0,621230002,599,0,1
+40,621230031,Slasher Beanie (1 day),20101003,Premium Bonus Hat,0,1,2,9,2,0,621230003,99,0,1
+40,621230032,Slasher Beanie (7 days),20101003,Premium Bonus Hat,0,1,2,9,2,0,621230003,199,0,1
+40,621230033,Slasher Beanie (30 days),20101003,Premium Bonus Hat,0,1,2,9,2,0,621230003,399,0,1
+40,621230036,Slasher Beanie (Unlimited),20101003,Premium Bonus Hat,0,1,2,9,2,0,621230003,599,0,1
+40,621230041,Slasher Bell Woolen Hat (1 day),20101004,Premium Bonus Hat,0,1,2,9,2,0,621230004,99,0,1
+40,621230042,Slasher Bell Woolen Hat (7 days),20101004,Premium Bonus Hat,0,1,2,9,2,0,621230004,199,0,1
+40,621230043,Slasher Bell Woolen Hat (30 days),20101004,Premium Bonus Hat,0,1,2,9,2,0,621230004,399,0,1
+40,621230046,Slasher Bell Woolen Hat (Unlimited),20101004,Premium Bonus Hat,0,1,2,9,2,0,621230004,599,0,1
+40,621230051,Slasher Antlers (1 day),20101005,Premium Bonus Hat,0,1,2,9,2,0,621230005,99,0,1
+40,621230052,Slasher Antlers (7 days),20101005,Premium Bonus Hat,0,1,2,9,2,0,621230005,199,0,1
+40,621230053,Slasher Antlers (30 days),20101005,Premium Bonus Hat,0,1,2,9,2,0,621230005,399,0,1
+40,621230056,Slasher Antlers (Unlimited),20101005,Premium Bonus Hat,0,1,2,9,2,0,621230005,599,0,1
+40,621230061,Slasher Devil Horns (1 day),20101006,Premium Bonus Hat,0,1,2,9,2,0,621230006,99,0,1
+40,621230062,Slasher Devil Horns (7 days),20101006,Premium Bonus Hat,0,1,2,9,2,0,621230006,199,0,1
+40,621230063,Slasher Devil Horns (30 days),20101006,Premium Bonus Hat,0,1,2,9,2,0,621230006,399,0,1
+40,621230066,Slasher Devil Horns (Unlimited),20101006,Premium Bonus Hat,0,1,2,9,2,0,621230006,599,0,1
+40,621230071,Slasher Rabbit Ears (1 day),20101007,Premium Bonus Hat,0,1,2,9,2,0,621230007,99,0,1
+40,621230072,Slasher Rabbit Ears (7 days),20101007,Premium Bonus Hat,0,1,2,9,2,0,621230007,199,0,1
+40,621230073,Slasher Rabbit Ears (30 days),20101007,Premium Bonus Hat,0,1,2,9,2,0,621230007,399,0,1
+40,621230076,Slasher Rabbit Ears (Unlimited),20101007,Premium Bonus Hat,0,1,2,9,2,0,621230007,599,0,1
+40,321250011,Slasher Big Bang Mask (1 day),20101193,Premium Bonus Mask,0,1,2,11,2,0,321250001,99,0,1
+40,321250012,Slasher Big Bang Mask (7 days),20101193,Premium Bonus Mask,0,1,2,11,2,0,321250001,199,0,1
+40,321250013,Slasher Big Bang Mask (30 days),20101193,Premium Bonus Mask,0,1,2,11,2,0,321250001,399,0,1
+40,321250016,Slasher Big Bang Mask (Unlimited),20101193,Premium Bonus Mask,0,1,2,11,2,0,321250001,599,0,1
+40,321250021,Slasher Mustache (1 day),20101194,Premium Bonus Mask,0,1,2,11,2,0,321250002,99,0,1
+40,321250022,Slasher Mustache (7 days),20101194,Premium Bonus Mask,0,1,2,11,2,0,321250002,199,0,1
+40,321250023,Slasher Mustache (30 days),20101194,Premium Bonus Mask,0,1,2,11,2,0,321250002,399,0,1
+40,321250026,Slasher Mustache (Unlimited),20101194,Premium Bonus Mask,0,1,2,11,2,0,321250002,599,0,1
+40,321250031,Slasher X Mask (1 day),20101195,Premium Bonus Mask,0,1,2,11,2,0,321250003,99,0,1
+40,321250032,Slasher X Mask (7 days),20101195,Premium Bonus Mask,0,1,2,11,2,0,321250003,199,0,1
+40,321250033,Slasher X Mask (30 days),20101195,Premium Bonus Mask,0,1,2,11,2,0,321250003,399,0,1
+40,321250036,Slasher X Mask (Unlimited),20101195,Premium Bonus Mask,0,1,2,11,2,0,321250003,599,0,1
+40,321240011,Slasher Colorful Framed Sunglasses (1 day),20101145,Premium Bonus Glasses,0,1,2,10,2,0,321240001,99,0,1
+40,321240012,Slasher Colorful Framed Sunglasses (7 days),20101145,Premium Bonus Glasses,0,1,2,10,2,0,321240001,199,0,1
+40,321240013,Slasher Colorful Framed Sunglasses (30 days),20101145,Premium Bonus Glasses,0,1,2,10,2,0,321240001,399,0,1
+40,321240016,Slasher Colorful Framed Sunglasses (Unlimited),20101145,Premium Bonus Glasses,0,1,2,10,2,0,321240001,599,0,1
+40,321240021,Slasher Bowing Sunglasses (1 day),20101146,Premium Bonus Glasses,0,1,2,10,2,0,321240002,99,0,1
+40,321240022,Slasher Bowing Sunglasses (7 days),20101146,Premium Bonus Glasses,0,1,2,10,2,0,321240002,199,0,1
+40,321240023,Slasher Bowing Sunglasses (30 days),20101146,Premium Bonus Glasses,0,1,2,10,2,0,321240002,399,0,1
+40,321240026,Slasher Bowing Sunglasses (Unlimited),20101146,Premium Bonus Glasses,0,1,2,10,2,0,321240002,599,0,1
+40,321240031,Slasher Horn Spectacles (1 day),20101147,Premium Bonus Glasses,0,1,2,10,2,0,321240003,99,0,1
+40,321240032,Slasher Horn Spectacles (7 days),20101147,Premium Bonus Glasses,0,1,2,10,2,0,321240003,199,0,1
+40,321240033,Slasher Horn Spectacles (30 days),20101147,Premium Bonus Glasses,0,1,2,10,2,0,321240003,399,0,1
+40,321240036,Slasher Horn Spectacles (Unlimited),20101147,Premium Bonus Glasses,0,1,2,10,2,0,321240003,599,0,1
+40,321260011,Slasher Checkered Backpack (1 day),20101225,Premium Bonus Bag,0,1,2,12,2,0,321260001,99,0,1
+40,321260012,Slasher Checkered Backpack (7 days),20101225,Premium Bonus Bag,0,1,2,12,2,0,321260001,199,0,1
+40,321260013,Slasher Checkered Backpack (30 days),20101225,Premium Bonus Bag,0,1,2,12,2,0,321260001,399,0,1
+40,321260016,Slasher Checkered Backpack (Unlimited),20101225,Premium Bonus Bag,0,1,2,12,2,0,321260001,599,0,1
+40,321260021,Slasher Leather Backpack (1 day),20101226,Premium Bonus Bag,0,1,2,12,2,0,321260002,99,0,1
+40,321260022,Slasher Leather Backpack (7 days),20101226,Premium Bonus Bag,0,1,2,12,2,0,321260002,199,0,1
+40,321260023,Slasher Leather Backpack (30 days),20101226,Premium Bonus Bag,0,1,2,12,2,0,321260002,399,0,1
+40,321260026,Slasher Leather Backpack (Unlimited),20101226,Premium Bonus Bag,0,1,2,12,2,0,321260002,599,0,1
+40,321260031,Slasher Padding Backpack (1 day),20101227,Premium Bonus Bag,0,1,2,12,2,0,321260003,99,0,1
+40,321260032,Slasher Padding Backpack (7 days),20101227,Premium Bonus Bag,0,1,2,12,2,0,321260003,199,0,1
+40,321260033,Slasher Padding Backpack (30 days),20101227,Premium Bonus Bag,0,1,2,12,2,0,321260003,399,0,1
+40,321260036,Slasher Padding Backpack (Unlimited),20101227,Premium Bonus Bag,0,1,2,12,2,0,321260003,599,0,1
+40,221130021,Elonde Forest Cat Gloves (1 day),20201097,Premium Bonus Gloves,0,1,2,7,2,0,221130002,99,0,1
+40,221130022,Elonde Forest Cat Gloves (7 days),20201097,Premium Bonus Gloves,0,1,2,7,2,0,221130002,199,0,1
+40,221130023,Elonde Forest Cat Gloves (30 days),20201097,Premium Bonus Gloves,0,1,2,7,2,0,221130002,399,0,1
+40,221130026,Elonde Forest Cat Gloves (Unlimited),20201097,Premium Bonus Gloves,0,1,2,7,2,0,221130002,599,0,1
+40,222110021,Gray Screw T-Shirt (1 day),20202001,Premium Bonus Shirt,0,11,2,5,2,0,222110002,99,0,1
+40,222110022,Gray Screw T-Shirt (7 days),20202001,Premium Bonus Shirt,0,11,2,5,2,0,222110002,199,0,1
+40,222110023,Gray Screw T-Shirt (30 days),20202001,Premium Bonus Shirt,0,11,2,5,2,0,222110002,399,0,1
+40,222110026,Gray Screw T-Shirt (Unlimited),20202001,Premium Bonus Shirt,0,11,2,5,2,0,222110002,599,0,1
+40,222110031,Purple Screw T-Shirt (1 day),20202002,Premium Bonus Shirt,0,11,2,5,2,0,222110003,99,0,1
+40,222110032,Purple Screw T-Shirt (7 days),20202002,Premium Bonus Shirt,0,11,2,5,2,0,222110003,199,0,1
+40,222110033,Purple Screw T-Shirt (30 days),20202002,Premium Bonus Shirt,0,11,2,5,2,0,222110003,399,0,1
+40,222110036,Purple Screw T-Shirt (Unlimited),20202002,Premium Bonus Shirt,0,11,2,5,2,0,222110003,599,0,1
+40,222110041,Plain Red T-Shirt (1 day),20202003,Premium Bonus Shirt,0,11,2,5,2,0,222110004,99,0,1
+40,222110042,Plain Red T-Shirt (7 days),20202003,Premium Bonus Shirt,0,11,2,5,2,0,222110004,199,0,1
+40,222110043,Plain Red T-Shirt (30 days),20202003,Premium Bonus Shirt,0,11,2,5,2,0,222110004,399,0,1
+40,222110046,Plain Red T-Shirt (Unlimited),20202003,Premium Bonus Shirt,0,11,2,5,2,0,222110004,599,0,1
+40,222110051,Plain Green T-Shirt (1 day),20202004,Premium Bonus Shirt,0,11,2,5,2,0,222110005,99,0,1
+40,222110052,Plain Green T-Shirt (7 days),20202004,Premium Bonus Shirt,0,11,2,5,2,0,222110005,199,0,1
+40,222110053,Plain Green T-Shirt (30 days),20202004,Premium Bonus Shirt,0,11,2,5,2,0,222110005,399,0,1
+40,222110056,Plain Green T-Shirt (Unlimited),20202004,Premium Bonus Shirt,0,11,2,5,2,0,222110005,599,0,1
+40,222110061,Green Padded Waistcoat (1 day),20202005,Premium Bonus Shirt,0,11,2,5,2,0,222110006,99,0,1
+40,222110062,Green Padded Waistcoat (7 days),20202005,Premium Bonus Shirt,0,11,2,5,2,0,222110006,199,0,1
+40,222110063,Green Padded Waistcoat (30 days),20202005,Premium Bonus Shirt,0,11,2,5,2,0,222110006,399,0,1
+40,222110066,Green Padded Waistcoat (Unlimited),20202005,Premium Bonus Shirt,0,11,2,5,2,0,222110006,599,0,1
+40,222110071,Aquamarine Padded Waistcoat (1 day),20202006,Premium Bonus Shirt,0,11,2,5,2,0,222110007,99,0,1
+40,222110072,Aquamarine Padded Waistcoat (7 days),20202006,Premium Bonus Shirt,0,11,2,5,2,0,222110007,199,0,1
+40,222110073,Aquamarine Padded Waistcoat (30 days),20202006,Premium Bonus Shirt,0,11,2,5,2,0,222110007,399,0,1
+40,222110076,Aquamarine Padded Waistcoat (Unlimited),20202006,Premium Bonus Shirt,0,11,2,5,2,0,222110007,599,0,1
+40,222120021,Patterned Blue Short Jeans (1 day),20202049,Premium Bonus Pants,0,11,2,6,2,0,222120002,99,0,1
+40,222120022,Patterned Blue Short Jeans (7 days),20202049,Premium Bonus Pants,0,11,2,6,2,0,222120002,199,0,1
+40,222120023,Patterned Blue Short Jeans (30 days),20202049,Premium Bonus Pants,0,11,2,6,2,0,222120002,399,0,1
+40,222120026,Patterned Blue Short Jeans (Unlimited),20202049,Premium Bonus Pants,0,11,2,6,2,0,222120002,599,0,1
+40,222120031,Dragon-Patterned Short Jeans (1 day),20202050,Premium Bonus Pants,0,11,2,6,2,0,222120003,99,0,1
+40,222120032,Dragon-Patterned Short Jeans (7 days),20202050,Premium Bonus Pants,0,11,2,6,2,0,222120003,199,0,1
+40,222120033,Dragon-Patterned Short Jeans (30 days),20202050,Premium Bonus Pants,0,11,2,6,2,0,222120003,399,0,1
+40,222120036,Dragon-Patterned Short Jeans (Unlimited),20202050,Premium Bonus Pants,0,11,2,6,2,0,222120003,599,0,1
+40,222120041,Green Tracksuit (1 day),20202051,Premium Bonus Pants,0,11,2,6,2,0,222120004,99,0,1
+40,222120042,Green Tracksuit (7 days),20202051,Premium Bonus Pants,0,11,2,6,2,0,222120004,499,0,1
+40,222120043,Green Tracksuit (30 days),20202051,Premium Bonus Pants,0,11,2,6,2,0,222120004,999,0,1
+40,222120046,Green Tracksuit (Unlimited),20202051,Premium Bonus Pants,0,11,2,6,2,0,222120004,1999,0,1
+40,222120051,Gray Tracksuit (1 day),20202052,Premium Bonus Pants,0,11,2,6,2,0,222120005,99,0,1
+40,222120052,Gray Tracksuit (7 days),20202052,Premium Bonus Pants,0,11,2,6,2,0,222120005,499,0,1
+40,222120053,Gray Tracksuit (30 days),20202052,Premium Bonus Pants,0,11,2,6,2,0,222120005,999,0,1
+40,222120056,Gray Tracksuit (Unlimited),20202052,Premium Bonus Pants,0,11,2,6,2,0,222120005,1999,0,1
+40,222120061,Plain Beige Shorts (1 day),20202053,Premium Bonus Pants,0,11,2,6,2,0,222120006,99,0,1
+40,222120062,Plain Beige Shorts (7 days),20202053,Premium Bonus Pants,0,11,2,6,2,0,222120006,199,0,1
+40,222120063,Plain Beige Shorts (30 days),20202053,Premium Bonus Pants,0,11,2,6,2,0,222120006,399,0,1
+40,222120066,Plain Beige Shorts (Unlimited),20202053,Premium Bonus Pants,0,11,2,6,2,0,222120006,599,0,1
+40,222120071,Polka Dot Shorts (1 day),20202054,Premium Bonus Pants,0,11,2,6,2,0,222120007,99,0,1
+40,222120072,Polka Dot Shorts (7 days),20202054,Premium Bonus Pants,0,11,2,6,2,0,222120007,199,0,1
+40,222120073,Polka Dot Shorts (30 days),20202054,Premium Bonus Pants,0,11,2,6,2,0,222120007,399,0,1
+40,222120076,Polka Dot Shorts (Unlimited),20202054,Premium Bonus Pants,0,11,2,6,2,0,222120007,599,0,1
+40,222140021,Brown Leather Boots (1 day),20202145,Premium Bonus Shoes,0,11,2,8,2,0,222140002,99,0,1
+40,222140022,Brown Leather Boots (7 days),20202145,Premium Bonus Shoes,0,11,2,8,2,0,222140002,199,0,1
+40,222140023,Brown Leather Boots (30 days),20202145,Premium Bonus Shoes,0,11,2,8,2,0,222140002,399,0,1
+40,222140026,Brown Leather Boots (Unlimited),20202145,Premium Bonus Shoes,0,11,2,8,2,0,222140002,599,0,1
+40,222140031,Black Leather Boots (1 day),20202146,Premium Bonus Shoes,0,11,2,8,2,0,222140003,99,0,1
+40,222140032,Black Leather Boots (7 days),20202146,Premium Bonus Shoes,0,11,2,8,2,0,222140003,199,0,1
+40,222140033,Black Leather Boots (30 days),20202146,Premium Bonus Shoes,0,11,2,8,2,0,222140003,399,0,1
+40,222140036,Black Leather Boots (Unlimited),20202146,Premium Bonus Shoes,0,11,2,8,2,0,222140003,599,0,1
+40,222140041,Yellow Running Shoes (1 day),20202147,Premium Bonus Shoes,0,11,2,8,2,0,222140004,99,0,1
+40,222140042,Yellow Running Shoes (7 days),20202147,Premium Bonus Shoes,0,11,2,8,2,0,222140004,199,0,1
+40,222140043,Yellow Running Shoes (30 days),20202147,Premium Bonus Shoes,0,11,2,8,2,0,222140004,399,0,1
+40,222140046,Yellow Running Shoes (Unlimited),20202147,Premium Bonus Shoes,0,11,2,8,2,0,222140004,599,0,1
+40,222140051,Sky Blue Running Shoes (1 day),20202148,Premium Bonus Shoes,0,11,2,8,2,0,222140005,99,0,1
+40,222140052,Sky Blue Running Shoes (7 days),20202148,Premium Bonus Shoes,0,11,2,8,2,0,222140005,199,0,1
+40,222140053,Sky Blue Running Shoes (30 days),20202148,Premium Bonus Shoes,0,11,2,8,2,0,222140005,399,0,1
+40,222140056,Sky Blue Running Shoes (Unlimited),20202148,Premium Bonus Shoes,0,11,2,8,2,0,222140005,599,0,1
+40,222140061,Brown Walking Shoes (1 day),20202149,Premium Bonus Shoes,0,11,2,8,2,0,222140006,99,0,1
+40,222140062,Brown Walking Shoes (7 days),20202149,Premium Bonus Shoes,0,11,2,8,2,0,222140006,199,0,1
+40,222140063,Brown Walking Shoes (30 days),20202149,Premium Bonus Shoes,0,11,2,8,2,0,222140006,399,0,1
+40,222140066,Brown Walking Shoes (Unlimited),20202149,Premium Bonus Shoes,0,11,2,8,2,0,222140006,599,0,1
+40,222140071,Blue Walking Shoes (1 day),20202150,Premium Bonus Shoes,0,11,2,8,2,0,222140007,99,0,1
+40,222140072,Blue Walking Shoes (7 days),20202150,Premium Bonus Shoes,0,11,2,8,2,0,222140007,199,0,1
+40,222140073,Blue Walking Shoes (30 days),20202150,Premium Bonus Shoes,0,11,2,8,2,0,222140007,399,0,1
+40,222140076,Blue Walking Shoes (Unlimited),20202150,Premium Bonus Shoes,0,11,2,8,2,0,222140007,599,0,1
+40,222110081,American Football Set (1 day),20202193,Premium Set Item,0,11,2,2,2,0,222110008,99,0,1
+40,222110082,American Football Set (7 days),20202193,Premium Set Item,0,11,2,2,2,0,222110008,199,0,1
+40,222110083,American Football Set (30 days),20202193,Premium Set Item,0,11,2,2,2,0,222110008,399,0,1
+40,222110086,American Football Set (Unlimited),20202193,Premium Set Item,0,11,2,2,2,0,222110008,599,0,1
+40,622230011,American Football Helmet (1 day),20102001,Premium Bonus Hat,0,11,2,9,2,0,622230001,99,0,1
+40,622230012,American Football Helmet (7 days),20102001,Premium Bonus Hat,0,11,2,9,2,0,622230001,199,0,1
+40,622230013,American Football Helmet (30 days),20102001,Premium Bonus Hat,0,11,2,9,2,0,622230001,399,0,1
+40,622230016,American Football Helmet (Unlimited),20102001,Premium Bonus Hat,0,11,2,9,2,0,622230001,599,0,1
+40,622230021,Fighter Brown Hunting Cap (1 day),20102002,Premium Bonus Hat,0,11,2,9,2,0,622230002,99,0,1
+40,622230022,Fighter Brown Hunting Cap (7 days),20102002,Premium Bonus Hat,0,11,2,9,2,0,622230002,199,0,1
+40,622230023,Fighter Brown Hunting Cap (30 days),20102002,Premium Bonus Hat,0,11,2,9,2,0,622230002,399,0,1
+40,622230026,Fighter Brown Hunting Cap (Unlimited),20102002,Premium Bonus Hat,0,11,2,9,2,0,622230002,599,0,1
+40,622230031,Fighter Beanie (1 day),20102003,Premium Bonus Hat,0,11,2,9,2,0,622230003,99,0,1
+40,622230032,Fighter Beanie (7 days),20102003,Premium Bonus Hat,0,11,2,9,2,0,622230003,199,0,1
+40,622230033,Fighter Beanie (30 days),20102003,Premium Bonus Hat,0,11,2,9,2,0,622230003,399,0,1
+40,622230036,Fighter Beanie (Unlimited),20102003,Premium Bonus Hat,0,11,2,9,2,0,622230003,599,0,1
+40,622230041,Fighter Bell Woolen Hat (1 day),20102004,Premium Bonus Hat,0,11,2,9,2,0,622230004,99,0,1
+40,622230042,Fighter Bell Woolen Hat (7 days),20102004,Premium Bonus Hat,0,11,2,9,2,0,622230004,199,0,1
+40,622230043,Fighter Bell Woolen Hat (30 days),20102004,Premium Bonus Hat,0,11,2,9,2,0,622230004,399,0,1
+40,622230046,Fighter Bell Woolen Hat (Unlimited),20102004,Premium Bonus Hat,0,11,2,9,2,0,622230004,599,0,1
+40,622230051,Fighter Antlers (1 day),20102005,Premium Bonus Hat,0,11,2,9,2,0,622230005,99,0,1
+40,622230052,Fighter Antlers (7 days),20102005,Premium Bonus Hat,0,11,2,9,2,0,622230005,199,0,1
+40,622230053,Fighter Antlers (30 days),20102005,Premium Bonus Hat,0,11,2,9,2,0,622230005,399,0,1
+40,622230056,Fighter Antlers (Unlimited),20102005,Premium Bonus Hat,0,11,2,9,2,0,622230005,599,0,1
+40,622230061,Fighter Devil Horns (1 day),20102006,Premium Bonus Hat,0,11,2,9,2,0,622230006,99,0,1
+40,622230062,Fighter Devil Horns (7 days),20102006,Premium Bonus Hat,0,11,2,9,2,0,622230006,199,0,1
+40,622230063,Fighter Devil Horns (30 days),20102006,Premium Bonus Hat,0,11,2,9,2,0,622230006,399,0,1
+40,622230066,Fighter Devil Horns (Unlimited),20102006,Premium Bonus Hat,0,11,2,9,2,0,622230006,599,0,1
+40,622230071,Fighter Rabbit Ears (1 day),20102007,Premium Bonus Hat,0,11,2,9,2,0,622230007,99,0,1
+40,622230072,Fighter Rabbit Ears (7 days),20102007,Premium Bonus Hat,0,11,2,9,2,0,622230007,199,0,1
+40,622230073,Fighter Rabbit Ears (30 days),20102007,Premium Bonus Hat,0,11,2,9,2,0,622230007,399,0,1
+40,622230076,Fighter Rabbit Ears (Unlimited),20102007,Premium Bonus Hat,0,11,2,9,2,0,622230007,599,0,1
+40,322250011,Fighter Big Bang Mask (1 day),20102193,Premium Bonus Mask,0,11,2,11,2,0,322250001,99,0,1
+40,322250012,Fighter Big Bang Mask (7 days),20102193,Premium Bonus Mask,0,11,2,11,2,0,322250001,199,0,1
+40,322250013,Fighter Big Bang Mask (30 days),20102193,Premium Bonus Mask,0,11,2,11,2,0,322250001,399,0,1
+40,322250016,Fighter Big Bang Mask (Unlimited),20102193,Premium Bonus Mask,0,11,2,11,2,0,322250001,599,0,1
+40,322250021,Fighter Mustache (1 day),20102194,Premium Bonus Mask,0,11,2,11,2,0,322250002,99,0,1
+40,322250022,Fighter Mustache (7 days),20102194,Premium Bonus Mask,0,11,2,11,2,0,322250002,199,0,1
+40,322250023,Fighter Mustache (30 days),20102194,Premium Bonus Mask,0,11,2,11,2,0,322250002,399,0,1
+40,322250026,Fighter Mustache (Unlimited),20102194,Premium Bonus Mask,0,11,2,11,2,0,322250002,599,0,1
+40,322250031,Fighter X Mask (1 day),20102195,Premium Bonus Mask,0,11,2,11,2,0,322250003,99,0,1
+40,322250032,Fighter X Mask (7 days),20102195,Premium Bonus Mask,0,11,2,11,2,0,322250003,199,0,1
+40,322250033,Fighter X Mask (30 days),20102195,Premium Bonus Mask,0,11,2,11,2,0,322250003,399,0,1
+40,322250036,Fighter X Mask (Unlimited),20102195,Premium Bonus Mask,0,11,2,11,2,0,322250003,599,0,1
+40,322240011,Fighter Colorful Framed Sunglasses (1 day),20102145,Premium Bonus Glasses,0,11,2,10,2,0,322240001,99,0,1
+40,322240012,Fighter Colorful Framed Sunglasses (7 days),20102145,Premium Bonus Glasses,0,11,2,10,2,0,322240001,199,0,1
+40,322240013,Fighter Colorful Framed Sunglasses (30 days),20102145,Premium Bonus Glasses,0,11,2,10,2,0,322240001,399,0,1
+40,322240016,Fighter Colorful Framed Sunglasses (Unlimited),20102145,Premium Bonus Glasses,0,11,2,10,2,0,322240001,599,0,1
+40,322240021,Fighter Bowing Sunglasses (1 day),20102146,Premium Bonus Glasses,0,11,2,10,2,0,322240002,99,0,1
+40,322240022,Fighter Bowing Sunglasses (7 days),20102146,Premium Bonus Glasses,0,11,2,10,2,0,322240002,199,0,1
+40,322240023,Fighter Bowing Sunglasses (30 days),20102146,Premium Bonus Glasses,0,11,2,10,2,0,322240002,399,0,1
+40,322240026,Fighter Bowing Sunglasses (Unlimited),20102146,Premium Bonus Glasses,0,11,2,10,2,0,322240002,599,0,1
+40,322240031,Fighter Horn Spectacles (1 day),20102147,Premium Bonus Glasses,0,11,2,10,2,0,322240003,99,0,1
+40,322240032,Fighter Horn Spectacles (7 days),20102147,Premium Bonus Glasses,0,11,2,10,2,0,322240003,199,0,1
+40,322240033,Fighter Horn Spectacles (30 days),20102147,Premium Bonus Glasses,0,11,2,10,2,0,322240003,399,0,1
+40,322240036,Fighter Horn Spectacles (Unlimited),20102147,Premium Bonus Glasses,0,11,2,10,2,0,322240003,599,0,1
+40,322260011,Fighter Checkered Backpack (1 day),20102225,Premium Bonus Bag,0,11,2,12,2,0,322260001,99,0,1
+40,322260012,Fighter Checkered Backpack (7 days),20102225,Premium Bonus Bag,0,11,2,12,2,0,322260001,199,0,1
+40,322260013,Fighter Checkered Backpack (30 days),20102225,Premium Bonus Bag,0,11,2,12,2,0,322260001,399,0,1
+40,322260016,Fighter Checkered Backpack (Unlimited),20102225,Premium Bonus Bag,0,11,2,12,2,0,322260001,599,0,1
+40,322260021,Fighter Leather Backpack (1 day),20102226,Premium Bonus Bag,0,11,2,12,2,0,322260002,99,0,1
+40,322260022,Fighter Leather Backpack (7 days),20102226,Premium Bonus Bag,0,11,2,12,2,0,322260002,199,0,1
+40,322260023,Fighter Leather Backpack (30 days),20102226,Premium Bonus Bag,0,11,2,12,2,0,322260002,399,0,1
+40,322260026,Fighter Leather Backpack (Unlimited),20102226,Premium Bonus Bag,0,11,2,12,2,0,322260002,599,0,1
+40,322260031,Fighter Padding Backpack (1 day),20102227,Premium Bonus Bag,0,11,2,12,2,0,322260003,99,0,1
+40,322260032,Fighter Padding Backpack (7 days),20102227,Premium Bonus Bag,0,11,2,12,2,0,322260003,199,0,1
+40,322260033,Fighter Padding Backpack (30 days),20102227,Premium Bonus Bag,0,11,2,12,2,0,322260003,399,0,1
+40,322260036,Fighter Padding Backpack (Unlimited),20102227,Premium Bonus Bag,0,11,2,12,2,0,322260003,599,0,1
+40,222130021,Elonde Forest Wolf Gloves (1 day),20202097,Premium Bonus Gloves,0,11,2,7,2,0,222130002,99,0,1
+40,222130022,Elonde Forest Wolf Gloves (7 days),20202097,Premium Bonus Gloves,0,11,2,7,2,0,222130002,199,0,1
+40,222130023,Elonde Forest Wolf Gloves (30 days),20202097,Premium Bonus Gloves,0,11,2,7,2,0,222130002,399,0,1
+40,222130026,Elonde Forest Wolf Gloves (Unlimited),20202097,Premium Bonus Gloves,0,11,2,7,2,0,222130002,599,0,1
+40,223110021,Green Polka-Dot Tank Top (1 day),20203001,Premium Bonus Shirt,0,21,2,5,2,0,223110002,99,0,1
+40,223110022,Green Polka-Dot Tank Top (7 days),20203001,Premium Bonus Shirt,0,21,2,5,2,0,223110002,199,0,1
+40,223110023,Green Polka-Dot Tank Top (30 days),20203001,Premium Bonus Shirt,0,21,2,5,2,0,223110002,399,0,1
+40,223110026,Green Polka-Dot Tank Top (Unlimited),20203001,Premium Bonus Shirt,0,21,2,5,2,0,223110002,599,0,1
+40,223110031,Purple Checkered Tank Top (1 day),20203002,Premium Bonus Shirt,0,21,2,5,2,0,223110003,99,0,1
+40,223110032,Purple Checkered Tank Top (7 days),20203002,Premium Bonus Shirt,0,21,2,5,2,0,223110003,199,0,1
+40,223110033,Purple Checkered Tank Top (30 days),20203002,Premium Bonus Shirt,0,21,2,5,2,0,223110003,399,0,1
+40,223110036,Purple Checkered Tank Top (Unlimited),20203002,Premium Bonus Shirt,0,21,2,5,2,0,223110003,599,0,1
+40,223110041,Orange Padding (1 day),20203003,Premium Bonus Shirt,0,21,2,5,2,0,223110004,99,0,1
+40,223110042,Orange Padding (7 days),20203003,Premium Bonus Shirt,0,21,2,5,2,0,223110004,199,0,1
+40,223110043,Orange Padding (30 days),20203003,Premium Bonus Shirt,0,21,2,5,2,0,223110004,399,0,1
+40,223110046,Orange Padding (Unlimited),20203003,Premium Bonus Shirt,0,21,2,5,2,0,223110004,599,0,1
+40,223110051,Black Padding (1 day),20203004,Premium Bonus Shirt,0,21,2,5,2,0,223110005,99,0,1
+40,223110052,Black Padding (7 days),20203004,Premium Bonus Shirt,0,21,2,5,2,0,223110005,199,0,1
+40,223110053,Black Padding (30 days),20203004,Premium Bonus Shirt,0,21,2,5,2,0,223110005,399,0,1
+40,223110056,Black Padding (Unlimited),20203004,Premium Bonus Shirt,0,21,2,5,2,0,223110005,599,0,1
+40,223110061,Blue Short-Sleeve (1 day),20203005,Premium Bonus Shirt,0,21,2,5,2,0,223110006,99,0,1
+40,223110062,Blue Short-Sleeve (7 days),20203005,Premium Bonus Shirt,0,21,2,5,2,0,223110006,199,0,1
+40,223110063,Blue Short-Sleeve (30 days),20203005,Premium Bonus Shirt,0,21,2,5,2,0,223110006,399,0,1
+40,223110066,Blue Short-Sleeve (Unlimited),20203005,Premium Bonus Shirt,0,21,2,5,2,0,223110006,599,0,1
+40,223110071,Gold-Patterned White Short-Sleeve (1 day),20203006,Premium Bonus Shirt,0,21,2,5,2,0,223110007,99,0,1
+40,223110072,Gold-Patterned White Short-Sleeve (7 days),20203006,Premium Bonus Shirt,0,21,2,5,2,0,223110007,199,0,1
+40,223110073,Gold-Patterned White Short-Sleeve (30 days),20203006,Premium Bonus Shirt,0,21,2,5,2,0,223110007,399,0,1
+40,223110076,Gold-Patterned White Short-Sleeve (Unlimited),20203006,Premium Bonus Shirt,0,21,2,5,2,0,223110007,599,0,1
+40,223120021,Pink Hot Pants (1 day),20203049,Premium Bonus Pants,0,21,2,6,2,0,223120002,99,0,1
+40,223120022,Pink Hot Pants (7 days),20203049,Premium Bonus Pants,0,21,2,6,2,0,223120002,199,0,1
+40,223120023,Pink Hot Pants (30 days),20203049,Premium Bonus Pants,0,21,2,6,2,0,223120002,399,0,1
+40,223120026,Pink Hot Pants (Unlimited),20203049,Premium Bonus Pants,0,21,2,6,2,0,223120002,599,0,1
+40,223120031,Gray Hot Pants (1 day),20203050,Premium Bonus Pants,0,21,2,6,2,0,223120003,99,0,1
+40,223120032,Gray Hot Pants (7 days),20203050,Premium Bonus Pants,0,21,2,6,2,0,223120003,199,0,1
+40,223120033,Gray Hot Pants (30 days),20203050,Premium Bonus Pants,0,21,2,6,2,0,223120003,399,0,1
+40,223120036,Gray Hot Pants (Unlimited),20203050,Premium Bonus Pants,0,21,2,6,2,0,223120003,599,0,1
+40,223120041,Orange Tracksuit (1 day),20203051,Premium Bonus Pants,0,21,2,6,2,0,223120004,99,0,1
+40,223120042,Orange Tracksuit (7 days),20203051,Premium Bonus Pants,0,21,2,6,2,0,223120004,499,0,1
+40,223120043,Orange Tracksuit (30 days),20203051,Premium Bonus Pants,0,21,2,6,2,0,223120004,399,0,1
+40,223120046,Orange Tracksuit (Unlimited),20203051,Premium Bonus Pants,0,21,2,6,2,0,223120004,1999,0,1
+40,223120051,Black Tracksuit (1 day),20203052,Premium Bonus Pants,0,21,2,6,2,0,223120005,99,0,1
+40,223120052,Black Tracksuit (7 days),20203052,Premium Bonus Pants,0,21,2,6,2,0,223120005,199,0,1
+40,223120053,Black Tracksuit (30 days),20203052,Premium Bonus Pants,0,21,2,6,2,0,223120005,399,0,1
+40,223120056,Black Tracksuit (Unlimited),20203052,Premium Bonus Pants,0,21,2,6,2,0,223120005,599,0,1
+40,223120061,Pink Pleated Mini Skirt (1 day),20203053,Premium Bonus Pants,0,21,2,6,2,0,223120006,99,0,1
+40,223120062,Pink Pleated Mini Skirt (7 days),20203053,Premium Bonus Pants,0,21,2,6,2,0,223120006,199,0,1
+40,223120063,Pink Pleated Mini Skirt (30 days),20203053,Premium Bonus Pants,0,21,2,6,2,0,223120006,399,0,1
+40,223120066,Pink Pleated Mini Skirt (Unlimited),20203053,Premium Bonus Pants,0,21,2,6,2,0,223120006,599,0,1
+40,223120071,Silver Pleated Mini Skirt (1 day),20203054,Premium Bonus Pants,0,21,2,6,2,0,223120007,99,0,1
+40,223120072,Silver Pleated Mini Skirt (7 days),20203054,Premium Bonus Pants,0,21,2,6,2,0,223120007,199,0,1
+40,223120073,Silver Pleated Mini Skirt (30 days),20203054,Premium Bonus Pants,0,21,2,6,2,0,223120007,399,0,1
+40,223120076,Silver Pleated Mini Skirt (Unlimited),20203054,Premium Bonus Pants,0,21,2,6,2,0,223120007,599,0,1
+40,223140021,White Summer Sandals (1 day),20203145,Premium Bonus Shoes,0,21,2,8,2,0,223140002,99,0,1
+40,223140022,White Summer Sandals (7 days),20203145,Premium Bonus Shoes,0,21,2,8,2,0,223140002,199,0,1
+40,223140023,White Summer Sandals (30 days),20203145,Premium Bonus Shoes,0,21,2,8,2,0,223140002,399,0,1
+40,223140026,White Summer Sandals (Unlimited),20203145,Premium Bonus Shoes,0,21,2,8,2,0,223140002,599,0,1
+40,223140031,Polka Dot Sandals (1 day),20203146,Premium Bonus Shoes,0,21,2,8,2,0,223140003,99,0,1
+40,223140032,Polka Dot Sandals (7 days),20203146,Premium Bonus Shoes,0,21,2,8,2,0,223140003,199,0,1
+40,223140033,Polka Dot Sandals (30 days),20203146,Premium Bonus Shoes,0,21,2,8,2,0,223140003,399,0,1
+40,223140036,Polka Dot Sandals (Unlimited),20203146,Premium Bonus Shoes,0,21,2,8,2,0,223140003,599,0,1
+40,223140041,Orange-Patterned Running Shoes (1 day),20203147,Premium Bonus Shoes,0,21,2,8,2,0,223140004,99,0,1
+40,223140042,Orange-Patterned Running Shoes (7 days),20203147,Premium Bonus Shoes,0,21,2,8,2,0,223140004,199,0,1
+40,223140043,Orange-Patterned Running Shoes (30 days),20203147,Premium Bonus Shoes,0,21,2,8,2,0,223140004,399,0,1
+40,223140046,Orange-Patterned Running Shoes (Unlimited),20203147,Premium Bonus Shoes,0,21,2,8,2,0,223140004,599,0,1
+40,223140051,Black-Patterned Running Shoes (1 day),20203148,Premium Bonus Shoes,0,21,2,8,2,0,223140005,99,0,1
+40,223140052,Black-Patterned Running Shoes (7 days),20203148,Premium Bonus Shoes,0,21,2,8,2,0,223140005,199,0,1
+40,223140053,Black-Patterned Running Shoes (30 days),20203148,Premium Bonus Shoes,0,21,2,8,2,0,223140005,399,0,1
+40,223140056,Black-Patterned Running Shoes (Unlimited),20203148,Premium Bonus Shoes,0,21,2,8,2,0,223140005,599,0,1
+40,223140061,Yellow High Heels (1 day),20203149,Premium Bonus Shoes,0,21,2,8,2,0,223140006,99,0,1
+40,223140062,Yellow High Heels (7 days),20203149,Premium Bonus Shoes,0,21,2,8,2,0,223140006,199,0,1
+40,223140063,Yellow High Heels (30 days),20203149,Premium Bonus Shoes,0,21,2,8,2,0,223140006,399,0,1
+40,223140066,Yellow High Heels (Unlimited),20203149,Premium Bonus Shoes,0,21,2,8,2,0,223140006,599,0,1
+40,223140071,Purple High Heels (1 day),20203150,Premium Bonus Shoes,0,21,2,8,2,0,223140007,99,0,1
+40,223140072,Purple High Heels (7 days),20203150,Premium Bonus Shoes,0,21,2,8,2,0,223140007,199,0,1
+40,223140073,Purple High Heels (30 days),20203150,Premium Bonus Shoes,0,21,2,8,2,0,223140007,399,0,1
+40,223140076,Purple High Heels (Unlimited),20203150,Premium Bonus Shoes,0,21,2,8,2,0,223140007,599,0,1
+40,223110081,School Uniform Set (1 day),20203193,Premium Set Item,0,21,2,2,2,0,223110008,99,0,1
+40,223110082,School Uniform Set (7 days),20203193,Premium Set Item,0,21,2,2,2,0,223110008,499,0,1
+40,223110083,School Uniform Set (30 days),20203193,Premium Set Item,0,21,2,2,2,0,223110008,999,0,1
+40,223110086,School Uniform Set (Unlimited),20203193,Premium Set Item,0,21,2,2,2,0,223110008,1999,0,1
+40,623230011,Baseball Cap (1 day),20103001,Premium Bonus Hat,0,21,2,9,2,0,623230001,99,0,1
+40,623230012,Baseball Cap (7 days),20103001,Premium Bonus Hat,0,21,2,9,2,0,623230001,199,0,1
+40,623230013,Baseball Cap (30 days),20103001,Premium Bonus Hat,0,21,2,9,2,0,623230001,399,0,1
+40,623230016,Baseball Cap (Unlimited),20103001,Premium Bonus Hat,0,21,2,9,2,0,623230001,599,0,1
+40,623230021,Mage Brown Hunting Cap (1 day),20103002,Premium Bonus Hat,0,21,2,9,2,0,623230002,99,0,1
+40,623230022,Mage Brown Hunting Cap (7 days),20103002,Premium Bonus Hat,0,21,2,9,2,0,623230002,199,0,1
+40,623230023,Mage Brown Hunting Cap (30 days),20103002,Premium Bonus Hat,0,21,2,9,2,0,623230002,399,0,1
+40,623230026,Mage Brown Hunting Cap (Unlimited),20103002,Premium Bonus Hat,0,21,2,9,2,0,623230002,599,0,1
+40,623230031,Mage Beanie (1 day),20103003,Premium Bonus Hat,0,21,2,9,2,0,623230003,99,0,1
+40,623230032,Mage Beanie (7 days),20103003,Premium Bonus Hat,0,21,2,9,2,0,623230003,199,0,1
+40,623230033,Mage Beanie (30 days),20103003,Premium Bonus Hat,0,21,2,9,2,0,623230003,399,0,1
+40,623230036,Mage Beanie (Unlimited),20103003,Premium Bonus Hat,0,21,2,9,2,0,623230003,599,0,1
+40,623230041,Mage Bell Woolen Hat (1 day),20103004,Premium Bonus Hat,0,21,2,9,2,0,623230004,99,0,1
+40,623230042,Mage Bell Woolen Hat (7 days),20103004,Premium Bonus Hat,0,21,2,9,2,0,623230004,199,0,1
+40,623230043,Mage Bell Woolen Hat (30 days),20103004,Premium Bonus Hat,0,21,2,9,2,0,623230004,399,0,1
+40,623230046,Mage Bell Woolen Hat (Unlimited),20103004,Premium Bonus Hat,0,21,2,9,2,0,623230004,599,0,1
+40,623230051,Mage Rabbit Ears (1 day),20103005,Premium Bonus Hat,0,21,2,9,2,0,623230005,99,0,1
+40,623230052,Mage Rabbit Ears (7 days),20103005,Premium Bonus Hat,0,21,2,9,2,0,623230005,199,0,1
+40,623230053,Mage Rabbit Ears (30 days),20103005,Premium Bonus Hat,0,21,2,9,2,0,623230005,399,0,1
+40,623230056,Mage Rabbit Ears (Unlimited),20103005,Premium Bonus Hat,0,21,2,9,2,0,623230005,599,0,1
+40,623230061,Mage Devil Horns (1 day),20103006,Premium Bonus Hat,0,21,2,9,2,0,623230006,99,0,1
+40,623230062,Mage Devil Horns (7 days),20103006,Premium Bonus Hat,0,21,2,9,2,0,623230006,199,0,1
+40,623230063,Mage Devil Horns (30 days),20103006,Premium Bonus Hat,0,21,2,9,2,0,623230006,399,0,1
+40,623230066,Mage Devil Horns (Unlimited),20103006,Premium Bonus Hat,0,21,2,9,2,0,623230006,599,0,1
+40,623230071,Mage Antlers (1 day),20103007,Premium Bonus Hat,0,21,2,9,2,0,623230007,99,0,1
+40,623230072,Mage Antlers (7 days),20103007,Premium Bonus Hat,0,21,2,9,2,0,623230007,199,0,1
+40,623230073,Mage Antlers (30 days),20103007,Premium Bonus Hat,0,21,2,9,2,0,623230007,399,0,1
+40,623230076,Mage Antlers (Unlimited),20103007,Premium Bonus Hat,0,21,2,9,2,0,623230007,599,0,1
+40,323250011,Mage X Mask (1 day),20103193,Premium Bonus Mask,0,21,2,11,2,0,323250001,99,0,1
+40,323250012,Mage X Mask (7 days),20103193,Premium Bonus Mask,0,21,2,11,2,0,323250001,199,0,1
+40,323250013,Mage X Mask (30 days),20103193,Premium Bonus Mask,0,21,2,11,2,0,323250001,399,0,1
+40,323250016,Mage X Mask (Unlimited),20103193,Premium Bonus Mask,0,21,2,11,2,0,323250001,599,0,1
+40,323250021,Mage Mustache (1 day),20103194,Premium Bonus Mask,0,21,2,11,2,0,323250002,99,0,1
+40,323250022,Mage Mustache (7 days),20103194,Premium Bonus Mask,0,21,2,11,2,0,323250002,199,0,1
+40,323250023,Mage Mustache (30 days),20103194,Premium Bonus Mask,0,21,2,11,2,0,323250002,399,0,1
+40,323250026,Mage Mustache (Unlimited),20103194,Premium Bonus Mask,0,21,2,11,2,0,323250002,599,0,1
+40,323250031,Mage Big Bang Mask (1 day),20103195,Premium Bonus Mask,0,21,2,11,2,0,323250003,99,0,1
+40,323250032,Mage Big Bang Mask (7 days),20103195,Premium Bonus Mask,0,21,2,11,2,0,323250003,199,0,1
+40,323250033,Mage Big Bang Mask (30 days),20103195,Premium Bonus Mask,0,21,2,11,2,0,323250003,399,0,1
+40,323250036,Mage Big Bang Mask (Unlimited),20103195,Premium Bonus Mask,0,21,2,11,2,0,323250003,599,0,1
+40,323240011,Mage Horn Spectacles (1 day),20103145,Premium Bonus Glasses,0,21,2,10,2,0,323240001,99,0,1
+40,323240012,Mage Horn Spectacles (7 days),20103145,Premium Bonus Glasses,0,21,2,10,2,0,323240001,199,0,1
+40,323240013,Mage Horn Spectacles (30 days),20103145,Premium Bonus Glasses,0,21,2,10,2,0,323240001,399,0,1
+40,323240016,Mage Horn Spectacles (Unlimited),20103145,Premium Bonus Glasses,0,21,2,10,2,0,323240001,599,0,1
+40,323240021,Mage Bowing Sunglasses (1 day),20103146,Premium Bonus Glasses,0,21,2,10,2,0,323240002,99,0,1
+40,323240022,Mage Bowing Sunglasses (7 days),20103146,Premium Bonus Glasses,0,21,2,10,2,0,323240002,199,0,1
+40,323240023,Mage Bowing Sunglasses (30 days),20103146,Premium Bonus Glasses,0,21,2,10,2,0,323240002,399,0,1
+40,323240026,Mage Bowing Sunglasses (Unlimited),20103146,Premium Bonus Glasses,0,21,2,10,2,0,323240002,599,0,1
+40,323240031,Mage Colorful Framed Sunglasses (1 day),20103147,Premium Bonus Glasses,0,21,2,10,2,0,323240003,99,0,1
+40,323240032,Mage Colorful Framed Sunglasses (7 days),20103147,Premium Bonus Glasses,0,21,2,10,2,0,323240003,199,0,1
+40,323240033,Mage Colorful Framed Sunglasses (30 days),20103147,Premium Bonus Glasses,0,21,2,10,2,0,323240003,399,0,1
+40,323240036,Mage Colorful Framed Sunglasses (Unlimited),20103147,Premium Bonus Glasses,0,21,2,10,2,0,323240003,599,0,1
+40,323260011,Mage Teddy Bear Padding Backpack (1 day),20103225,Premium Bonus Bag,0,21,2,12,2,0,323260001,99,0,1
+40,323260012,Mage Teddy Bear Padding Backpack (7 days),20103225,Premium Bonus Bag,0,21,2,12,2,0,323260001,199,0,1
+40,323260013,Mage Teddy Bear Padding Backpack (30 days),20103225,Premium Bonus Bag,0,21,2,12,2,0,323260001,399,0,1
+40,323260016,Mage Teddy Bear Padding Backpack (Unlimited),20103225,Premium Bonus Bag,0,21,2,12,2,0,323260001,599,0,1
+40,323260021,Mage Leather Backpack (1 day),20103226,Premium Bonus Bag,0,21,2,12,2,0,323260002,99,0,1
+40,323260022,Mage Leather Backpack (7 days),20103226,Premium Bonus Bag,0,21,2,12,2,0,323260002,199,0,1
+40,323260023,Mage Leather Backpack (30 days),20103226,Premium Bonus Bag,0,21,2,12,2,0,323260002,399,0,1
+40,323260026,Mage Leather Backpack (Unlimited),20103226,Premium Bonus Bag,0,21,2,12,2,0,323260002,599,0,1
+40,323260031,Mage Checkered Backpack (1 day),20103227,Premium Bonus Bag,0,21,2,12,2,0,323260003,99,0,1
+40,323260032,Mage Checkered Backpack (7 days),20103227,Premium Bonus Bag,0,21,2,12,2,0,323260003,199,0,1
+40,323260033,Mage Checkered Backpack (30 days),20103227,Premium Bonus Bag,0,21,2,12,2,0,323260003,399,0,1
+40,323260036,Mage Checkered Backpack (Unlimited),20103227,Premium Bonus Bag,0,21,2,12,2,0,323260003,599,0,1
+40,223130021,Elonde Forest Cat Gloves (1 day),20203097,Premium Bonus Gloves,0,21,2,7,2,0,223130002,99,0,1
+40,223130022,Elonde Forest Cat Gloves (7 days),20203097,Premium Bonus Gloves,0,21,2,7,2,0,223130002,199,0,1
+40,223130023,Elonde Forest Cat Gloves (30 days),20203097,Premium Bonus Gloves,0,21,2,7,2,0,223130002,399,0,1
+40,223130026,Elonde Forest Cat Gloves (Unlimited),20203097,Premium Bonus Gloves,0,21,2,7,2,0,223130002,599,0,1
+40,224110021,Blue Padded Jumper (1 day),20204001,Premium Bonus Shirt,0,31,2,5,2,0,224110002,99,0,1
+40,224110022,Blue Padded Jumper (7 days),20204001,Premium Bonus Shirt,0,31,2,5,2,0,224110002,199,0,1
+40,224110023,Blue Padded Jumper (30 days),20204001,Premium Bonus Shirt,0,31,2,5,2,0,224110002,399,0,1
+40,224110026,Blue Padded Jumper (Unlimited),20204001,Premium Bonus Shirt,0,31,2,5,2,0,224110002,599,0,1
+40,224110031,Brown Padded Jumper (1 day),20204002,Premium Bonus Shirt,0,31,2,5,2,0,224110003,99,0,1
+40,224110032,Brown Padded Jumper (7 days),20204002,Premium Bonus Shirt,0,31,2,5,2,0,224110003,199,0,1
+40,224110033,Brown Padded Jumper (30 days),20204002,Premium Bonus Shirt,0,31,2,5,2,0,224110003,399,0,1
+40,224110036,Brown Padded Jumper (Unlimited),20204002,Premium Bonus Shirt,0,31,2,5,2,0,224110003,599,0,1
+40,224110041,White Cotton Jacket (1 day),20204003,Premium Bonus Shirt,0,31,2,5,2,0,224110004,99,0,1
+40,224110042,White Cotton Jacket (7 days),20204003,Premium Bonus Shirt,0,31,2,5,2,0,224110004,199,0,1
+40,224110043,White Cotton Jacket (30 days),20204003,Premium Bonus Shirt,0,31,2,5,2,0,224110004,399,0,1
+40,224110046,White Cotton Jacket (Unlimited),20204003,Premium Bonus Shirt,0,31,2,5,2,0,224110004,599,0,1
+40,224110051,Blue Cotton Jacket (1 day),20204004,Premium Bonus Shirt,0,31,2,5,2,0,224110005,99,0,1
+40,224110052,Blue Cotton Jacket (7 days),20204004,Premium Bonus Shirt,0,31,2,5,2,0,224110005,199,0,1
+40,224110053,Blue Cotton Jacket (30 days),20204004,Premium Bonus Shirt,0,31,2,5,2,0,224110005,399,0,1
+40,224110056,Blue Cotton Jacket (Unlimited),20204004,Premium Bonus Shirt,0,31,2,5,2,0,224110005,599,0,1
+40,224110061,Skyblue Suit (Top) (1 day),20204005,Premium Bonus Shirt,0,31,2,5,2,0,224110006,99,0,1
+40,224110062,Skyblue Suit (Top) (7 days),20204005,Premium Bonus Shirt,0,31,2,5,2,0,224110006,199,0,1
+40,224110063,Skyblue Suit (Top) (30 days),20204005,Premium Bonus Shirt,0,31,2,5,2,0,224110006,399,0,1
+40,224110066,Skyblue Suit (Top) (Unlimited),20204005,Premium Bonus Shirt,0,31,2,5,2,0,224110006,599,0,1
+40,224110071,Dark Blue Suit (Top) (1 day),20204006,Premium Bonus Shirt,0,31,2,5,2,0,224110007,99,0,1
+40,224110072,Dark Blue Suit (Top) (7 days),20204006,Premium Bonus Shirt,0,31,2,5,2,0,224110007,199,0,1
+40,224110073,Dark Blue Suit (Top) (30 days),20204006,Premium Bonus Shirt,0,31,2,5,2,0,224110007,399,0,1
+40,224110076,Dark Blue Suit (Top) (Unlimited),20204006,Premium Bonus Shirt,0,31,2,5,2,0,224110007,599,0,1
+40,224120021,Black Jeans (1 day),20204049,Premium Bonus Pants,0,31,2,6,2,0,224120002,99,0,1
+40,224120022,Black Jeans (7 days),20204049,Premium Bonus Pants,0,31,2,6,2,0,224120002,199,0,1
+40,224120023,Black Jeans (30 days),20204049,Premium Bonus Pants,0,31,2,6,2,0,224120002,399,0,1
+40,224120026,Black Jeans (Unlimited),20204049,Premium Bonus Pants,0,31,2,6,2,0,224120002,599,0,1
+40,224120031,Brown Cotton Pants (1 day),20204050,Premium Bonus Pants,0,31,2,6,2,0,224120003,99,0,1
+40,224120032,Brown Cotton Pants (7 days),20204050,Premium Bonus Pants,0,31,2,6,2,0,224120003,199,0,1
+40,224120033,Brown Cotton Pants (30 days),20204050,Premium Bonus Pants,0,31,2,6,2,0,224120003,399,0,1
+40,224120036,Brown Cotton Pants (Unlimited),20204050,Premium Bonus Pants,0,31,2,6,2,0,224120003,599,0,1
+40,224120041,Skyblue Jeans (1 day),20204051,Premium Bonus Pants,0,31,2,6,2,0,224120004,99,0,1
+40,224120042,Skyblue Jeans (7 days),20204051,Premium Bonus Pants,0,31,2,6,2,0,224120004,199,0,1
+40,224120043,Skyblue Jeans (30 days),20204051,Premium Bonus Pants,0,31,2,6,2,0,224120004,399,0,1
+40,224120046,Skyblue Jeans (Unlimited),20204051,Premium Bonus Pants,0,31,2,6,2,0,224120004,599,0,1
+40,224120051,Khaki Cotton Pants (1 day),20204052,Premium Bonus Pants,0,31,2,6,2,0,224120005,99,0,1
+40,224120052,Khaki Cotton Pants (7 days),20204052,Premium Bonus Pants,0,31,2,6,2,0,224120005,199,0,1
+40,224120053,Khaki Cotton Pants (30 days),20204052,Premium Bonus Pants,0,31,2,6,2,0,224120005,399,0,1
+40,224120056,Khaki Cotton Pants (Unlimited),20204052,Premium Bonus Pants,0,31,2,6,2,0,224120005,599,0,1
+40,224120061,Dark Blue Jeans (1 day),20204053,Premium Bonus Pants,0,31,2,6,2,0,224120006,99,0,1
+40,224120062,Dark Blue Jeans (7 days),20204053,Premium Bonus Pants,0,31,2,6,2,0,224120006,199,0,1
+40,224120063,Dark Blue Jeans (30 days),20204053,Premium Bonus Pants,0,31,2,6,2,0,224120006,399,0,1
+40,224120066,Dark Blue Jeans (Unlimited),20204053,Premium Bonus Pants,0,31,2,6,2,0,224120006,599,0,1
+40,224120071,Checkered Cotton Pants (1 day),20204054,Premium Bonus Pants,0,31,2,6,2,0,224120007,99,0,1
+40,224120072,Checkered Cotton Pants (7 days),20204054,Premium Bonus Pants,0,31,2,6,2,0,224120007,199,0,1
+40,224120073,Checkered Cotton Pants (30 days),20204054,Premium Bonus Pants,0,31,2,6,2,0,224120007,399,0,1
+40,224120076,Checkered Cotton Pants (Unlimited),20204054,Premium Bonus Pants,0,31,2,6,2,0,224120007,599,0,1
+40,224140021,White Boots (1 day),20204145,Premium Bonus Shoes,0,31,2,8,2,0,224140002,99,0,1
+40,224140022,White Boots (7 days),20204145,Premium Bonus Shoes,0,31,2,8,2,0,224140002,199,0,1
+40,224140023,White Boots (30 days),20204145,Premium Bonus Shoes,0,31,2,8,2,0,224140002,399,0,1
+40,224140026,White Boots (Unlimited),20204145,Premium Bonus Shoes,0,31,2,8,2,0,224140002,599,0,1
+40,224140031,Brown Boots (1 day),20204146,Premium Bonus Shoes,0,31,2,8,2,0,224140003,99,0,1
+40,224140032,Brown Boots (7 days),20204146,Premium Bonus Shoes,0,31,2,8,2,0,224140003,199,0,1
+40,224140033,Brown Boots (30 days),20204146,Premium Bonus Shoes,0,31,2,8,2,0,224140003,399,0,1
+40,224140036,Brown Boots (Unlimited),20204146,Premium Bonus Shoes,0,31,2,8,2,0,224140003,599,0,1
+40,224140041,Brown Hiking Boots (1 day),20204147,Premium Bonus Shoes,0,31,2,8,2,0,224140004,99,0,1
+40,224140042,Brown Hiking Boots (7 days),20204147,Premium Bonus Shoes,0,31,2,8,2,0,224140004,199,0,1
+40,224140043,Brown Hiking Boots (30 days),20204147,Premium Bonus Shoes,0,31,2,8,2,0,224140004,399,0,1
+40,224140046,Brown Hiking Boots (Unlimited),20204147,Premium Bonus Shoes,0,31,2,8,2,0,224140004,599,0,1
+40,224140051,Blue Hiking Boots (1 day),20204148,Premium Bonus Shoes,0,31,2,8,2,0,224140005,99,0,1
+40,224140052,Blue Hiking Boots (7 days),20204148,Premium Bonus Shoes,0,31,2,8,2,0,224140005,199,0,1
+40,224140053,Blue Hiking Boots (30 days),20204148,Premium Bonus Shoes,0,31,2,8,2,0,224140005,399,0,1
+40,224140056,Blue Hiking Boots (Unlimited),20204148,Premium Bonus Shoes,0,31,2,8,2,0,224140005,599,0,1
+40,224140061,Brown Sneakers (1 day),20204149,Premium Bonus Shoes,0,31,2,8,2,0,224140006,99,0,1
+40,224140062,Brown Sneakers (7 days),20204149,Premium Bonus Shoes,0,31,2,8,2,0,224140006,199,0,1
+40,224140063,Brown Sneakers (30 days),20204149,Premium Bonus Shoes,0,31,2,8,2,0,224140006,399,0,1
+40,224140066,Brown Sneakers (Unlimited),20204149,Premium Bonus Shoes,0,31,2,8,2,0,224140006,599,0,1
+40,224140071,Red Sneakers (1 day),20204150,Premium Bonus Shoes,0,31,2,8,2,0,224140007,99,0,1
+40,224140072,Red Sneakers (7 days),20204150,Premium Bonus Shoes,0,31,2,8,2,0,224140007,199,0,1
+40,224140073,Red Sneakers (30 days),20204150,Premium Bonus Shoes,0,31,2,8,2,0,224140007,399,0,1
+40,224140076,Red Sneakers (Unlimited),20204150,Premium Bonus Shoes,0,31,2,8,2,0,224140007,599,0,1
+40,224110081,Biker Outfit (1 day),20204193,Premium Set Item,0,31,2,2,2,0,224110008,99,0,1
+40,224110082,Biker Outfit (7 days),20204193,Premium Set Item,0,31,2,2,2,0,224110008,199,0,1
+40,224110083,Biker Outfit (30 days),20204193,Premium Set Item,0,31,2,2,2,0,224110008,399,0,1
+40,224110086,Biker Outfit (Unlimited),20204193,Premium Set Item,0,31,2,2,2,0,224110008,599,0,1
+40,624230011,Priest Black Helmet (1 day),20104001,Premium Bonus Hat,0,31,2,9,2,0,624230001,99,0,1
+40,624230012,Priest Black Helmet (7 days),20104001,Premium Bonus Hat,0,31,2,9,2,0,624230001,199,0,1
+40,624230013,Priest Black Helmet (30 days),20104001,Premium Bonus Hat,0,31,2,9,2,0,624230001,399,0,1
+40,624230016,Priest Black Helmet (Unlimited),20104001,Premium Bonus Hat,0,31,2,9,2,0,624230001,599,0,1
+40,624230021,Priest Brown Hunting Cap (1 day),20104002,Premium Bonus Hat,0,31,2,9,2,0,624230002,99,0,1
+40,624230022,Priest Brown Hunting Cap (7 days),20104002,Premium Bonus Hat,0,31,2,9,2,0,624230002,199,0,1
+40,624230023,Priest Brown Hunting Cap (30 days),20104002,Premium Bonus Hat,0,31,2,9,2,0,624230002,399,0,1
+40,624230026,Priest Brown Hunting Cap (Unlimited),20104002,Premium Bonus Hat,0,31,2,9,2,0,624230002,599,0,1
+40,624230031,Priest Blue Fedora (1 day),20104003,Premium Bonus Hat,0,31,2,9,2,0,624230003,99,0,1
+40,624230032,Priest Blue Fedora (7 days),20104003,Premium Bonus Hat,0,31,2,9,2,0,624230003,199,0,1
+40,624230033,Priest Blue Fedora (30 days),20104003,Premium Bonus Hat,0,31,2,9,2,0,624230003,399,0,1
+40,624230036,Priest Blue Fedora (Unlimited),20104003,Premium Bonus Hat,0,31,2,9,2,0,624230003,599,0,1
+40,624230041,Priest Goggles (1 day),20104004,Premium Bonus Hat,0,31,2,9,2,0,624230004,99,0,1
+40,624230042,Priest Goggles (7 days),20104004,Premium Bonus Hat,0,31,2,9,2,0,624230004,199,0,1
+40,624230043,Priest Goggles (30 days),20104004,Premium Bonus Hat,0,31,2,9,2,0,624230004,399,0,1
+40,624230046,Priest Goggles (Unlimited),20104004,Premium Bonus Hat,0,31,2,9,2,0,624230004,599,0,1
+40,624230051,Priest Rabbit Ears (1 day),20104005,Premium Bonus Hat,0,31,2,9,2,0,624230005,99,0,1
+40,624230052,Priest Rabbit Ears (7 days),20104005,Premium Bonus Hat,0,31,2,9,2,0,624230005,199,0,1
+40,624230053,Priest Rabbit Ears (30 days),20104005,Premium Bonus Hat,0,31,2,9,2,0,624230005,399,0,1
+40,624230056,Priest Rabbit Ears (Unlimited),20104005,Premium Bonus Hat,0,31,2,9,2,0,624230005,599,0,1
+40,624230061,Priest Devil Horns (1 day),20104006,Premium Bonus Hat,0,31,2,9,2,0,624230006,99,0,1
+40,624230062,Priest Devil Horns (7 days),20104006,Premium Bonus Hat,0,31,2,9,2,0,624230006,199,0,1
+40,624230063,Priest Devil Horns (30 days),20104006,Premium Bonus Hat,0,31,2,9,2,0,624230006,399,0,1
+40,624230066,Priest Devil Horns (Unlimited),20104006,Premium Bonus Hat,0,31,2,9,2,0,624230006,599,0,1
+40,624230071,Priest Antlers (1 day),20104007,Premium Bonus Hat,0,31,2,9,2,0,624230007,99,0,1
+40,624230072,Priest Antlers (7 days),20104007,Premium Bonus Hat,0,31,2,9,2,0,624230007,199,0,1
+40,624230073,Priest Antlers (30 days),20104007,Premium Bonus Hat,0,31,2,9,2,0,624230007,399,0,1
+40,624230076,Priest Antlers (Unlimited),20104007,Premium Bonus Hat,0,31,2,9,2,0,624230007,599,0,1
+40,324250011,Priest Big Bang Mask (1 day),20104193,Premium Bonus Mask,0,31,2,11,2,0,324250001,99,0,1
+40,324250012,Priest Big Bang Mask (7 days),20104193,Premium Bonus Mask,0,31,2,11,2,0,324250001,199,0,1
+40,324250013,Priest Big Bang Mask (30 days),20104193,Premium Bonus Mask,0,31,2,11,2,0,324250001,399,0,1
+40,324250016,Priest Big Bang Mask (Unlimited),20104193,Premium Bonus Mask,0,31,2,11,2,0,324250001,599,0,1
+40,324250021,Priest Mustache (1 day),20104194,Premium Bonus Mask,0,31,2,11,2,0,324250002,99,0,1
+40,324250022,Priest Mustache (7 days),20104194,Premium Bonus Mask,0,31,2,11,2,0,324250002,199,0,1
+40,324250023,Priest Mustache (30 days),20104194,Premium Bonus Mask,0,31,2,11,2,0,324250002,399,0,1
+40,324250026,Priest Mustache (Unlimited),20104194,Premium Bonus Mask,0,31,2,11,2,0,324250002,599,0,1
+40,324250031,Priest X Mask (1 day),20104195,Premium Bonus Mask,0,31,2,11,2,0,324250003,99,0,1
+40,324250032,Priest X Mask (7 days),20104195,Premium Bonus Mask,0,31,2,11,2,0,324250003,199,0,1
+40,324250033,Priest X Mask (30 days),20104195,Premium Bonus Mask,0,31,2,11,2,0,324250003,399,0,1
+40,324250036,Priest X Mask (Unlimited),20104195,Premium Bonus Mask,0,31,2,11,2,0,324250003,599,0,1
+40,324240011,Priest Horn-rimmed Sunglasses (1 day),20104145,Premium Bonus Glasses,0,31,2,10,2,0,324240001,99,0,1
+40,324240012,Priest Horn-rimmed Sunglasses (7 days),20104145,Premium Bonus Glasses,0,31,2,10,2,0,324240001,199,0,1
+40,324240013,Priest Horn-rimmed Sunglasses (30 days),20104145,Premium Bonus Glasses,0,31,2,10,2,0,324240001,399,0,1
+40,324240016,Priest Horn-rimmed Sunglasses (Unlimited),20104145,Premium Bonus Glasses,0,31,2,10,2,0,324240001,599,0,1
+40,324240021,Priest Boeing Sunglasses (1 day),20104146,Premium Bonus Glasses,0,31,2,10,2,0,324240002,99,0,1
+40,324240022,Priest Boeing Sunglasses (7 days),20104146,Premium Bonus Glasses,0,31,2,10,2,0,324240002,199,0,1
+40,324240023,Priest Boeing Sunglasses (30 days),20104146,Premium Bonus Glasses,0,31,2,10,2,0,324240002,399,0,1
+40,324240026,Priest Boeing Sunglasses (Unlimited),20104146,Premium Bonus Glasses,0,31,2,10,2,0,324240002,599,0,1
+40,324240031,Priest Horn Spectacles (1 day),20104147,Premium Bonus Glasses,0,31,2,10,2,0,324240003,99,0,1
+40,324240032,Priest Horn Spectacles (7 days),20104147,Premium Bonus Glasses,0,31,2,10,2,0,324240003,199,0,1
+40,324240033,Priest Horn Spectacles (30 days),20104147,Premium Bonus Glasses,0,31,2,10,2,0,324240003,399,0,1
+40,324240036,Priest Horn Spectacles (Unlimited),20104147,Premium Bonus Glasses,0,31,2,10,2,0,324240003,599,0,1
+40,324260011,Priest Brown Leather Backpack (1 day),20104225,Premium Bonus Bag,0,31,2,12,2,0,324260001,99,0,1
+40,324260012,Priest Brown Leather Backpack (7 days),20104225,Premium Bonus Bag,0,31,2,12,2,0,324260001,199,0,1
+40,324260013,Priest Brown Leather Backpack (30 days),20104225,Premium Bonus Bag,0,31,2,12,2,0,324260001,399,0,1
+40,324260016,Priest Brown Leather Backpack (Unlimited),20104225,Premium Bonus Bag,0,31,2,12,2,0,324260001,599,0,1
+40,324260021,Priest Checkered Backpack (1 day),20104226,Premium Bonus Bag,0,31,2,12,2,0,324260002,99,0,1
+40,324260022,Priest Checkered Backpack (7 days),20104226,Premium Bonus Bag,0,31,2,12,2,0,324260002,199,0,1
+40,324260023,Priest Checkered Backpack (30 days),20104226,Premium Bonus Bag,0,31,2,12,2,0,324260002,399,0,1
+40,324260026,Priest Checkered Backpack (Unlimited),20104226,Premium Bonus Bag,0,31,2,12,2,0,324260002,599,0,1
+40,324260031,Priest Bright Leather Backpack (1 day),20104227,Premium Bonus Bag,0,31,2,12,2,0,324260003,99,0,1
+40,324260032,Priest Bright Leather Backpack (7 days),20104227,Premium Bonus Bag,0,31,2,12,2,0,324260003,199,0,1
+40,324260033,Priest Bright Leather Backpack (30 days),20104227,Premium Bonus Bag,0,31,2,12,2,0,324260003,399,0,1
+40,324260036,Priest Bright Leather Backpack (Unlimited),20104227,Premium Bonus Bag,0,31,2,12,2,0,324260003,599,0,1
+40,224130021,Gray Cat Gloves (1 day),20204097,Premium Bonus Gloves,0,31,2,7,2,0,224130002,99,0,1
+40,224130022,Gray Cat Gloves (7 days),20204097,Premium Bonus Gloves,0,31,2,7,2,0,224130002,199,0,1
+40,224130023,Gray Cat Gloves (30 days),20204097,Premium Bonus Gloves,0,31,2,7,2,0,224130002,399,0,1
+40,224130026,Gray Cat Gloves (Unlimited),20204097,Premium Bonus Gloves,0,31,2,7,2,0,224130002,599,0,1
+40,921111611,Slasher Blue-Striped Swimsuit Package (1day),20301184,Premium bonus Package Item,0,1,2,2,1,921111611,921110161,499,0,1
+40,921110161,Slasher Blue-Striped Swimsuit Package (1day),20201014,Premium Bonus Shirt,0,1,2,5,2,921111611,221110016,0,0,0
+40,921120141,Slasher Blue-Striped Swimsuit Package (1day),20201061,Premium Bonus Pants,0,1,2,6,2,921111611,221120014,0,0,0
+40,921130041,Slasher Blue-Striped Swimsuit Package (1day),20201099,Premium Bonus Gloves,0,1,2,7,2,921111611,221130004,0,0,0
+40,921140141,Slasher Blue-Striped Swimsuit Package (1day),20201157,Premium Bonus Shoes,0,1,2,8,2,921111611,221140014,0,0,0
+40,921230151,Slasher Blue-Striped Swimsuit Package (1day),20101015,Premium Bonus Hat,0,1,2,9,2,921111611,621230015,0,0,0
+40,921111622,Slasher Blue-Striped Swimsuit Package (7days),20301184,Premium bonus Package Item,0,1,2,2,1,921111622,921110162,499,0,1
+40,921110162,Slasher Blue-Striped Swimsuit Package (7days),20201014,Premium Bonus Shirt,0,1,2,5,2,921111622,221110016,0,0,0
+40,921120142,Slasher Blue-Striped Swimsuit Package (7days),20201061,Premium Bonus Pants,0,1,2,6,2,921111622,221120014,0,0,0
+40,921130042,Slasher Blue-Striped Swimsuit Package (7days),20201099,Premium Bonus Gloves,0,1,2,7,2,921111622,221130004,0,0,0
+40,921140142,Slasher Blue-Striped Swimsuit Package (7days),20201157,Premium Bonus Shoes,0,1,2,8,2,921111622,221140014,0,0,0
+40,921230152,Slasher Blue-Striped Swimsuit Package (7days),20101015,Premium Bonus Hat,0,1,2,9,2,921111622,621230015,0,0,0
+40,921111633,Slasher Blue-Striped Swimsuit Package (30days),20301184,Premium bonus Package Item,0,1,2,2,1,921111633,921110163,999,0,1
+40,921110163,Slasher Blue-Striped Swimsuit Package (30days),20201014,Premium Bonus Shirt,0,1,2,5,2,921111633,221110016,0,0,0
+40,921120143,Slasher Blue-Striped Swimsuit Package (30days),20201061,Premium Bonus Pants,0,1,2,6,2,921111633,221120014,0,0,0
+40,921130043,Slasher Blue-Striped Swimsuit Package (30days),20201099,Premium Bonus Gloves,0,1,2,7,2,921111633,221130004,0,0,0
+40,921140143,Slasher Blue-Striped Swimsuit Package (30days),20201157,Premium Bonus Shoes,0,1,2,8,2,921111633,221140014,0,0,0
+40,921230153,Slasher Blue-Striped Swimsuit Package (30days),20101015,Premium Bonus Hat,0,1,2,9,2,921111633,621230015,0,0,0
+40,921111666,Slasher Blue-Striped Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,1,2,2,1,921111666,921110166,1999,0,1
+40,921110166,Slasher Blue-Striped Swimsuit Package (Unlimited),20201014,Premium Bonus Shirt,0,1,2,5,2,921111666,221110016,0,0,0
+40,921120146,Slasher Blue-Striped Swimsuit Package (Unlimited),20201061,Premium Bonus Pants,0,1,2,6,2,921111666,221120014,0,0,0
+40,921130046,Slasher Blue-Striped Swimsuit Package (Unlimited),20201099,Premium Bonus Gloves,0,1,2,7,2,921111666,221130004,0,0,0
+40,921140146,Slasher Blue-Striped Swimsuit Package (Unlimited),20201157,Premium Bonus Shoes,0,1,2,8,2,921111666,221140014,0,0,0
+40,921230156,Slasher Blue-Striped Swimsuit Package (Unlimited),20101015,Premium Bonus Hat,0,1,2,9,2,921111666,621230015,0,0,0
+40,921111711,Slasher Leopard-Print Swimsuit Package (1day),20301184,Premium bonus Package Item,0,1,2,2,1,921111711,921110171,499,0,1
+40,921110171,Slasher Leopard-Print Swimsuit Package (1day),20201015,Premium Bonus Shirt,0,1,2,5,2,921111711,221110017,0,0,0
+40,921120151,Slasher Leopard-Print Swimsuit Package (1day),20201062,Premium Bonus Pants,0,1,2,6,2,921111711,221120015,0,0,0
+40,921130051,Slasher Leopard-Print Swimsuit Package (1day),20201100,Premium Bonus Gloves,0,1,2,7,2,921111711,221130005,0,0,0
+40,921140151,Slasher Leopard-Print Swimsuit Package (1day),20201158,Premium Bonus Shoes,0,1,2,8,2,921111711,221140015,0,0,0
+40,921230161,Slasher Leopard-Print Swimsuit Package (1day),20101016,Premium Bonus Hat,0,1,2,9,2,921111711,621230016,0,0,0
+40,921111722,Slasher Leopard-Print Swimsuit Package (7days),20301184,Premium bonus Package Item,0,1,2,2,1,921111722,921110172,499,0,1
+40,921110172,Slasher Leopard-Print Swimsuit Package (7days),20201015,Premium Bonus Shirt,0,1,2,5,2,921111722,221110017,0,0,0
+40,921120152,Slasher Leopard-Print Swimsuit Package (7days),20201062,Premium Bonus Pants,0,1,2,6,2,921111722,221120015,0,0,0
+40,921130052,Slasher Leopard-Print Swimsuit Package (7days),20201100,Premium Bonus Gloves,0,1,2,7,2,921111722,221130005,0,0,0
+40,921140152,Slasher Leopard-Print Swimsuit Package (7days),20201158,Premium Bonus Shoes,0,1,2,8,2,921111722,221140015,0,0,0
+40,921230162,Slasher Leopard-Print Swimsuit Package (7days),20101016,Premium Bonus Hat,0,1,2,9,2,921111722,621230016,0,0,0
+40,921111733,Slasher Leopard-Print Swimsuit Package (30days),20301184,Premium bonus Package Item,0,1,2,2,1,921111733,921110173,999,0,1
+40,921110173,Slasher Leopard-Print Swimsuit Package (30days),20201015,Premium Bonus Shirt,0,1,2,5,2,921111733,221110017,0,0,0
+40,921120153,Slasher Leopard-Print Swimsuit Package (30days),20201062,Premium Bonus Pants,0,1,2,6,2,921111733,221120015,0,0,0
+40,921130053,Slasher Leopard-Print Swimsuit Package (30days),20201100,Premium Bonus Gloves,0,1,2,7,2,921111733,221130005,0,0,0
+40,921140153,Slasher Leopard-Print Swimsuit Package (30days),20201158,Premium Bonus Shoes,0,1,2,8,2,921111733,221140015,0,0,0
+40,921230163,Slasher Leopard-Print Swimsuit Package (30days),20101016,Premium Bonus Hat,0,1,2,9,2,921111733,621230016,0,0,0
+40,921111766,Slasher Leopard-Print Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,1,2,2,1,921111766,921110176,1999,0,1
+40,921110176,Slasher Leopard-Print Swimsuit Package (Unlimited),20201015,Premium Bonus Shirt,0,1,2,5,2,921111766,221110017,0,0,0
+40,921120156,Slasher Leopard-Print Swimsuit Package (Unlimited),20201062,Premium Bonus Pants,0,1,2,6,2,921111766,221120015,0,0,0
+40,921130056,Slasher Leopard-Print Swimsuit Package (Unlimited),20201100,Premium Bonus Gloves,0,1,2,7,2,921111766,221130005,0,0,0
+40,921140156,Slasher Leopard-Print Swimsuit Package (Unlimited),20201158,Premium Bonus Shoes,0,1,2,8,2,921111766,221140015,0,0,0
+40,921230166,Slasher Leopard-Print Swimsuit Package (Unlimited),20101016,Premium Bonus Hat,0,1,2,9,2,921111766,621230016,0,0,0
+40,921111811,Slasher Duck Swimsuit Package (1day),20301184,Premium bonus Package Item,0,1,2,2,1,921111811,921110181,499,0,1
+40,921110181,Slasher Duck Swimsuit Package (1day),20201016,Premium Bonus Shirt,0,1,2,5,2,921111811,221110018,0,0,0
+40,921120161,Slasher Duck Swimsuit Package (1day),20201063,Premium Bonus Pants,0,1,2,6,2,921111811,221120016,0,0,0
+40,921130141,Slasher Duck Swimsuit Package (1day),20201101,Premium Bonus Gloves,0,1,2,7,2,921111811,221130014,0,0,0
+40,921140161,Slasher Duck Swimsuit Package (1day),20201159,Premium Bonus Shoes,0,1,2,8,2,921111811,221140016,0,0,0
+40,921230171,Slasher Duck Swimsuit Package (1day),20101017,Premium Bonus Hat,0,1,2,9,2,921111811,621230017,0,0,0
+40,921111822,Slasher Duck Swimsuit Package (7days),20301184,Premium bonus Package Item,0,1,2,2,1,921111822,921110182,499,0,1
+40,921110182,Slasher Duck Swimsuit Package (7days),20201016,Premium Bonus Shirt,0,1,2,5,2,921111822,221110018,0,0,0
+40,921120162,Slasher Duck Swimsuit Package (7days),20201063,Premium Bonus Pants,0,1,2,6,2,921111822,221120016,0,0,0
+40,921130142,Slasher Duck Swimsuit Package (7days),20201101,Premium Bonus Gloves,0,1,2,7,2,921111822,221130014,0,0,0
+40,921140162,Slasher Duck Swimsuit Package (7days),20201159,Premium Bonus Shoes,0,1,2,8,2,921111822,221140016,0,0,0
+40,921230172,Slasher Duck Swimsuit Package (7days),20101017,Premium Bonus Hat,0,1,2,9,2,921111822,621230017,0,0,0
+40,921111833,Slasher Duck Swimsuit Package (30days),20301184,Premium bonus Package Item,0,1,2,2,1,921111833,921110183,999,0,1
+40,921110183,Slasher Duck Swimsuit Package (30days),20201016,Premium Bonus Shirt,0,1,2,5,2,921111833,221110018,0,0,0
+40,921120163,Slasher Duck Swimsuit Package (30days),20201063,Premium Bonus Pants,0,1,2,6,2,921111833,221120016,0,0,0
+40,921130143,Slasher Duck Swimsuit Package (30days),20201101,Premium Bonus Gloves,0,1,2,7,2,921111833,221130014,0,0,0
+40,921140163,Slasher Duck Swimsuit Package (30days),20201159,Premium Bonus Shoes,0,1,2,8,2,921111833,221140016,0,0,0
+40,921230173,Slasher Duck Swimsuit Package (30days),20101017,Premium Bonus Hat,0,1,2,9,2,921111833,621230017,0,0,0
+40,921111866,Slasher Duck Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,1,2,2,1,921111866,921110186,1999,0,1
+40,921110186,Slasher Duck Swimsuit Package (Unlimited),20201016,Premium Bonus Shirt,0,1,2,5,2,921111866,221110018,0,0,0
+40,921120166,Slasher Duck Swimsuit Package (Unlimited),20201063,Premium Bonus Pants,0,1,2,6,2,921111866,221120016,0,0,0
+40,921130146,Slasher Duck Swimsuit Package (Unlimited),20201101,Premium Bonus Gloves,0,1,2,7,2,921111866,221130014,0,0,0
+40,921140166,Slasher Duck Swimsuit Package (Unlimited),20201159,Premium Bonus Shoes,0,1,2,8,2,921111866,221140016,0,0,0
+40,921230176,Slasher Duck Swimsuit Package (Unlimited),20101017,Premium Bonus Hat,0,1,2,9,2,921111866,621230017,0,0,0
+40,922111611,Fighter Span Swimsuit Package (1day),20301184,Premium bonus Package Item,0,11,2,2,1,922111611,922110161,499,0,1
+40,922110161,Fighter Span Swimsuit Package (1day),20202014,Premium Bonus Shirt,0,11,2,5,2,922111611,222110016,0,0,0
+40,922120141,Fighter Span Swimsuit Package (1day),20202061,Premium Bonus Pants,0,11,2,6,2,922111611,222120014,0,0,0
+40,922130041,Fighter Span Swimsuit Package (1day),20202099,Premium Bonus Gloves,0,11,2,7,2,922111611,222130004,0,0,0
+40,922140141,Fighter Span Swimsuit Package (1day),20202157,Premium Bonus Shoes,0,11,2,8,2,922111611,222140014,0,0,0
+40,922230151,Fighter Span Swimsuit Package (1day),20102015,Premium Bonus Hat,0,11,2,9,2,922111611,622230015,0,0,0
+40,922111622,Fighter Span Swimsuit Package (7days),20301184,Premium bonus Package Item,0,11,2,2,1,922111622,922110162,499,0,1
+40,922110162,Fighter Span Swimsuit Package (7days),20202014,Premium Bonus Shirt,0,11,2,5,2,922111622,222110016,0,0,0
+40,922120142,Fighter Span Swimsuit Package (7days),20202061,Premium Bonus Pants,0,11,2,6,2,922111622,222120014,0,0,0
+40,922130042,Fighter Span Swimsuit Package (7days),20202099,Premium Bonus Gloves,0,11,2,7,2,922111622,222130004,0,0,0
+40,922140142,Fighter Span Swimsuit Package (7days),20202157,Premium Bonus Shoes,0,11,2,8,2,922111622,222140014,0,0,0
+40,922230152,Fighter Span Swimsuit Package (7days),20102015,Premium Bonus Hat,0,11,2,9,2,922111622,622230015,0,0,0
+40,922111633,Fighter Span Swimsuit Package (30days),20301184,Premium bonus Package Item,0,11,2,2,1,922111633,922110163,999,0,1
+40,922110163,Fighter Span Swimsuit Package (30days),20202014,Premium Bonus Shirt,0,11,2,5,2,922111633,222110016,0,0,0
+40,922120143,Fighter Span Swimsuit Package (30days),20202061,Premium Bonus Pants,0,11,2,6,2,922111633,222120014,0,0,0
+40,922130043,Fighter Span Swimsuit Package (30days),20202099,Premium Bonus Gloves,0,11,2,7,2,922111633,222130004,0,0,0
+40,922140143,Fighter Span Swimsuit Package (30days),20202157,Premium Bonus Shoes,0,11,2,8,2,922111633,222140014,0,0,0
+40,922230153,Fighter Span Swimsuit Package (30days),20102015,Premium Bonus Hat,0,11,2,9,2,922111633,622230015,0,0,0
+40,922111666,Fighter Span Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,11,2,2,1,922111666,922110166,1999,0,1
+40,922110166,Fighter Span Swimsuit Package (Unlimited),20202014,Premium Bonus Shirt,0,11,2,5,2,922111666,222110016,0,0,0
+40,922120146,Fighter Span Swimsuit Package (Unlimited),20202061,Premium Bonus Pants,0,11,2,6,2,922111666,222120014,0,0,0
+40,922130046,Fighter Span Swimsuit Package (Unlimited),20202099,Premium Bonus Gloves,0,11,2,7,2,922111666,222130004,0,0,0
+40,922140146,Fighter Span Swimsuit Package (Unlimited),20202157,Premium Bonus Shoes,0,11,2,8,2,922111666,222140014,0,0,0
+40,922230156,Fighter Span Swimsuit Package (Unlimited),20102015,Premium Bonus Hat,0,11,2,9,2,922111666,622230015,0,0,0
+40,922111711,Fighter Red Swimsuit Package (1day),20301184,Premium bonus Package Item,0,11,2,2,1,922111711,922110171,499,0,1
+40,922110171,Fighter Red Swimsuit Package (1day),20202015,Premium Bonus Shirt,0,11,2,5,2,922111711,222110017,0,0,0
+40,922120151,Fighter Red Swimsuit Package (1day),20202062,Premium Bonus Pants,0,11,2,6,2,922111711,222120015,0,0,0
+40,922130051,Fighter Red Swimsuit Package (1day),20202100,Premium Bonus Gloves,0,11,2,7,2,922111711,222130005,0,0,0
+40,922140151,Fighter Red Swimsuit Package (1day),20202158,Premium Bonus Shoes,0,11,2,8,2,922111711,222140015,0,0,0
+40,922230161,Fighter Red Swimsuit Package (1day),20102016,Premium Bonus Hat,0,11,2,9,2,922111711,622230016,0,0,0
+40,922111722,Fighter Red Swimsuit Package (7days),20301184,Premium bonus Package Item,0,11,2,2,1,922111722,922110172,499,0,1
+40,922110172,Fighter Red Swimsuit Package (7days),20202015,Premium Bonus Shirt,0,11,2,5,2,922111722,222110017,0,0,0
+40,922120152,Fighter Red Swimsuit Package (7days),20202062,Premium Bonus Pants,0,11,2,6,2,922111722,222120015,0,0,0
+40,922130052,Fighter Red Swimsuit Package (7days),20202100,Premium Bonus Gloves,0,11,2,7,2,922111722,222130005,0,0,0
+40,922140152,Fighter Red Swimsuit Package (7days),20202158,Premium Bonus Shoes,0,11,2,8,2,922111722,222140015,0,0,0
+40,922230162,Fighter Red Swimsuit Package (7days),20102016,Premium Bonus Hat,0,11,2,9,2,922111722,622230016,0,0,0
+40,922111733,Fighter Red Swimsuit Package (30days),20301184,Premium bonus Package Item,0,11,2,2,1,922111733,922110173,999,0,1
+40,922110173,Fighter Red Swimsuit Package (30days),20202015,Premium Bonus Shirt,0,11,2,5,2,922111733,222110017,0,0,0
+40,922120153,Fighter Red Swimsuit Package (30days),20202062,Premium Bonus Pants,0,11,2,6,2,922111733,222120015,0,0,0
+40,922130053,Fighter Red Swimsuit Package (30days),20202100,Premium Bonus Gloves,0,11,2,7,2,922111733,222130005,0,0,0
+40,922140153,Fighter Red Swimsuit Package (30days),20202158,Premium Bonus Shoes,0,11,2,8,2,922111733,222140015,0,0,0
+40,922230163,Fighter Red Swimsuit Package (30days),20102016,Premium Bonus Hat,0,11,2,9,2,922111733,622230016,0,0,0
+40,922111766,Fighter Red Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,11,2,2,1,922111766,922110176,1999,0,1
+40,922110176,Fighter Red Swimsuit Package (Unlimited),20202015,Premium Bonus Shirt,0,11,2,5,2,922111766,222110017,0,0,0
+40,922120156,Fighter Red Swimsuit Package (Unlimited),20202062,Premium Bonus Pants,0,11,2,6,2,922111766,222120015,0,0,0
+40,922130056,Fighter Red Swimsuit Package (Unlimited),20202100,Premium Bonus Gloves,0,11,2,7,2,922111766,222130005,0,0,0
+40,922140156,Fighter Red Swimsuit Package (Unlimited),20202158,Premium Bonus Shoes,0,11,2,8,2,922111766,222140015,0,0,0
+40,922230166,Fighter Red Swimsuit Package (Unlimited),20102016,Premium Bonus Hat,0,11,2,9,2,922111766,622230016,0,0,0
+40,922111811,Fighter Duck Swimsuit Package (1day),20301184,Premium bonus Package Item,0,11,2,2,1,922111811,922110181,499,0,1
+40,922110181,Fighter Duck Swimsuit Package (1day),20202016,Premium Bonus Shirt,0,11,2,5,2,922111811,222110018,0,0,0
+40,922120161,Fighter Duck Swimsuit Package (1day),20202063,Premium Bonus Pants,0,11,2,6,2,922111811,222120016,0,0,0
+40,922130061,Fighter Duck Swimsuit Package (1day),20202101,Premium Bonus Gloves,0,11,2,7,2,922111811,222130006,0,0,0
+40,922140161,Fighter Duck Swimsuit Package (1day),20202159,Premium Bonus Shoes,0,11,2,8,2,922111811,222140016,0,0,0
+40,922230171,Fighter Duck Swimsuit Package (1day),20102017,Premium Bonus Hat,0,11,2,9,2,922111811,622230017,0,0,0
+40,922111822,Fighter Duck Swimsuit Package (7days),20301184,Premium bonus Package Item,0,11,2,2,1,922111822,922110182,499,0,1
+40,922110182,Fighter Duck Swimsuit Package (7days),20202016,Premium Bonus Shirt,0,11,2,5,2,922111822,222110018,0,0,0
+40,922120162,Fighter Duck Swimsuit Package (7days),20202063,Premium Bonus Pants,0,11,2,6,2,922111822,222120016,0,0,0
+40,922130062,Fighter Duck Swimsuit Package (7days),20202101,Premium Bonus Gloves,0,11,2,7,2,922111822,222130006,0,0,0
+40,922140162,Fighter Duck Swimsuit Package (7days),20202159,Premium Bonus Shoes,0,11,2,8,2,922111822,222140016,0,0,0
+40,922230172,Fighter Duck Swimsuit Package (7days),20102017,Premium Bonus Hat,0,11,2,9,2,922111822,622230017,0,0,0
+40,922111833,Fighter Duck Swimsuit Package (30days),20301184,Premium bonus Package Item,0,11,2,2,1,922111833,922110183,999,0,1
+40,922110183,Fighter Duck Swimsuit Package (30days),20202016,Premium Bonus Shirt,0,11,2,5,2,922111833,222110018,0,0,0
+40,922120163,Fighter Duck Swimsuit Package (30days),20202063,Premium Bonus Pants,0,11,2,6,2,922111833,222120016,0,0,0
+40,922130063,Fighter Duck Swimsuit Package (30days),20202101,Premium Bonus Gloves,0,11,2,7,2,922111833,222130006,0,0,0
+40,922140163,Fighter Duck Swimsuit Package (30days),20202159,Premium Bonus Shoes,0,11,2,8,2,922111833,222140016,0,0,0
+40,922230173,Fighter Duck Swimsuit Package (30days),20102017,Premium Bonus Hat,0,11,2,9,2,922111833,622230017,0,0,0
+40,922111866,Fighter Duck Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,11,2,2,1,922111866,922110186,1999,0,1
+40,922110186,Fighter Duck Swimsuit Package (Unlimited),20202016,Premium Bonus Shirt,0,11,2,5,2,922111866,222110018,0,0,0
+40,922120166,Fighter Duck Swimsuit Package (Unlimited),20202063,Premium Bonus Pants,0,11,2,6,2,922111866,222120016,0,0,0
+40,922130066,Fighter Duck Swimsuit Package (Unlimited),20202101,Premium Bonus Gloves,0,11,2,7,2,922111866,222130006,0,0,0
+40,922140166,Fighter Duck Swimsuit Package (Unlimited),20202159,Premium Bonus Shoes,0,11,2,8,2,922111866,222140016,0,0,0
+40,922230176,Fighter Duck Swimsuit Package (Unlimited),20102017,Premium Bonus Hat,0,11,2,9,2,922111866,622230017,0,0,0
+40,923111611,Mage Blue-Striped Swimsuit Package (1day),20301184,Premium bonus Package Item,0,21,2,2,1,923111611,923110161,499,0,1
+40,923110161,Mage Blue-Striped Swimsuit Package (1day),20203014,Premium Bonus Shirt,0,21,2,5,2,923111611,223110016,0,0,0
+40,923120141,Mage Blue-Striped Swimsuit Package (1day),20203061,Premium Bonus Pants,0,21,2,6,2,923111611,223120014,0,0,0
+40,923130041,Mage Blue-Striped Swimsuit Package (1day),20203099,Premium Bonus Gloves,0,21,2,7,2,923111611,223130004,0,0,0
+40,923140141,Mage Blue-Striped Swimsuit Package (1day),20203157,Premium Bonus Shoes,0,21,2,8,2,923111611,223140014,0,0,0
+40,923230151,Mage Blue-Striped Swimsuit Package (1day),20103015,Premium Bonus Hat,0,21,2,9,2,923111611,623230015,0,0,0
+40,923111622,Mage Blue-Striped Swimsuit Package (7days),20301184,Premium bonus Package Item,0,21,2,2,1,923111622,923110162,499,0,1
+40,923110162,Mage Blue-Striped Swimsuit Package (7days),20203014,Premium Bonus Shirt,0,21,2,5,2,923111622,223110016,0,0,0
+40,923120142,Mage Blue-Striped Swimsuit Package (7days),20203061,Premium Bonus Pants,0,21,2,6,2,923111622,223120014,0,0,0
+40,923130042,Mage Blue-Striped Swimsuit Package (7days),20203099,Premium Bonus Gloves,0,21,2,7,2,923111622,223130004,0,0,0
+40,923140142,Mage Blue-Striped Swimsuit Package (7days),20203157,Premium Bonus Shoes,0,21,2,8,2,923111622,223140014,0,0,0
+40,923230152,Mage Blue-Striped Swimsuit Package (7days),20103015,Premium Bonus Hat,0,21,2,9,2,923111622,623230015,0,0,0
+40,923111633,Mage Blue-Striped Swimsuit Package (30days),20301184,Premium bonus Package Item,0,21,2,2,1,923111633,923110163,999,0,1
+40,923110163,Mage Blue-Striped Swimsuit Package (30days),20203014,Premium Bonus Shirt,0,21,2,5,2,923111633,223110016,0,0,0
+40,923120143,Mage Blue-Striped Swimsuit Package (30days),20203061,Premium Bonus Pants,0,21,2,6,2,923111633,223120014,0,0,0
+40,923130043,Mage Blue-Striped Swimsuit Package (30days),20203099,Premium Bonus Gloves,0,21,2,7,2,923111633,223130004,0,0,0
+40,923140143,Mage Blue-Striped Swimsuit Package (30days),20203157,Premium Bonus Shoes,0,21,2,8,2,923111633,223140014,0,0,0
+40,923230153,Mage Blue-Striped Swimsuit Package (30days),20103015,Premium Bonus Hat,0,21,2,9,2,923111633,623230015,0,0,0
+40,923111666,Mage Blue-Striped Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,21,2,2,1,923111666,923110166,1999,0,1
+40,923110166,Mage Blue-Striped Swimsuit Package (Unlimited),20203014,Premium Bonus Shirt,0,21,2,5,2,923111666,223110016,0,0,0
+40,923120146,Mage Blue-Striped Swimsuit Package (Unlimited),20203061,Premium Bonus Pants,0,21,2,6,2,923111666,223120014,0,0,0
+40,923130046,Mage Blue-Striped Swimsuit Package (Unlimited),20203099,Premium Bonus Gloves,0,21,2,7,2,923111666,223130004,0,0,0
+40,923140146,Mage Blue-Striped Swimsuit Package (Unlimited),20203157,Premium Bonus Shoes,0,21,2,8,2,923111666,223140014,0,0,0
+40,923230156,Mage Blue-Striped Swimsuit Package (Unlimited),20103015,Premium Bonus Hat,0,21,2,9,2,923111666,623230015,0,0,0
+40,923111711,Mage Leopard-Print Swimsuit Package (1day),20301184,Premium bonus Package Item,0,21,2,2,1,923111711,923110171,499,0,1
+40,923110171,Mage Leopard-Print Swimsuit Package (1day),20203015,Premium Bonus Shirt,0,21,2,5,2,923111711,223110017,0,0,0
+40,923120151,Mage Leopard-Print Swimsuit Package (1day),20203062,Premium Bonus Pants,0,21,2,6,2,923111711,223120015,0,0,0
+40,923130051,Mage Leopard-Print Swimsuit Package (1day),20203100,Premium Bonus Gloves,0,21,2,7,2,923111711,223130005,0,0,0
+40,923140151,Mage Leopard-Print Swimsuit Package (1day),20203158,Premium Bonus Shoes,0,21,2,8,2,923111711,223140015,0,0,0
+40,923230161,Mage Leopard-Print Swimsuit Package (1day),20103016,Premium Bonus Hat,0,21,2,9,2,923111711,623230016,0,0,0
+40,923111722,Mage Leopard-Print Swimsuit Package (7days),20301184,Premium bonus Package Item,0,21,2,2,1,923111722,923110172,499,0,1
+40,923110172,Mage Leopard-Print Swimsuit Package (7days),20203015,Premium Bonus Shirt,0,21,2,5,2,923111722,223110017,0,0,0
+40,923120152,Mage Leopard-Print Swimsuit Package (7days),20203062,Premium Bonus Pants,0,21,2,6,2,923111722,223120015,0,0,0
+40,923130052,Mage Leopard-Print Swimsuit Package (7days),20203100,Premium Bonus Gloves,0,21,2,7,2,923111722,223130005,0,0,0
+40,923140152,Mage Leopard-Print Swimsuit Package (7days),20203158,Premium Bonus Shoes,0,21,2,8,2,923111722,223140015,0,0,0
+40,923230162,Mage Leopard-Print Swimsuit Package (7days),20103016,Premium Bonus Hat,0,21,2,9,2,923111722,623230016,0,0,0
+40,923111733,Mage Leopard-Print Swimsuit Package (30days),20301184,Premium bonus Package Item,0,21,2,2,1,923111733,923110173,999,0,1
+40,923110173,Mage Leopard-Print Swimsuit Package (30days),20203015,Premium Bonus Shirt,0,21,2,5,2,923111733,223110017,0,0,0
+40,923120153,Mage Leopard-Print Swimsuit Package (30days),20203062,Premium Bonus Pants,0,21,2,6,2,923111733,223120015,0,0,0
+40,923130053,Mage Leopard-Print Swimsuit Package (30days),20203100,Premium Bonus Gloves,0,21,2,7,2,923111733,223130005,0,0,0
+40,923140153,Mage Leopard-Print Swimsuit Package (30days),20203158,Premium Bonus Shoes,0,21,2,8,2,923111733,223140015,0,0,0
+40,923230163,Mage Leopard-Print Swimsuit Package (30days),20103016,Premium Bonus Hat,0,21,2,9,2,923111733,623230016,0,0,0
+40,923111766,Mage Leopard-Print Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,21,2,2,1,923111766,923110176,1999,0,1
+40,923110176,Mage Leopard-Print Swimsuit Package (Unlimited),20203015,Premium Bonus Shirt,0,21,2,5,2,923111766,223110017,0,0,0
+40,923120156,Mage Leopard-Print Swimsuit Package (Unlimited),20203062,Premium Bonus Pants,0,21,2,6,2,923111766,223120015,0,0,0
+40,923130056,Mage Leopard-Print Swimsuit Package (Unlimited),20203100,Premium Bonus Gloves,0,21,2,7,2,923111766,223130005,0,0,0
+40,923140156,Mage Leopard-Print Swimsuit Package (Unlimited),20203158,Premium Bonus Shoes,0,21,2,8,2,923111766,223140015,0,0,0
+40,923230166,Mage Leopard-Print Swimsuit Package (Unlimited),20103016,Premium Bonus Hat,0,21,2,9,2,923111766,623230016,0,0,0
+40,923111811,Mage Duck Swimsuit Package (1day),20301184,Premium bonus Package Item,0,21,2,2,1,923111811,923110181,499,0,1
+40,923110181,Mage Duck Swimsuit Package (1day),20203016,Premium Bonus Shirt,0,21,2,5,2,923111811,223110018,0,0,0
+40,923120161,Mage Duck Swimsuit Package (1day),20203063,Premium Bonus Pants,0,21,2,6,2,923111811,223120016,0,0,0
+40,923130061,Mage Duck Swimsuit Package (1day),20203101,Premium Bonus Gloves,0,21,2,7,2,923111811,223130006,0,0,0
+40,923140161,Mage Duck Swimsuit Package (1day),20203159,Premium Bonus Shoes,0,21,2,8,2,923111811,223140016,0,0,0
+40,923230171,Mage Duck Swimsuit Package (1day),20103017,Premium Bonus Hat,0,21,2,9,2,923111811,623230017,0,0,0
+40,923111822,Mage Duck Swimsuit Package (7days),20301184,Premium bonus Package Item,0,21,2,2,1,923111822,923110182,499,0,1
+40,923110182,Mage Duck Swimsuit Package (7days),20203016,Premium Bonus Shirt,0,21,2,5,2,923111822,223110018,0,0,0
+40,923120162,Mage Duck Swimsuit Package (7days),20203063,Premium Bonus Pants,0,21,2,6,2,923111822,223120016,0,0,0
+40,923130062,Mage Duck Swimsuit Package (7days),20203101,Premium Bonus Gloves,0,21,2,7,2,923111822,223130006,0,0,0
+40,923140162,Mage Duck Swimsuit Package (7days),20203159,Premium Bonus Shoes,0,21,2,8,2,923111822,223140016,0,0,0
+40,923230172,Mage Duck Swimsuit Package (7days),20103017,Premium Bonus Hat,0,21,2,9,2,923111822,623230017,0,0,0
+40,923111833,Mage Duck Swimsuit Package (30days),20301184,Premium bonus Package Item,0,21,2,2,1,923111833,923110183,999,0,1
+40,923110183,Mage Duck Swimsuit Package (30days),20203016,Premium Bonus Shirt,0,21,2,5,2,923111833,223110018,0,0,0
+40,923120163,Mage Duck Swimsuit Package (30days),20203063,Premium Bonus Pants,0,21,2,6,2,923111833,223120016,0,0,0
+40,923130063,Mage Duck Swimsuit Package (30days),20203101,Premium Bonus Gloves,0,21,2,7,2,923111833,223130006,0,0,0
+40,923140163,Mage Duck Swimsuit Package (30days),20203159,Premium Bonus Shoes,0,21,2,8,2,923111833,223140016,0,0,0
+40,923230173,Mage Duck Swimsuit Package (30days),20103017,Premium Bonus Hat,0,21,2,9,2,923111833,623230017,0,0,0
+40,923111866,Mage Duck Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,21,2,2,1,923111866,923110186,1999,0,1
+40,923110186,Mage Duck Swimsuit Package (Unlimited),20203016,Premium Bonus Shirt,0,21,2,5,2,923111866,223110018,0,0,0
+40,923120166,Mage Duck Swimsuit Package (Unlimited),20203063,Premium Bonus Pants,0,21,2,6,2,923111866,223120016,0,0,0
+40,923130066,Mage Duck Swimsuit Package (Unlimited),20203101,Premium Bonus Gloves,0,21,2,7,2,923111866,223130006,0,0,0
+40,923140166,Mage Duck Swimsuit Package (Unlimited),20203159,Premium Bonus Shoes,0,21,2,8,2,923111866,223140016,0,0,0
+40,923230176,Mage Duck Swimsuit Package (Unlimited),20103017,Premium Bonus Hat,0,21,2,9,2,923111866,623230017,0,0,0
+40,924111611,Priest Red Swimsuit Package (1day),20301184,Premium bonus Package Item,0,31,2,2,1,924111611,924110161,499,0,1
+40,924110161,Priest Red Swimsuit Package (1day),20204014,Premium Bonus Shirt,0,31,2,5,2,924111611,224110016,0,0,0
+40,924120141,Priest Red Swimsuit Package (1day),20204061,Premium Bonus Pants,0,31,2,6,2,924111611,224120014,0,0,0
+40,924130041,Priest Red Swimsuit Package (1day),20204099,Premium Bonus Gloves,0,31,2,7,2,924111611,224130004,0,0,0
+40,924140141,Priest Red Swimsuit Package (1day),20204157,Premium Bonus Shoes,0,31,2,8,2,924111611,224140014,0,0,0
+40,924230151,Priest Red Swimsuit Package (1day),20104015,Premium Bonus Hat,0,31,2,9,2,924111611,624230015,0,0,0
+40,924111622,Priest Red Swimsuit Package (7days),20301184,Premium bonus Package Item,0,31,2,2,1,924111622,924110162,499,0,1
+40,924110162,Priest Red Swimsuit Package (7days),20204014,Premium Bonus Shirt,0,31,2,5,2,924111622,224110016,0,0,0
+40,924120142,Priest Red Swimsuit Package (7days),20204061,Premium Bonus Pants,0,31,2,6,2,924111622,224120014,0,0,0
+40,924130042,Priest Red Swimsuit Package (7days),20204099,Premium Bonus Gloves,0,31,2,7,2,924111622,224130004,0,0,0
+40,924140142,Priest Red Swimsuit Package (7days),20204157,Premium Bonus Shoes,0,31,2,8,2,924111622,224140014,0,0,0
+40,924230152,Priest Red Swimsuit Package (7days),20104015,Premium Bonus Hat,0,31,2,9,2,924111622,624230015,0,0,0
+40,924111633,Priest Red Swimsuit Package (30days),20301184,Premium bonus Package Item,0,31,2,2,1,924111633,924110163,999,0,1
+40,924110163,Priest Red Swimsuit Package (30days),20204014,Premium Bonus Shirt,0,31,2,5,2,924111633,224110016,0,0,0
+40,924120143,Priest Red Swimsuit Package (30days),20204061,Premium Bonus Pants,0,31,2,6,2,924111633,224120014,0,0,0
+40,924130043,Priest Red Swimsuit Package (30days),20204099,Premium Bonus Gloves,0,31,2,7,2,924111633,224130004,0,0,0
+40,924140143,Priest Red Swimsuit Package (30days),20204157,Premium Bonus Shoes,0,31,2,8,2,924111633,224140014,0,0,0
+40,924116663,Priest Red Swimsuit Package (30days),20104015,Premium Bonus Hat,0,31,2,9,2,924111633,924111656,0,0,0
+40,924111666,Priest Red Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,31,2,2,1,924111656,924110165,1999,0,1
+40,924110166,Priest Red Swimsuit Package (Unlimited),20204014,Premium Bonus Shirt,0,31,2,5,2,924111656,224110016,0,0,0
+40,924120146,Priest Red Swimsuit Package (Unlimited),20204061,Premium Bonus Pants,0,31,2,6,2,924111656,224120014,0,0,0
+40,924130046,Priest Red Swimsuit Package (Unlimited),20204099,Premium Bonus Gloves,0,31,2,7,2,924111656,224130004,0,0,0
+40,924140146,Priest Red Swimsuit Package (Unlimited),20204157,Premium Bonus Shoes,0,31,2,8,2,924111656,224140014,0,0,0
+40,924230156,Priest Red Swimsuit Package (Unlimited),20104015,Premium Bonus Hat,0,31,2,9,2,924111656,624230015,0,0,0
+40,924111711,Priest Span Swimsuit Package (1day),20301184,Premium bonus Package Item,0,31,2,2,1,924111711,924110171,499,0,1
+40,924110171,Priest Span Swimsuit Package (1day),20204015,Premium Bonus Shirt,0,31,2,5,2,924111711,224110017,0,0,0
+40,924120151,Priest Span Swimsuit Package (1day),20204062,Premium Bonus Pants,0,31,2,6,2,924111711,224120015,0,0,0
+40,924130051,Priest Span Swimsuit Package (1day),20204100,Premium Bonus Gloves,0,31,2,7,2,924111711,224130005,0,0,0
+40,924140151,Priest Span Swimsuit Package (1day),20204158,Premium Bonus Shoes,0,31,2,8,2,924111711,224140015,0,0,0
+40,924230161,Priest Span Swimsuit Package (1day),20104016,Premium Bonus Hat,0,31,2,9,2,924111711,624230016,0,0,0
+40,924111722,Priest Span Swimsuit Package (7days),20301184,Premium bonus Package Item,0,31,2,2,1,924111722,924110172,499,0,1
+40,924110172,Priest Span Swimsuit Package (7days),20204015,Premium Bonus Shirt,0,31,2,5,2,924111722,224110017,0,0,0
+40,924120152,Priest Span Swimsuit Package (7days),20204062,Premium Bonus Pants,0,31,2,6,2,924111722,224120015,0,0,0
+40,924130052,Priest Span Swimsuit Package (7days),20204100,Premium Bonus Gloves,0,31,2,7,2,924111722,224130005,0,0,0
+40,924140152,Priest Span Swimsuit Package (7days),20204158,Premium Bonus Shoes,0,31,2,8,2,924111722,224140015,0,0,0
+40,924230162,Priest Span Swimsuit Package (7days),20104016,Premium Bonus Hat,0,31,2,9,2,924111722,624230016,0,0,0
+40,924111733,Priest Span Swimsuit Package (30days),20301184,Premium bonus Package Item,0,31,2,2,1,924111733,924110173,999,0,1
+40,924110173,Priest Span Swimsuit Package (30days),20204015,Premium Bonus Shirt,0,31,2,5,2,924111733,224110017,0,0,0
+40,924120153,Priest Span Swimsuit Package (30days),20204062,Premium Bonus Pants,0,31,2,6,2,924111733,224120015,0,0,0
+40,924130053,Priest Span Swimsuit Package (30days),20204100,Premium Bonus Gloves,0,31,2,7,2,924111733,224130005,0,0,0
+40,924140153,Priest Span Swimsuit Package (30days),20204158,Premium Bonus Shoes,0,31,2,8,2,924111733,224140015,0,0,0
+40,924230163,Priest Span Swimsuit Package (30days),20104016,Premium Bonus Hat,0,31,2,9,2,924111733,624230016,0,0,0
+40,924111766,Priest Span Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,31,2,2,1,924111766,924110176,1999,0,1
+40,924110176,Priest Span Swimsuit Package (Unlimited),20204015,Premium Bonus Shirt,0,31,2,5,2,924111766,224110017,0,0,0
+40,924120156,Priest Span Swimsuit Package (Unlimited),20204062,Premium Bonus Pants,0,31,2,6,2,924111766,224120015,0,0,0
+40,924130056,Priest Span Swimsuit Package (Unlimited),20204100,Premium Bonus Gloves,0,31,2,7,2,924111766,224130005,0,0,0
+40,924140156,Priest Span Swimsuit Package (Unlimited),20204158,Premium Bonus Shoes,0,31,2,8,2,924111766,224140015,0,0,0
+40,924230166,Priest Span Swimsuit Package (Unlimited),20104016,Premium Bonus Hat,0,31,2,9,2,924111766,624230016,0,0,0
+40,924111811,Priest Duck Swimsuit Package (1day),20301184,Premium bonus Package Item,0,31,2,2,1,924111811,924110181,499,0,1
+40,924110181,Priest Duck Swimsuit Package (1day),20204016,Premium Bonus Shirt,0,31,2,5,2,924111811,224110018,0,0,0
+40,924120161,Priest Duck Swimsuit Package (1day),20204063,Premium Bonus Pants,0,31,2,6,2,924111811,224120016,0,0,0
+40,924130061,Priest Duck Swimsuit Package (1day),20204101,Premium Bonus Gloves,0,31,2,7,2,924111811,224130006,0,0,0
+40,924140161,Priest Duck Swimsuit Package (1day),20204159,Premium Bonus Shoes,0,31,2,8,2,924111811,224140016,0,0,0
+40,924230171,Priest Duck Swimsuit Package (1day),20104017,Premium Bonus Hat,0,31,2,9,2,924111811,624230017,0,0,0
+40,924111822,Priest Duck Swimsuit Package (7days),20301184,Premium bonus Package Item,0,31,2,2,1,924111822,924110182,499,0,1
+40,924110182,Priest Duck Swimsuit Package (7days),20204016,Premium Bonus Shirt,0,31,2,5,2,924111822,224110018,0,0,0
+40,924120162,Priest Duck Swimsuit Package (7days),20204063,Premium Bonus Pants,0,31,2,6,2,924111822,224120016,0,0,0
+40,924130062,Priest Duck Swimsuit Package (7days),20204101,Premium Bonus Gloves,0,31,2,7,2,924111822,224130006,0,0,0
+40,924140162,Priest Duck Swimsuit Package (7days),20204159,Premium Bonus Shoes,0,31,2,8,2,924111822,224140016,0,0,0
+40,924230172,Priest Duck Swimsuit Package (7days),20104017,Premium Bonus Hat,0,31,2,9,2,924111822,624230017,0,0,0
+40,924111833,Priest Duck Swimsuit Package (30days),20301184,Premium bonus Package Item,0,31,2,2,1,924111833,924110183,999,0,1
+40,924110183,Priest Duck Swimsuit Package (30days),20204016,Premium Bonus Shirt,0,31,2,5,2,924111833,224110018,0,0,0
+40,924120163,Priest Duck Swimsuit Package (30days),20204063,Premium Bonus Pants,0,31,2,6,2,924111833,224120016,0,0,0
+40,924130063,Priest Duck Swimsuit Package (30days),20204101,Premium Bonus Gloves,0,31,2,7,2,924111833,224130006,0,0,0
+40,924140163,Priest Duck Swimsuit Package (30days),20204159,Premium Bonus Shoes,0,31,2,8,2,924111833,224140016,0,0,0
+40,924230173,Priest Duck Swimsuit Package (30days),20104017,Premium Bonus Hat,0,31,2,9,2,924111833,624230017,0,0,0
+40,924111866,Priest Duck Swimsuit Package (Unlimited),20301184,Premium bonus Package Item,0,31,2,2,1,924111866,924110186,1999,0,1
+40,924110186,Priest Duck Swimsuit Package (Unlimited),20204016,Premium Bonus Shirt,0,31,2,5,2,924111866,224110018,0,0,0
+40,924120166,Priest Duck Swimsuit Package (Unlimited),20204063,Premium Bonus Pants,0,31,2,6,2,924111866,224120016,0,0,0
+40,924130066,Priest Duck Swimsuit Package (Unlimited),20204101,Premium Bonus Gloves,0,31,2,7,2,924111866,224130006,0,0,0
+40,924140166,Priest Duck Swimsuit Package (Unlimited),20204159,Premium Bonus Shoes,0,31,2,8,2,924111866,224140016,0,0,0
+40,924230176,Priest Duck Swimsuit Package (Unlimited),20104017,Premium Bonus Hat,0,31,2,9,2,924111866,624230017,0,0,0
+40,921143811,Slasher Ninja Costume (1 day),20301184,Premium bonus Package Item,0,1,2,2,1,921143811,921140381,499,0,1
+40,921140381,Slasher Ninja Shirt,20201022,Premium Bonus Shirt,0,1,2,5,2,921143811,221140038,0,0,0
+40,921140391,Slasher Ninja Pants,20201067,Premium Bonus Pants,0,1,2,6,2,921143811,221140039,0,0,0
+40,921140401,Slasher Ninja Gloves,20201105,Premium Bonus Gloves,0,1,2,7,2,921143811,221140040,0,0,0
+40,921140411,Slasher Ninja Boots,20201163,Premium Bonus Shoes,0,1,2,8,2,921143811,221140041,0,0,0
+40,921230411,Slasher Ninja Bandana,20101021,Premium Bonus Hat,0,1,2,9,2,921143811,621230041,0,0,0
+40,921143822,Slasher Ninja Costume (7 days),20301184,Premium bonus Package Item,0,1,2,2,1,921143822,921140382,499,0,1
+40,921140382,Slasher Ninja Shirt,20201022,Premium Bonus Shirt,0,1,2,5,2,921143822,221140038,0,0,0
+40,921140392,Slasher Ninja Pants,20201067,Premium Bonus Pants,0,1,2,6,2,921143822,221140039,0,0,0
+40,921140402,Slasher Ninja Gloves,20201105,Premium Bonus Gloves,0,1,2,7,2,921143822,221140040,0,0,0
+40,921140412,Slasher Ninja Boots,20201163,Premium Bonus Shoes,0,1,2,8,2,921143822,221140041,0,0,0
+40,921230412,Slasher Ninja Bandana,20101021,Premium Bonus Hat,0,1,2,9,2,921143822,621230041,0,0,0
+40,921143833,Slasher Ninja Costume (30 days),20301184,Premium bonus Package Item,0,1,2,2,1,921143833,921140383,999,0,1
+40,921140383,Slasher Ninja Shirt,20201022,Premium Bonus Shirt,0,1,2,5,2,921143833,221140038,0,0,0
+40,921140393,Slasher Ninja Pants,20201067,Premium Bonus Pants,0,1,2,6,2,921143833,221140039,0,0,0
+40,921140403,Slasher Ninja Gloves,20201105,Premium Bonus Gloves,0,1,2,7,2,921143833,221140040,0,0,0
+40,921140413,Slasher Ninja Boots,20201163,Premium Bonus Shoes,0,1,2,8,2,921143833,221140041,0,0,0
+40,921230413,Slasher Ninja Bandana,20101021,Premium Bonus Hat,0,1,2,9,2,921143833,621230041,0,0,0
+40,921143866,Slasher Ninja Costume (Unlimited),20301184,Premium bonus Package Item,0,1,2,2,1,921143866,921140386,1999,0,1
+40,921140386,Slasher Ninja Shirt,20201022,Premium Bonus Shirt,0,1,2,5,2,921143866,221140038,0,0,0
+40,921140396,Slasher Ninja Pants,20201067,Premium Bonus Pants,0,1,2,6,2,921143866,221140039,0,0,0
+40,921140406,Slasher Ninja Gloves,20201105,Premium Bonus Gloves,0,1,2,7,2,921143866,221140040,0,0,0
+40,921140416,Slasher Ninja Boots,20201163,Premium Bonus Shoes,0,1,2,8,2,921143866,221140041,0,0,0
+40,921230416,Slasher Ninja Bandana,20101021,Premium Bonus Hat,0,1,2,9,2,921143866,621230041,0,0,0
+40,922143811,Fighter Ninja Costume (1 day),20301184,Premium bonus Package Item,0,11,2,2,1,922143811,922140381,499,0,1
+40,922140381,Fighter Ninja Shirt,20202022,Premium Bonus Shirt,0,11,2,5,2,922143811,222140038,0,0,0
+40,922140391,Fighter Ninja Pants,20202067,Premium Bonus Pants,0,11,2,6,2,922143811,222140039,0,0,0
+40,922140401,Fighter Ninja Gloves,20202105,Premium Bonus Gloves,0,11,2,7,2,922143811,222140040,0,0,0
+40,922140411,Fighter Ninja Boots,20202163,Premium Bonus Shoes,0,11,2,8,2,922143811,222140041,0,0,0
+40,922230411,Fighter Ninja Bandana,20102021,Premium Bonus Hat,0,11,2,9,2,922143811,622230041,0,0,0
+40,922143822,Fighter Ninja Costume (7 days),20301184,Premium bonus Package Item,0,11,2,2,1,922143822,922140382,499,0,1
+40,922140382,Slasher Ninja Shirt,20202022,Premium Bonus Shirt,0,11,2,5,2,922143822,222140038,0,0,0
+40,922140392,Slasher Ninja Pants,20202067,Premium Bonus Pants,0,11,2,6,2,922143822,222140039,0,0,0
+40,922140402,Slasher Ninja Gloves,20202105,Premium Bonus Gloves,0,11,2,7,2,922143822,222140040,0,0,0
+40,922140412,Slasher Ninja Boots,20202163,Premium Bonus Shoes,0,11,2,8,2,922143822,222140041,0,0,0
+40,922230412,Fighter Ninja Bandana,20102021,Premium Bonus Hat,0,11,2,9,2,922143822,622230041,0,0,0
+40,922143833,Fighter Ninja Costume (30 days),20301184,Premium bonus Package Item,0,11,2,2,1,922143833,922140383,999,0,1
+40,922140383,Slasher Ninja Shirt,20202022,Premium Bonus Shirt,0,11,2,5,2,922143833,222140038,0,0,0
+40,922140393,Slasher Ninja Pants,20202067,Premium Bonus Pants,0,11,2,6,2,922143833,222140039,0,0,0
+40,922140403,Slasher Ninja Gloves,20202105,Premium Bonus Gloves,0,11,2,7,2,922143833,222140040,0,0,0
+40,922140413,Slasher Ninja Boots,20202163,Premium Bonus Shoes,0,11,2,8,2,922143833,222140041,0,0,0
+40,922230413,Fighter Ninja Bandana,20102021,Premium Bonus Hat,0,11,2,9,2,922143833,622230041,0,0,0
+40,922143866,Fighter Ninja Costume (Unlimited),20301184,Premium bonus Package Item,0,11,2,2,1,922143866,922140386,1999,0,1
+40,922140386,Slasher Ninja Shirt,20202022,Premium Bonus Shirt,0,11,2,5,2,922143866,222140038,0,0,0
+40,922140396,Slasher Ninja Pants,20202067,Premium Bonus Pants,0,11,2,6,2,922143866,222140039,0,0,0
+40,922140406,Slasher Ninja Gloves,20202105,Premium Bonus Gloves,0,11,2,7,2,922143866,222140040,0,0,0
+40,922140416,Slasher Ninja Boots,20202163,Premium Bonus Shoes,0,11,2,8,2,922143866,222140041,0,0,0
+40,922230416,Fighter Ninja Bandana,20102021,Premium Bonus Hat,0,11,2,9,2,922143866,622230041,0,0,0
+40,923143811,Mage Ninja Costume (1 day),20301184,Premium bonus Package Item,0,21,2,2,1,923143811,923140381,499,0,1
+40,923140381,Mage Ninja Shirt,20203022,Premium Bonus Shirt,0,21,2,5,2,923143811,223140038,0,0,0
+40,923140391,Mage Ninja Pants,20203067,Premium Bonus Pants,0,21,2,6,2,923143811,223140039,0,0,0
+40,923140401,Mage Ninja Gloves,20203105,Premium Bonus Gloves,0,21,2,7,2,923143811,223140040,0,0,0
+40,923140411,Mage Ninja Boots,20203163,Premium Bonus Shoes,0,21,2,8,2,923143811,223140041,0,0,0
+40,923230411,Mage Ninja Bandana,20103021,Premium Bonus Hat,0,21,2,9,2,923143811,623230041,0,0,0
+40,923143822,Mage Ninja Costume (7 days),20301184,Premium bonus Package Item,0,21,2,2,1,923143822,923140382,499,0,1
+40,923140382,Mage Ninja Shirt,20203022,Premium Bonus Shirt,0,21,2,5,2,923143822,223140038,0,0,0
+40,923140392,Mage Ninja Pants,20203067,Premium Bonus Pants,0,21,2,6,2,923143822,223140039,0,0,0
+40,923140402,Mage Ninja Gloves,20203105,Premium Bonus Gloves,0,21,2,7,2,923143822,223140040,0,0,0
+40,923140412,Mage Ninja Boots,20203163,Premium Bonus Shoes,0,21,2,8,2,923143822,223140041,0,0,0
+40,923230412,Mage Ninja Bandana,20103021,Premium Bonus Hat,0,21,2,9,2,923143822,623230041,0,0,0
+40,923143833,Mage Ninja Costume (30 days),20301184,Premium bonus Package Item,0,21,2,2,1,923143833,923140383,999,0,1
+40,923140383,Mage Ninja Shirt,20203022,Premium Bonus Shirt,0,21,2,5,2,923143833,223140038,0,0,0
+40,923140393,Mage Ninja Pants,20203067,Premium Bonus Pants,0,21,2,6,2,923143833,223140039,0,0,0
+40,923140403,Mage Ninja Gloves,20203105,Premium Bonus Gloves,0,21,2,7,2,923143833,223140040,0,0,0
+40,923140413,Mage Ninja Boots,20203163,Premium Bonus Shoes,0,21,2,8,2,923143833,223140041,0,0,0
+40,923230413,Mage Ninja Bandana,20103021,Premium Bonus Hat,0,21,2,9,2,923143833,623230041,0,0,0
+40,923143866,Mage Ninja Costume (Unlimited),20301184,Premium bonus Package Item,0,21,2,2,1,923143866,923140386,1999,0,1
+40,923140386,Mage Ninja Shirt,20203022,Premium Bonus Shirt,0,21,2,5,2,923143866,223140038,0,0,0
+40,923140396,Mage Ninja Pants,20203067,Premium Bonus Pants,0,21,2,6,2,923143866,223140039,0,0,0
+40,923140406,Mage Ninja Gloves,20203105,Premium Bonus Gloves,0,21,2,7,2,923143866,223140040,0,0,0
+40,923140416,Mage Ninja Boots,20203163,Premium Bonus Shoes,0,21,2,8,2,923143866,223140041,0,0,0
+40,923230416,Mage Ninja Bandana,20103021,Premium Bonus Hat,0,21,2,9,2,923143866,623230041,0,0,0
+40,924143811,Priest Ninja Costume (1 day),20301184,Premium bonus Package Item,0,31,2,2,1,924143811,924140381,499,0,1
+40,924140381,Priest Ninja Shirt,20204022,Premium Bonus Shirt,0,31,2,5,2,924143811,224140038,0,0,0
+40,924140391,Priest Ninja Pants,20204067,Premium Bonus Pants,0,31,2,6,2,924143811,224140039,0,0,0
+40,924140401,Priest Ninja Gloves,20204105,Premium Bonus Gloves,0,31,2,7,2,924143811,224140040,0,0,0
+40,924140411,Priest Ninja Boots,20204163,Premium Bonus Shoes,0,31,2,8,2,924143811,224140041,0,0,0
+40,924230411,Priest Ninja Bandana,20104021,Premium Bonus Hat,0,31,2,9,2,924143811,624230041,0,0,0
+40,924143822,Priest Ninja Costume (7 days),20301184,Premium bonus Package Item,0,31,2,2,1,924143822,924140382,499,0,1
+40,924140382,Priest Ninja Shirt,20204022,Premium Bonus Shirt,0,31,2,5,2,924143822,224140038,0,0,0
+40,924140392,Priest Ninja Pants,20204067,Premium Bonus Pants,0,31,2,6,2,924143822,224140039,0,0,0
+40,924140402,Priest Ninja Gloves,20204105,Premium Bonus Gloves,0,31,2,7,2,924143822,224140040,0,0,0
+40,924140412,Priest Ninja Boots,20204163,Premium Bonus Shoes,0,31,2,8,2,924143822,224140041,0,0,0
+40,924230412,Priest Ninja Bandana,20104021,Premium Bonus Hat,0,31,2,9,2,924143822,624230041,0,0,0
+40,924143833,Priest Ninja Costume (30 days),20301184,Premium bonus Package Item,0,31,2,2,1,924143833,924140383,999,0,1
+40,924140383,Priest Ninja Shirt,20204022,Premium Bonus Shirt,0,31,2,5,2,924143833,224140038,0,0,0
+40,924140393,Priest Ninja Pants,20204067,Premium Bonus Pants,0,31,2,6,2,924143833,224140039,0,0,0
+40,924140403,Priest Ninja Gloves,20204105,Premium Bonus Gloves,0,31,2,7,2,924143833,224140040,0,0,0
+40,924140413,Priest Ninja Boots,20204163,Premium Bonus Shoes,0,31,2,8,2,924143833,224140041,0,0,0
+40,924230413,Priest Ninja Bandana,20104021,Premium Bonus Hat,0,31,2,9,2,924143833,624230041,0,0,0
+40,924143866,Priest Ninja Costume (Unlimited),20301184,Premium bonus Package Item,0,31,2,2,1,924143866,924140386,1999,0,1
+40,924140386,Priest Ninja Shirt,20204022,Premium Bonus Shirt,0,31,2,5,2,924143866,224140038,0,0,0
+40,924140396,Priest Ninja Pants,20204067,Premium Bonus Pants,0,31,2,6,2,924143866,224140039,0,0,0
+40,924140406,Priest Ninja Gloves,20204105,Premium Bonus Gloves,0,31,2,7,2,924143866,224140040,0,0,0
+40,924140416,Priest Ninja Boots,20204163,Premium Bonus Shoes,0,31,2,8,2,924143866,224140041,0,0,0
+40,924230416,Priest Ninja Bandana,20104021,Premium Bonus Hat,0,31,2,9,2,924143866,624230041,0,0,0
+40,420360016,CBT event Medal,20301184,CBT event Medal,0,0,0,0,2,0,420360001,0,0,0
+40,221110421,Slasher Muay Thai Traditional Costume,20201020,Premium Set Item,0,1,2,2,2,0,221110042,499,0,1
+40,221110422,Slasher Muay Thai Traditional Costume,20201020,Premium Set Item,0,1,2,2,2,0,221110042,3144,0,1
+40,221110423,Slasher Muay Thai Traditional Costume,20201020,Premium Set Item,0,1,2,2,2,0,221110042,10030,0,1
+40,221110426,Slasher Muay Thai Traditional Costume,20201020,Premium Set Item,0,1,2,2,2,0,221110042,22500,0,1
+40,222110421,Fighter Muay Thai Traditional Costume,20202020,Premium Set Item,0,11,2,2,2,0,222110042,499,0,1
+40,222110422,Fighter Muay Thai Traditional Costume,20202020,Premium Set Item,0,11,2,2,2,0,222110042,3144,0,1
+40,222110423,Fighter Muay Thai Traditional Costume,20202020,Premium Set Item,0,11,2,2,2,0,222110042,10030,0,1
+40,222110426,Fighter Muay Thai Traditional Costume,20202020,Premium Set Item,0,11,2,2,2,0,222110042,22500,0,1
+40,223110421,Mage College School Uniform Set,20203020,Premium Set Item,0,21,2,2,2,0,223110042,499,0,1
+40,223110422,Mage College School Uniform Set,20203020,Premium Set Item,0,21,2,2,2,0,223110042,3144,0,1
+40,223110423,Mage College School Uniform Set,20203020,Premium Set Item,0,21,2,2,2,0,223110042,10030,0,1
+40,223110426,Mage College School Uniform Set,20203020,Premium Set Item,0,21,2,2,2,0,223110042,22500,0,1
+40,224110421,Priest Muay Thai Traditional Costume,20204020,Premium Set Item,0,31,2,2,2,0,224110042,499,0,1
+40,224110422,Priest Muay Thai Traditional Costume,20204020,Premium Set Item,0,31,2,2,2,0,224110042,3144,0,1
+40,224110423,Priest Muay Thai Traditional Costume,20204020,Premium Set Item,0,31,2,2,2,0,224110042,10030,0,1
+40,224110426,Priest Muay Thai Traditional Costume,20204020,Premium Set Item,0,31,2,2,2,0,224110042,22500,0,1
+40,321260131,Slasher's Angel Wing (1 day),20101231,Premium Bonus Bag,0,1,2,12,2,0,321260013,99,0,1
+40,321260132,Slasher's Angel Wing (7 days),20101231,Premium Bonus Bag,0,1,2,12,2,0,321260013,199,0,1
+40,321260133,Slasher's Angel Wing (30 days),20101231,Premium Bonus Bag,0,1,2,12,2,0,321260013,399,0,1
+40,321260136,Slasher's Angel Wing (Unlimited),20101231,Premium Bonus Bag,0,1,2,12,2,0,321260013,599,0,1
+40,322260131,Fighter's Angel Wing (1 day),20102231,Premium Bonus Bag,0,11,2,12,2,0,322260013,99,0,1
+40,322260132,Fighter's Angel Wing (7 days),20102231,Premium Bonus Bag,0,11,2,12,2,0,322260013,199,0,1
+40,322260133,Fighter's Angel Wing (30 days),20102231,Premium Bonus Bag,0,11,2,12,2,0,322260013,399,0,1
+40,322260136,Fighter's Angel Wing (Unlimited),20102231,Premium Bonus Bag,0,11,2,12,2,0,322260013,599,0,1
+40,323260131,Mage's Angel Wing (1 day),20103231,Premium Bonus Bag,0,21,2,12,2,0,323260013,99,0,1
+40,323260132,Mage's Angel Wing (7 days),20103231,Premium Bonus Bag,0,21,2,12,2,0,323260013,199,0,1
+40,323260133,Mage's Angel Wing (30 days),20103231,Premium Bonus Bag,0,21,2,12,2,0,323260013,399,0,1
+40,323260136,Mage's Angel Wing (Unlimited),20103231,Premium Bonus Bag,0,21,2,12,2,0,323260013,599,0,1
+40,324260131,Priest's Angel Wing (1 day),20104231,Premium Bonus Bag,0,31,2,12,2,0,324260013,99,0,1
+40,324260132,Priest's Angel Wing (7 days),20104231,Premium Bonus Bag,0,31,2,12,2,0,324260013,199,0,1
+40,324260133,Priest's Angel Wing (30 days),20104231,Premium Bonus Bag,0,31,2,12,2,0,324260013,399,0,1
+40,324260136,Priest's Angel Wing (Unlimited),20104231,Premium Bonus Bag,0,31,2,12,2,0,324260013,599,0,1
+40,621230431,Deathless Leather Helmet of  Slasher Costume (1 day),20101023,Premium Bonus Hat,0,1,2,9,2,0,621230043,99,0,1
+40,621230432,Deathless Leather Helmet of  Slasher Costume (7 days),20101023,Premium Bonus Hat,0,1,2,9,2,0,621230043,199,0,1
+40,621230433,Deathless Leather Helmet of  Slasher Costume (30 days),20101023,Premium Bonus Hat,0,1,2,9,2,0,621230043,399,0,1
+40,621230436,Deathless Leather Helmet of  Slasher Costume (Unlimited),20101023,Premium Bonus Hat,0,1,2,9,2,0,621230043,599,0,1
+40,622230431,Deathless Iron Helmet of  Fighter Costume (1 day),20102023,Premium Bonus Hat,0,11,2,9,2,0,622230043,99,0,1
+40,622230432,Deathless Iron Helmet of  Fighter Costume (7 days),20102023,Premium Bonus Hat,0,11,2,9,2,0,622230043,199,0,1
+40,622230433,Deathless Iron Helmet of  Fighter Costume (30 days),20102023,Premium Bonus Hat,0,11,2,9,2,0,622230043,399,0,1
+40,622230436,Deathless Iron Helmet of  Fighter Costume (Unlimited),20102023,Premium Bonus Hat,0,11,2,9,2,0,622230043,599,0,1
+40,323240131,Deathless Leather Eyepatch (1 day),20103151,Premium Bonus Glasses,0,21,2,10,2,0,323240013,99,0,1
+40,323240132,Deathless Leather Eyepatch (7 days),20103151,Premium Bonus Glasses,0,21,2,10,2,0,323240013,199,0,1
+40,323240133,Deathless Leather Eyepatch (30 days),20103151,Premium Bonus Glasses,0,21,2,10,2,0,323240013,399,0,1
+40,323240136,Deathless Leather Eyepatch (Unlimited),20103151,Premium Bonus Glasses,0,21,2,10,2,0,323240013,599,0,1
+40,624710431,Deathless Head Protection of  Priest Costume (1 day),20104023,Premium Bonus Hat,0,31,2,9,2,0,624710043,99,0,1
+40,624710432,Deathless Head Protection of  Priest Costume (7 days),20104023,Premium Bonus Hat,0,31,2,9,2,0,624710043,199,0,1
+40,624710433,Deathless Head Protection of  Priest Costume (30 days),20104023,Premium Bonus Hat,0,31,2,9,2,0,624710043,399,0,1
+40,624710436,Deathless Head Protection of  Priest Costume (Unlimited),20104023,Premium Bonus Hat,0,31,2,9,2,0,624710043,599,0,1
+40,710810492,Lowest Weapon Divine Stone X 10,20301232,Divine Stone,0,0,3,4,2,0,710810049,100,0,1
+40,710810495,Lowest Weapon Divine Stone X 50,20301232,Divine Stone,0,0,3,4,2,0,710810049,899,0,1
+40,710810496,Lowest Weapon Divine Stone X 100,20301232,Divine Stone,0,0,3,4,2,0,710810049,1799,0,1
+40,710810502,Low Weapon Divine Stone X 10,20301233,Divine Stone,0,0,3,4,2,0,710810050,100,0,1
+40,710810505,Low Weapon Divine Stone X 50,20301233,Divine Stone,0,0,3,4,2,0,710810050,899,0,1
+40,710810506,Low Weapon Divine Stone X 100,20301233,Divine Stone,0,0,3,4,2,0,710810050,1799,0,1
+40,710810512,Weapon Divine Stone X 10,20301234,Divine Stone,0,0,3,4,2,0,710810051,100,0,1
+40,710810515,Weapon Divine Stone X 50,20301234,Divine Stone,0,0,3,4,2,0,710810051,899,0,1
+40,710810516,Weapon Divine Stone X 100,20301234,Divine Stone,0,0,3,4,2,0,710810051,1799,0,1
+40,710810522,High Weapon Divine Stone X 10,20301235,Divine Stone,0,0,3,4,2,0,710810052,100,0,1
+40,710810525,High Weapon Divine Stone X 50,20301235,Divine Stone,0,0,3,4,2,0,710810052,899,0,1
+40,710810526,High Weapon Divine Stone X 100,20301235,Divine Stone,0,0,3,4,2,0,710810052,1799,0,1
+40,710810552,Lowest Armor Divine Stone X 10,20301238,Divine Stone,0,0,3,4,2,0,710810055,100,0,1
+40,710810555,Lowest Armor Divine Stone X 50,20301238,Divine Stone,0,0,3,4,2,0,710810055,899,0,1
+40,710810556,Lowest Armor Divine Stone X 100,20301238,Divine Stone,0,0,3,4,2,0,710810055,1799,0,1
+40,710810562,Low Armor Divine Stone X 10,20301239,Divine Stone,0,0,3,4,2,0,710810056,100,0,1
+40,710810565,Low Armor Divine Stone X 50,20301239,Divine Stone,0,0,3,4,2,0,710810056,899,0,1
+40,710810566,Low Armor Divine Stone X 100,20301239,Divine Stone,0,0,3,4,2,0,710810056,1799,0,1
+40,710810572,Armor Divine Stone X 10,20301240,Divine Stone,0,0,3,4,2,0,710810057,100,0,1
+40,710810575,Armor Divine Stone X 50,20301240,Divine Stone,0,0,3,4,2,0,710810057,899,0,1
+40,710810576,Armor Divine Stone X 100,20301240,Divine Stone,0,0,3,4,2,0,710810057,1799,0,1
+40,710810582,High Armor Divine Stone X 10,20301241,Divine Stone,0,0,3,4,2,0,710810058,100,0,1
+40,710810585,High Armor Divine Stone X 50,20301241,Divine Stone,0,0,3,4,2,0,710810058,899,0,1
+40,710810586,High Armor Divine Stone X 100,20301241,Divine Stone,0,0,3,4,2,0,710810058,1799,0,1

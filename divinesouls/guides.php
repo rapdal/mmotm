@@ -57,7 +57,7 @@
                         <div class="right-sep"></div>
 
                         <h2>FEATURED NEWS</h2>
-                        <a href="http://www.dashboard.tm"><img src="images/dashboard.jpg" alt="Dashboard" /></a>
+                        <a href="http://dashboard.tm"><img src="images/dashboard.jpg" alt="Dashboard" /></a>
 
 
                     </div>
